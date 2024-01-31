@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".number91"
+    android:layout_weight="1"
+    android:background="@drawable/reallyoneblur">
+
+    <TextView
+        android:id="@+id/number91"
+        android:layout_width="274dp"
+        android:layout_height="309dp"
+        android:layout_column="0"
+        android:layout_gravity="fill"
+        android:layout_row="0"
+
+        android:gravity="center"
+        android:scrollbars="vertical"
+        android:text="@string/number91"
+        android:textColor="@color/colorAccent"
+        android:background="@drawable/reallyoneblur"
+        android:fontFamily="sans-serif"
+        android:textSize="20sp"/>
+
+    <ImageButton
+        android:id="@+id/pause1"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:background="#474343"
+        android:contentDescription="Pause Button"
+        android:minHeight="48dp"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        app:srcCompat="@android:drawable/ic_media_pause" />
+
+    <ImageButton
+        android:id="@+id/play1"
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_gravity="center"
+        android:background="#474343"
+        android:contentDescription="Play Button"
+        android:minHeight="48dp"
+        app:srcCompat="@android:drawable/ic_media_play" />
+
+    <ImageButton
+        android:id="@+id/like"
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_gravity="right"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="#ffff"
+        android:contentDescription="like button"
+        android:minHeight="48dp"
+        app:srcCompat="@drawable/ic_favorite"
+        tools:ignore="RedundantDescriptionCheck" />
+</GridLayout>

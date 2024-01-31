@@ -1,0 +1,5340 @@
+
+<resources>
+
+    <string name="app_name">Esyo Nyimbo Sya Kristo </string>
+    <string name="Author">MUHINDO MBAVULIKIRA HERITIER</string>
+    <string name="MUTEYA_BUHA_ENGUBI">1. MUTEYA BUHA ENGUBI </string>
+
+    <string name="number1">
+        <htmlData><![CDATA[
+        <b>1. MUTEYA BUHA ENGUBI</b><br>
+        <i>Watchman Blow The Trumpet</i><br>
+        <i>CH 619-Doh is Bb</i><br><br>
+
+    1. Muteya buha engubi, Ukunge mundu ghosi
+        Oyukow’engulu eyi, Atsire amalolo.<br><br>
+
+    <b><i>Erisuba mo :</i></b><br>
+    <i>Muteya we buh’engubi, Ibughaye kutsibu
+    Minyisy’abosi engulu, Balwe omo miriki.</i><br><br>
+
+    2. Ubuhire y’oko bitwa, Omoli n’omo misya;
+        Kandi n’omo ngetsi hosi, Baminye erilama.<br><br>
+
+    3. Ubughaye y’omo nzira, N’ahabisire hosi;
+        Tat’akabalindirira, Byosi byabiryusula.<br><br>
+
+    4. Buhira abatohire, Nabo balamibawe,
+        Yesu akabirikira, Mwase mulamibawe.<br>
+        ]]>
+
+        </htmlData>
+    </string>
+
+    <string name="OMUKAMA_ANEMWASA">2. OMUKAMA ANEMWASA </string>
+    <string name="number2">
+	    <htmlData><![CDATA[
+	    <b>2. OMUKAMA ANEMWASA</b><br>
+	    <i>The Coming King</i><br>
+        <i>CH 546-Doh is G</i><br><br>
+
+        1. Omukama anemwasa, Oyowatwanza kwenene ;
+        Anemwasa erilamya, Abamwasi bosi<br><br>
+
+        <b><i>Erisuba mo :</i></b><br>
+        <i>Ko luyi, ko luyi, Mwami Yesu any’oko luyi
+        Anemwasa, anemwasa, Mulamya oko luyi.</i><br><br>
+
+        2. Binyikalo by’endata, Byabiriberererera;
+        Linw’endambi y’erilama, Lero mwikirirye.<br><br>
+
+        3. Amalwa asyaby’atyahwa, Sihendisyabya buholo;
+        Nikw’ebibi n’oluholo, Byasyaghuswa kundu.<br><br>
+
+        4. Nery’omo kihugho kihya, Twasikala n’erikota,
+        Sihendisyaby’oluholo, Hate n’obulighe.<br>
+
+	    ]]></htmlData>
+    </string>
+
+    <string name="NASYAMULANGIRA">3. NASYAMULANGIRA </string>
+    <string name="number3">
+	    <htmlData><![CDATA[
+	    <b>3. NASYAMULANGIRA</b><br>
+	    <i>Face To Face</i><br>
+        <i>CH 545-Doh is Bb (Moderato)</i><br><br>
+
+        1. Nasyamulangira Yesu, Tuli nay’elubula ;
+        Aho nasyamuminyira, Kwali yo wanyikwira.<br><br>
+
+        <b><i>Erisuba mo :</i></b><br>
+        <i>Nasyamulangira Yesu, Tuli nay’elubula,
+        Nyiminy’erihenia liwe, nasyamupipa kundu.</i><br><br>
+
+        2. Lino ngamulindirira, Akandisyasa kandi ;
+        Ekiro akandisyasa, Ngandisyamulola ko.<br><br>
+
+        3. Twasyatsemera ewuwe, Ahate n’omulighe ;
+        Abatyowa wabiryowa, Ah’omwirimya ate.<br><br>
+
+        4. Twasyatsemer’élubula, Nasyamulangira yo,
+        Nasyabya na Yesu Kristo, Y’Omulamiya waghe.<br>
+
+	    ]]></htmlData>
+    </string>
+
+    <string name="ASYASA">4. ASYASA </string>
+    <string name="number4">
+	    <htmlData><![CDATA[
+	    <b>4. ASYASA</b><br>
+	    <i>He’s Coming</i><br>
+        <i>CH 669-Doh is Bb (Moderato)</i><br><br>
+
+        1. Hali engulu yowene eyo buholo, Yabirilwa hali kutsibu ;
+        Kusangwa Omulamya anemwendisyasa, Kandy’asimya Obwami buwe.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Asyasa, nyasi akandisyasa, Nikw’asyasa kundu kundu,
+        Abaghendi bosi, baluha basyaluhukibwa na Nyamuhanga.<br><br>
+
+        2. Amasinda asyakingukal’ekirw’ekyo, Wa Babuyirir’emuliro ;
+         Esyondeko syabaghotsere ekulimu, basyikala muna kihugho.</i><br><br>
+
+        3. Sihali kindi kikasyatughana kandi, tukandisyimba obutseme ;
+        Ababiritongolibwa basyalw’ehosi, Basyapipa Omwami wabo.<br><br>
+
+        4. Haleluy’amina, Haleluy’erikota, Twamasikya twasyikala yo,
+        Uby’unnasikire kandi ubye n’amaha, Lero wasyambal’Akakira.<br>
+
+	    ]]></htmlData>
+    </string>
+
+    <string name="MUTEYA_WE_MINYISYENDAMBI">5. MUTEYA WE MINYISY’ENDAMBI </string>
+    <string name="number5">
+	    <htmlData><![CDATA[
+               <b>5. MUTEYA WE MINYISY’ENDAMBI</b><br>
+               <i>How Far From Homa</i><br>
+               <i>CH 665-Doh is Eb</i><br><br>
+
+                    1. Muteya we misnyisy’endambi, Ewetu ni hali kwehi ?
+                    Ati : Mwirimya ni munene, Nikwa bukandikya,
+                    Sighulire, genda luba, Suleke erikirirya,
+                     Nikwa ekiro wasyahika, Kiro ky’erikota.<br><br>
+
+                    2. Umubwire kyabugha nawe, Anzubirya ndeke ati :
+                    Amalwa akisiyinahwa, Sulwe omo malwa,
+                    Sughubahe, sukw’obuba, Yitsinge oko mubiri,
+                    Nikwa twasyaban’ébihembo, Twamabisangana.<br><br>
+
+                    3. Ngabulaya ebyabumbawa, Bikanyisubirya bitya:
+                    Ekihugho kikandisyahwa ho, hasyasa ekindi.
+                    Sulir’ebiminyikalo, Bikakangaya hotuli,
+                    Ebindu byosi byabumbawa bilindir’engubi.<br><br>
+
+                    4. Ewetu si hali kutsibu, Tutseme omo Mitima,
+                    Tuhumule ko twasyalama butsira bulighe.
+                    Sulire twasyahika yo, Bulighe bukandisyahwa,
+                    Sitwendisyabul’obuholo mo Muyi wa Tata.<br>
+	    ]]></htmlData>
+    </string>
+
+    <string name="IMWE_BABUYIRIRE">6. IMWE BABUYIRIRE  </string>
+    <string name="number6">
+	<htmlData><![CDATA[
+        <b>6. IMWE BABUYIRIRE</b><br>
+        <i>Watch Ye Saints</i><br>
+        <i>CH 549-Doh is Db</i><br><br>
+
+        1. Imwe ababuyirire, Muteghaye biro byosi ;<br>
+        Muhamb’esiseke syenyu, Lind’Omwamy’ali hakuhi.<br><br>
+
+        <b><i>Erisuba mo :</i></b><br>
+        Omwami, anemwasa. Anemwasa n’erihenia,
+        Yesu arimya engoma, Omwami, anemwasa.<br><br>
+
+        2. Wibuk’Omuhanganiri, Erilamya n’olukogho ;
+        Embita n’erisimibwa, Wibuk’erilama eryo.<br><br>
+
+        3. Sihaly’amami atehwa, Wowe esyongali siwe ;
+        Bwir’abosi olukogho, Ni ndambi y’erilamibwa.<br><br>
+
+        4. Ebihanda byasyahwa ho, Kristo let’Obwami bwawe,
+        Kihugho kisiy’ikahwa, Mutseme babirilama.<br>
+         ]]></htmlData>
+    </string>
+
+    <string name="ASYASWASA_ASYASWASA">7. ASYASWASA, ASYASWASA   </string>
+    <string name="number7">
+        <htmlData><![CDATA[
+        <b>7. ASYASWASA, ASYASWASA</b><br>
+        <i>When He Comes</i><br>
+        <i>CH 415-Doh is E (Moderato)</i><br><br>
+
+        1. Asyaswasa,  Asyaswasa Omulamya wetu,
+        Asyatwala, Asyatwala abandu buwe.<br><br>
+
+        <b><i>Erisuba mo :</i></b><br>
+        Twasyatsema kutsibu, Erya ewa Yesu.
+        N’erikota na kera, Situlilwa yo.<br><br>
+
+        2. Imwe bosi mwangaminya Omwatsi wa Yesu ;
+        Mwangakwama n’omutima, Imwasyalama.<br><br>
+
+        3. Yesu Kristo asyaswasa, Ekiro tutasi ;
+        Umulinde, umulinde ng’Omwami wawe.<br>
+
+        ]]></htmlData>
+    </string>
+
+    <string name="EKIRO_YESU_ASYATWENDA">8. EKIRO YESU ASYATWENDA   </string>
+    <string name="number8">
+	    <htmlData><![CDATA[
+        <b>8. EKIRO YESU ASYATWENDA</b><br>
+        <i>When The Trumpet</i><br>
+        <i>C.S. 865-Doh is Ab</i><br><br>
+
+        1. Ekiro Yesu akasyatwenda abandu buwe;
+        N’engunga ya Yesu ikasyabugha,
+        Abandu buwe bosi bakandisyalwa mwisinda
+        Twasyahindana erya elubula.<br><br>
+
+        <b><i>Erisuba mo :</i></b><br></i></b>
+        Nasyabya yo elubula,
+        Haghuma na Yesu Kristo,
+        Nasyabya yo elubula:
+        Ngandikwama Yesu mo nzira syosi.<br><br>
+
+        2. Yesu amatubirikira omo mitima yetu ;
+        Syanzire abandu bakasyahera
+        Twamaleka ebibi byosi bya balimu babi,
+        Yesu angatulamya lino lino.<br><br>
+
+        3. Inga tukole omubiri wa Yesu gho luba ;
+        Omwirimya akasyahika luba,
+        N’abandu bangi sibasi Omulamiya wetu
+        Tubirikire bo balame lino.
+	    ]]></htmlData>
+    </string>
+
+    <string name="BUHA_ENGUBI">9. BUHA ENGUBI   </string>
+    <string name="number9">
+	    <htmlData><![CDATA[
+            <b>9. BUHA ENGUBI</b><br>
+            <i>Lift Up the Trumpet</i><br>
+            <i>CH 541-Doh is Ab</i><br><br>
+
+            1. Buha engubi bosi bowe yo, Yesu akandisyasa ;
+            Neryo mwimbe banze n’obutseme : Yesu akandisyasa.<br><br>
+
+            <b><i>Erisuba mo :</b><br>
+            Asyahika, Asyahika,Omwami akasyasa.</i><br><br>
+
+            2. Kangiriraya ehosi-hosi,  Yesu akandisyasa ;
+            Asyasa n’erihenia ering : Yesu akandisyasa.<br><br>
+
+            3. Neryo buh’engubi omo ngetsi, Yesu akandisyasa ;
+            Buhir’engubi n’omo biharo: Yesu akandisyasa.<br><br>
+
+            4. Neryo buh’engubi n’omo bitwa, Yesu akandisyasa ;
+            Emyatsi ikaghend’omwihunga : Yesu akandisyasa.<br><br>
+
+            5. Linw’ebihanda byamatsurana, Yesu akandisyasa ;
+            Amenge amakanya uminye : Yesu akandisyasa.<br>
+	    ]]></htmlData>
+    </string>
+
+    <string name="TWASYAHINDANA_ELUBULA">10. TWASYAHINDANA ELUBULA </string>
+    <string name="number10">
+	    <htmlData><![CDATA[
+           <b>10. TWASYAHINDANA ELUBULA</b><br>
+            <i>Shall We Gather</i><br>
+            <i>CH 555-Doh is Eb</i><br><br>
+
+            1. Twasyahindan’élubula, Oko wetu ewa Yesu ;
+            Abandu ababiryanza, batsemire kutsibu-tsibu.<br><br>
+
+            <b><i>Erisuba mo :</b><br>
+            Twasyahindan’élubula, Oko lusi lubuya olw’engebe,
+            Bandu bosi batsemire eyo, Endambi syosi bane yo.</i><br><br>
+
+            2. Baliyo bakimb’olwimbo, Obulighe sibuli yo ;
+            Olwimbo lwa Yesu Kristo, Omukama Munene wetu.<br><br>
+
+            3. Esiseke sisiri yo, Omwirimya ahwere yo ;
+            Yesu Kristo ni Luseke Olwa bandu bosi abiwe.<br><br>
+
+            4. Abayo bali n’amaka, Sibelwala n’erihola ;
+            Ebibi byosi byamahwa, Sibyangatok’eringira yo.<br>
+	    ]]></htmlData>
+    </string>
+
+    <string name="MULAMYA_NGANDIKUKWAMA">11. MULAMYA NGANDIKUKWAMA </string>
+    <string name="number11">
+	    <htmlData><![CDATA[
+       <b>11. MULAMYA NGANDIKUKWAMA</b><br>
+        <i>I Will Follow Thee <br>
+        CH 266-Doh is Ab</i><br><br>
+
+        1. Mulamya ngandikukwama, Aho wanzire hosi ;
+         Aho ukaya ngukwame, Mwami ngandikukwama.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Mulamya ngandikukwama, wanyutir’omusasi
+        Wamabul’oyu kwanzire, Ingye ngandikukwama..</i><br><br>
+
+        2. Nahw’enzira yamakingwa, Naho yamasendibwa ;
+        Mowalaba muyo kera, Ndabemo ngwit’ihenia.<br><br>
+
+        3. Naho wamabya n’endwala, Ngalengwa ko kutsibu ;
+        Wabirirengwa ko nawe, Mwami ngandikukwama.<br><br>
+
+        4. Wamandaby’omo bulighe, Lero namabya Mwera ;
+        Nawe mowabya Omwera, Naghe ngandikukwama.<br><br>
+
+        5. Nomo wangananyitwala No omo mutobero ;
+        Nawe mowasoka utya, Naghe ngandikukwama<br>
+	    ]]></htmlData>
+    </string>
+
+
+    <string name="HALI_EYISOKO_YOSWIRE">12. HALI EYISOKO YOSWIRE</string>
+    <string name="number12">
+        <htmlData><![CDATA[
+        <b>12. HALI EYISOKO YOSWIRE</b><br>
+        <i>There Is A Fountain</i><br>
+        <i>CH 163-Doh is C </i><br><br>
+
+        1. Hali eyisoko yoswire, N’omusasi wa Yesu Kristo ;
+        Oyo anzire erihenia, Angahika ku Yesu,
+        Asyalusibwa ko ebibi, N’engumbu y’enzira nyibi,
+        Oyo anzire erihenia, Angahika ku Yesu.<br><br>
+
+        2. Itwe tunemutsema lingi, Twabiribana Omulamya ;
+        Ali n’akaghala kanene, K’erikinda Sitani.
+        Yesu mwakinda oluholo, Mwalubuka omwisinda,
+        Ali n’akaghala kanene, k’erikinda Sitani.<br><br>
+
+        3. Oyo abirikw’oko muti, Akandisyahika akandi ;
+        N’erisyatutwala eghuwe, Ahate n’omulighe.
+        Tusikaye erina riwe, Tumuh’emitima yetu;
+        Tukandisyahika ewuwe, Ahate n’obiulighe.<br><br>
+
+        4. Mwami nyinemukuhalya ko, Mba erikirirya ry’ekundu ;
+        N’omusasi wawe anyerye, Mba akalamu kawe,
+        Mba akalamu kawe Yesu mban’erilamibwa Nawe;
+        N’omusasi wawe anyerye, Mba akalamu kawe.<br>
+        ]]></htmlData>
+    </string>
+
+    <string name="NYIHENAYE_KWILABAMATWA">13. NYIHENAYE KWILAB’AMATWA</string>
+    <string name="number13">
+        <htmlData><![CDATA[
+        <b>13. NYIHENAYE KWILAB’AMATWA</b><br>
+        <i>Lord Jesus, I Long To Be Perfectly Whole</i><br>
+        <i>CH 592-Doh is A</i> <br><br>
+
+        1. Mwami Yesu nyanzire kunzondola
+        Nyanzire ubye mo mutima waghe
+        Inaleka erisaba esyisumba,
+        Unyeraye nyihenaye kwenene.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Nyihenaye kwilab’amatwa,
+        Umba eryera ngandikutsemesya.</i><br><br>
+
+        2. Mwami undebay’ighune n’ewawe,
+        Mba eriher’obuhere bowene.
+        Butsira eritikatika nyiyihe
+        Unyeraye nyihenaye kwenene.<br><br>
+
+        3. Yesu nyinemukulirira lino ;
+        Nyitoke erikulinda Mukama.
+        Unyuwanaye omo Musasi wawe,
+        Unyeraye nyihenaye kwenene.<br><br>
+
+        4. Mulamya nyinemukulindirira ;
+        Yesu as’umbe omutim’owene
+        Suliwaghan’omundu n’omughuma,
+        Unyeraye nyihenaye kwenene.<br>
+        ]]></htmlData>
+    </string>
+
+    <string name="WOWE_AMAKUTA">14. WOWE AMAKUTA</string>
+    <string name="number14">
+	<htmlData><![CDATA[
+        <b>14. WOWE AMAKUTA</b><br>
+        <i>Hear The Pennies Dropping</i><br>
+        <i>CH 555-Doh is Eb</i><br><br>
+
+        1. Ghowe amakuta, anemutogha ;
+        Ghosi ni wa Yesu, tumutekere.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Togha, togha, togha, togha amakut’ayo,
+        Ghosi ni wa Yesu, Tumutekere.</i><br><br>
+
+        2. Akalw’omo byala, Anemutogha ;
+        Buhere bwa Yesu, Ko Bana buwe.<br><br>
+
+        3. Lino tuli Bana, N’ekyo tuwite ;
+        Neryo twamakula, Tukandikanya.<br><br>
+
+        4. Twamayira bike, Tubihy’Omwami ;
+        Asyangirira byo, Atulamaye.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="YESU_KRISTO_MWANYANZA">15. YESU KRISTO MWANYANZA</string>
+    <string name="number15">
+	<htmlData><![CDATA[
+        <b>15. YESU KRISTO MWANYANZA</b><br>
+         <i>Jesus Loves Me</i><br>
+         <i>C.S. 283-Doh is Eb</i><br><br>
+
+        1. Yesu Kristo mwanyanza, mwaliha olubanza ;
+        Ingye ndi mundu molo, Naye ni wa Kaghala.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Yesu anzire, abandu bosi,
+        Monzo ni Mwenge, Ekyo ni wasingya.</i><br><br>
+
+        2. Yesu Kristo anzire, Imwe  ab’ekihugho;
+        Kumbe mwamabinduka, Iniabah’erilama.<br><br>
+
+        3. Yesu Kristo Mukama, Unyilamaya lino ;
+        Namaleka Sitani, N’ebibi byosi byaghe.<br><br>
+
+        4. Yesu Kristo wasyasa, Wasyanyitwal’ewawe ;
+        Ngandikol’omubiri, Inakulindirira. <br>
+	]]></htmlData>
+    </string>
+
+    <string name="WERAYEBYALA_BYAGHE">16. WERAY’EBYALA BYAGHE</string>
+    <string name="number16">
+	<htmlData><![CDATA[
+       <b>16. WERAY’EBYALA BYAGHE</b><br>
+        <i>I Washed My Hands</i><br>
+        <i>C.S. 569-Doh is Ab</i><br><br>
+
+        1. Weray’ebyala byaghe, Byere kundu kundu ;
+        Ko nabiriha Yesu, Byangamukolera.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Sinendiy’ahandi, N’erimusigha,
+        N’erisiky’oghundi, Ni nawe Yesu.</i><br><br>
+
+        2. Ndegh’amatwi n’eryowa, Nyikol’ébibuya ;
+        Ebyo ngowa ambwira, Bustir’italya byo.<br><br>
+
+        3. Ngateghay’amaboko, Ebyo angakola;
+        Ngunge kw’eryendererya, Akolere Yesu.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="NYIPIPIRE_OLWANZO">17. NYIPIPIRE OLWANZO</string>
+    <string name="number17">
+        <htmlData><![CDATA[
+        <b>17. NYIPIPIRE OLWANZO</b><br>
+        <i>‘Tis Love That Makes Us Happy</i><br>
+         <i>C.S. 567-Doh is Bb</i><br><br>
+
+        1. Nyipipire Olwanzo, Lolukanyibwira ;
+        Riyirira bandi ndeke, Bangaminya Yesu.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Tata we ingye mwana wawe,
+        Tata we ngukwamirire;
+        Nyipipire Olwanzo, Lolukanyibwira
+        Riyirira bandi ndeke, Bangaminya Yesu.</i><br><br>
+
+        2. Ekihugho ky’ebibi, Buligh’erihola ;
+        Sibingaghe erikol’omubiri wa Yesu.<br><br>
+
+        3. Byasyabya byabihwa ho, Twasyay’elubula ;
+        Twasyabya tukamupipa Omwami gh’olwanzo.<br>
+        ]]></htmlData>
+    </string>
+
+    <string name="TUGHENDE_ABASIRIKANI">18. TUGHENDE ABASIRIKANI</string>
+    <string name="number18">
+	<htmlData><![CDATA[
+        <b>18. TUGHENDE ABASIRIKANI</b><br>
+         <i>Onward Christian Soldiers</i><br>
+         <i>CH 360-Doh is E</i><br><br>
+
+        1. Twend’abasirikani, Bandu b’Omwami;
+        Yesu an’embere, Tumukwamire,
+        Tutwaly’omusalama, Atuby’embere,
+        Tukwamirir’eriyalwa tukind’Enzighu:<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Tughende Abasirikani, Tuyalwe twe bose,
+        Tughende na Yesu, Tukind’Enzighu.</i><br><br>
+
+        2. Endeko sya Sitani, Syamakw’obuba;
+        Syamowa Omwami, Isyatibita,
+        Obutseme bw’Ababuyirire kundu;
+        Banemupipa Omwami n’erimusima.<br><br>
+
+        3. E Kanisa y’Omwami ine haghuma;
+        Inemuhangana, Eriyakinda,
+        Siyendighabana ho, Erikirirya;
+        Erikangiriry’ighuma, Mwami Mughuma.<br><br>
+
+        4. Sihaly’Amamy’atehwa, akandisyahwa;
+        Neryo e Kanisa, Ikaksyakota,
+        Kulimu n’oluholo, Sibyesyakinda;
+        Kristo abirilaghana Syaliyiteba.<br><br>
+
+        5. Neryo muyalwe bosi, Tutimbatimbe;
+        Twimbire haghuma, Mirenge yetu.
+        Tumwimbire, tusime, Omwami Yesu,
+        Warihenia lyeryubahwa, kwilaba bosi.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="LEBAYA_SUTEBAWE">19. LEBAYA SUTEBAWE</string>
+    <string name="number19">
+	<htmlData><![CDATA[
+       <b>19. LEBAYA SUTEBAWE</b><br>
+        <i>My Soul, Be On Thy Guard</i><br>
+        <i>CH 358-Doh is C</i><br><br>
+
+        1. Lebaya sutebawe, Ebibi byatimba ;
+        Bikasa eritimba-timba, Mbusuy’elubula.<br><br>
+
+        2. Lebay’iwe usabe, Sulwe omo malwa ;
+        Uhangan’ebiro byosi, Yes’akuwatikya.<br><br>
+
+        3. Uwe suliwakinda, Susighe engabo ;
+        Lebay’amalw’asyahwa, Wasimya akakira.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="IBUKOMUTIMA_WAWE">20. IBUK’OMUTIMA WAWE</string>
+    <string name="number20">
+	<htmlData><![CDATA[
+        <b>20. IBUK’OMUTIMA WAWE</b><br>
+         <i>Awake My Soul<br>
+         CH 355-Doh is G</i><br><br>
+
+        1. Ibuk’omutima waghe, Sonda-sonda byowene ;
+        Ulw’amalwa aghowene, Wasyakokibwa yo.<br><br>
+
+        2. Omukama akusonda, Ghenda luba witabe ;
+        Omukama asyahemba, Ababirikinda.<br><br>
+
+        3. Endeko yikalebaya, Ikakulindirira ;
+        Siwibuke eby’ enyuma, Lol’embere syawe.<br><br>
+
+        4. Mulamya wetu twanzire, Tukasingana kuwe ;
+        Twamasa erikupipa, Tunakusikirye. <br>
+	]]></htmlData>
+    </string>
+
+    <string name="NASA_KU_MUSALABA">21. NASA KU MUSALABA</string>
+    <string name="number21">
+	<htmlData><![CDATA[
+        <b>21. NASA KU MUSALABA</b><br>
+         <i>I Am Coming To The Cross</i><br>
+         <i>CH 600-Doh is G</i><br><br>
+
+        1. Nasa ku musalaba, Nduhire, mwera, mumu;
+        Sindisagha na hake, Ngasonda iwo wene.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Mwami indi n’amahga, Mulamya waghe Mwenge,
+        Nyikangy’embere syawe, Mwami Yesu, nyilamye.</i><br><br>
+
+        2. Nayitsutsa We kera, Mo bulighe bw’ebibi;
+        Yesu mwambwira ati: Asa, Ngakulamaye.<br><br>
+
+        3. Lino nayihaghura, Sinyibuk’ekihugho;
+        Mbye wawe, Mwami Yesu, Imay’ebyaghe byosi.<br><br>
+
+        4. Ndi n’amaha w’ebyawe, Wanywutir’omusasi ;
+        Lino namayikangya, Indi ku Musalaba.<br><br>
+
+        5. Nzemire namalama, Yesu kaghala kaghe;
+        Sindi ho n’ekitingu, Nyipipire Embuli.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="MUYISA_MUYISA">22. MUYISA, MUYISA</string>
+    <string name="number22">
+	<htmlData><![CDATA[
+        <b>22. MUYISA, MUYISA</b><br>
+        <i>Lord, I Hear</i><br>
+        <i>CH 208-Doh is G</i><br><br>
+
+        1. Mwami mb’Omuyisa wawe, Uhitaye gho busa ;
+        We Mulamya sundabe ko, Neryo mba Omuyisa.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Muyisa, Muyisa, Nery’umbe Omuyisa.</i><br><br>
+
+        2. Sunzighe Tata Mubuya, Ebibi byamanduhya ;
+        Ndolere owerighuswa, Nikwa unyighenyere.<br><br>
+
+        3. Namabulir’omo bibi, Namakuhitaniya;
+        Namatimbwa n’ekihugho, Undusaye mo lino.<br><br>
+
+        4. S’undabe ko Omukama, Nyiribule ameso ;
+        Unyiminyisaye Tata, Nzire eby’ekihugho.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="NYUSULE">23. NYUSULE</string>
+    <string name="number23">
+        <htmlData><![CDATA[
+        <b>23. NYUSULE</b><br>
+         <i>Hover O’er Men Holy Spirit</i><br>
+         <i>CH 212-Doh is G</i><br><br>
+
+        1. Kirimu Kibuyirire, Asa ngasibe nawe ;
+        Nyusul’omuyisa wawe, Asa, asa nyusule.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Nyusule, nyusule, Yesu asa nyusule;
+        Nyusul’omuyisa wawe, Asa asa nyusule.</i><br><br>
+
+        2. Wangatok’erinyusula, Nibya ingye sinyasi ;
+        Kirimu kya Nyamuhanga, Asa, asa nyusule.<br><br>
+
+        3. Sinyikalir’indi molo, Nyinekunamira ;
+        Musibikya w’elubula, Mba olwanzo, nyusule.<br><br>
+
+        4. Wase nyere kandi ndame, Luhukya Omutima ;
+        Niwe ukambumulaya, Unyusulaye lino.<br>
+        ]]></htmlData>
+    </string>
+
+    <string name="NYIKWANZIRE_MWAMI">24. NYIKWANZIRE MWAMI</string>
+    <string name="number24">
+	<htmlData><![CDATA[
+        <b>24. NYIKWANZIRE MWAMI</b><br>
+         <i>I Need Thee Every Hour</i><br>
+         <i>CH 258-Doh is Ab</i><br><br>
+
+        1. Nyikwanzire Mwami, Omulamya waghe ;
+        Omulenge wawe, Kalet’obuholo.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Mwitungi n’omo kiro, Nyikwanzire Mwami,
+        Unzumule Mulamya, Tusibe nawe.</i><br><br>
+
+        2. Nyikwanzire Mwami, Mbye hakuhi nawe ;
+        Ndok’ikind’enzighu, Ndi haghuma nawe.<br><br>
+
+        3. Nyikwanzire Mwami, Butseme, bulighe ;
+        Asa, lino-lino : Nyitok’eryeribwa.<br><br>
+
+        4. Nyikwanzire Mwami, Mbwir’ebyo wanzire ;
+        Unyibegheraye, Mukama, Mulamya.<br><br>
+
+        5. Nyikwanzire Mwami, Mwamy’owene kundu ;
+        Nzondole mbye wawe, Uwe Mutsumulwa.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="NYIKUHEBYOSI">25. NYIKUH’EBYOSI</string>
+    <string name="number25">
+            <htmlData><![CDATA[
+        <b>25. NYIKUH’EBYOSI</b><br>
+         <i>All To Jesus, I Surrender</i><br>
+         <i>CH 573-Doh is D</i><br><br>
+
+        1. Yesu mbye wawe, nyikokye, n’ebyaghe ngwite byosi ;
+        Nyikwanzire ngwikirirye, Ngukwame ndambi syosi.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Nyikuh’ebyosi, nyikuh’ebyosi,
+        Mulamya waghe Mubuya, Nyikuh’ebyosi.</i><br><br>
+
+        2. Yesu ndi wawe, nyikokye, Ingye muke ngusabe ;
+        Namughut’eby’ekihugho, Lino Yesu nyikokye.<br><br>
+
+        3. Yesu ndi wawe nyikokye, Mwami nyibye o wawe ;
+        Tum’Omusibiky’Ambwire, Ko nabiribya Wawe.<br><br>
+
+        4. Yesu nyikuhe ebyosi, Musibikya, Mutima ;
+        Nyipipe erighanyira, Ngusab’ebiro byosi. <br>
+            ]]></htmlData>
+        </string>
+
+    <string name="NYINEMWASA_KO_NDI">26. NYINEMWASA KO NDI</string>
+    <string name="number26">
+	<htmlData><![CDATA[
+       <b>26. NYINEMWASA KO NDI</b><br>
+        <i>Just As I Am</i><br>
+        <i>CH 222-Doh is Eb</i><br><br>
+
+        1. Lino nyinemwasa ko ndi, Mulamya, Ndamaye n’omusasi wawe ;
+        Nyitaby’omuleng’akambirikira : Ngasa, Mbuli ya Nyamuhanga.<br><br>
+
+        2. Lino nyinemwasa ko ndi, Mulamya, Nyeray’omutima kw’ebibi ;
+        Uwe mweny’omusasi w’erilamya : Ngasa, Mbuli ya Nyamuhanga.<br><br>
+
+        3. Nyinemwasa ebibi byamanduhya, Ngakindawa ebiro byosi ;
+        Hali bingi ebikanyitimba ko : Ngasa, Mbuli ya Nyamuhanga.<br><br>
+
+        4. Lino nyinemwasa ngye ndi, Muhanya, ndi ne mumu, ndi na mutsiha ;
+        Ebyanganyerya ngabisung’ewawe : Ngasa, Mbuli ya Nyamuhanga.<br><br>
+
+        5. Lino nyinemwasa Unyikokaye, Nyusulaye erikirirya ;
+        Nyitok’ikinda ebikandebaya : Ngasa, Mbuli ya Nyamuhanga.<br><br>
+
+        6. Lino nyinemwasa, mba Lwanzo Lwawe, Iwambohol’omo miriki ;
+        Eritsuka lino namabya wawe : Ngasa, Mbuli ya Nyamuhanga..<br>
+	]]></htmlData>
+    </string>
+
+    <string name="MWAMI_NI_MWENGE">27. MWAMI NI MWENGE</string>
+    <string name="number27">
+        <htmlData><![CDATA[
+       <b>27. MWAMI NI MWENGE</b><br>
+        <i>We Praise Thee O Lord</i><br>
+         <i>C.S. 396-Doh is G</i><br><br>
+
+        1. Mwami ni Mwenge, ka mwatuma Yesu ;
+        N’eritulamya lino mo nzira nyibi.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Haleluya tumukwame, Haleluya kundu,
+        Haleluya Yesu Kristo, Utulamaye. </i><br><br>
+
+        2. Tuyire Yesu, Munene ng’Omwami ;
+        Kusangw’abirihola n’eritulamya.<br><br>
+
+        3. Utusulaye, no Lwanzo lo Lwawe ;
+        N’obuteseme bunene, Bw’ebiro vyosi.<br><br>
+
+        4. Tulek’ebindu, By’ekihugho kino ;
+        Tukwame Yesu Kristo Mukama wetu.<br><br>
+
+        5. Tuhe omuhwa, Tusulaye kundu ;
+        Omundu mundu, Akwanze kundu kundu.<br>
+        ]]></htmlData>
+    </string>
+
+    <string name="NGASONDA_ERYERA">28. NGASONDA ERYERA</string>
+
+    <string name="number28">
+	<htmlData><![CDATA[
+        <b>28. NGASONDA ERYERA</b><br>
+        <i>Take Time To Be Holy</i><br>
+        <i>CH 603-Doh is F </i><br><br>
+
+        1. Ngasonde eryera, Saba suluhe,
+        Usibe n’Omwami, Umusikaye;
+        Wanze Abakristo, Lamy’Abakoni,
+        Siwibirirawe, Erimusaba.<br><br>
+
+        2. Ngasonde eryera, Bungi bw’ebibi,
+        Usibe na Yesu, Ahabisire ;
+        Umusamalire, Wasyabya nga Ye,
+        Bosi basyaminya, Kumusosire.<br><br>
+
+        3. Ngasonde eryera, Akusondole,
+        Eriyibombeka embere siwe,
+        Ko wanabya kosi, Wasyamubwira;
+         Usikaye Yesu, Umowe lino.<br><br>
+
+        4. Ngasonde eryra, Kungo’omutima,
+        Lengekania ndeke, Suyire luba;
+        Wowe Musibikya, Ubye n’olwanzo,
+        Wasyatunganana, Riy’elubula.<br>
+	]]></htmlData>
+    </string>
+    <string name="UBYE_NETU">29. UBYE NETU</string>
+    <string name="number29">
+	<htmlData><![CDATA[
+        <b>29. UBYE NETU</b><br>
+         <i>Abide With Us </i><br>
+        <i>CH 50-Doh is Eb </i><br><br>
+
+        1. Ubye netu n’akaghala kwe,
+        Netu sitwangubaha Sitani,
+        Mo mwirimya w’ekihugho kino,
+        Wangabya luseke lwetu, Kristo.<br><br>
+
+        2. Ubye netu n’erihenia lyawe,
+        Biro ni bike eby’ekihugho,
+        N’Abandu bangabindu luba,
+        Uwe w’Erikota, Ubye netu.<br><br>
+
+        3. Unye netu emighulu yosi,
+        Nindi angatulamya kw’ebibi?
+        Nindi angatuhangania nga We?
+        Tukayiketera We Mukama.<br><br>
+
+        4. Ubye netu, Tata w’Erikota ;
+        Tughaniray’oluholo lwawe,
+        Tukulinde k’omubiri wawe,
+        Yesu Mulamiya, ubye netu.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="ULANGIRE_BWAMIRA">30. ULANGIRE BWAMIRA</string>
+    <string name="number30">
+        <htmlData><![CDATA[
+        <b>30. ULANGIRE BWAMIRA</b><br>
+         <i>Day Is Dying In The West</i> <br>
+        <i>CH 51-Doh is Ab</i> <br><br>
+
+        1. Ulangire bwamira, Bwirire, tuluhuke ;
+        Ebyakakala by’ekiro, Byaka tusabe Omwami, Itwe bosi.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Mwenge, Mwenge, Mwenge : Mwami Yesu,
+        Wayitsungany’ehosi, Byosi bikakupipa : Nyamuhanga.</i><br><br>
+
+        2. Omwami gho Buyingo, Hindany’abakwanzire ;
+        Ubusulaye olwanzo, Ubabindule mo bawe : Bakupipe.<br><br>
+
+        3. Omwirimya akanya, Tukingir’ighenyera ;
+        Tukutwalir’emitima yetu, omo Bwami bwawe : Nyamuhanga.<br><br>
+
+        4. Utuh’erikirirya, Twasyahola Mukama;
+        Twasyabana kyakakala, N’omwirimya asyahwa ho: Tukupipe. <br>
+        ]]></htmlData>
+    </string>
+
+    <string name="LYUBA_LYOMUTIMA">31. LYUBA LY’OMUTIMA</string>
+    <string name="number31">
+	<htmlData><![CDATA[
+        <b>31. LYUBA LY’OMUTIMA</b><br>
+          <i>Sun of My Soul</i><br>
+          <i>CH 321-Doh is f</i><br><br>
+
+        1. Omulamya Lyuba ly’Omutima;
+        Omwirimya syahika ewuwe,
+        Wamabya hakuhi mwami,
+        Sinendisyubaha na hake.<br><br>
+
+        2. Omughulu w’eriyaghotsera,
+        Ngaluhuka emibiri yosi.
+        Umb’erikulengekania,
+        Ngotser’indi haghuma nawe.<br><br>
+
+        3. Undind’omo kiro no mwitungi;
+        Sinangatoka tute haghuma,
+        Undinde omo malighe,
+        Kusangwa singwite amaka.<br><br>
+
+        4. Omughulu nyinemwendibuka;
+        Na ho ngandiya eriyakola,
+        Omo kiro no mwitungi
+        Kusangwa Iwe kyakakala.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="YESU_NIWE_RIBWE">32. YESU NIWE RIBWE</string>
+    <string name="number32">
+	<htmlData><![CDATA[
+        <b>32. YESU NIWE RIBWE</b><br>
+         <i>The Lord’s Our Rock</i><br>
+         <i>CH 505-Doh is F</i><br><br>
+
+        1. Yesu niwe Ribwe ryetu, Obuwamo bw’eritsuku ;
+        Niw’utulamya malighe, N’obuwamo bw’eritsuku.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Ribwe, busayiro bw’abandu, Kitsutsu ky’eriluhukira;
+        Musondoli, Utetalaya, Obuwamo bw’eritsuku.</i><br><br>
+
+        2. Anyilamya omwaghalwa, N’obuwamo bw’eritsuku ;
+        Tuli nawe sindyubaha, N’obuwamo bw’eritsuku.<br><br>
+
+        3. Emigheri yamasenda, N’obuwamo bw’eritsuku ;
+        N’Omulamya wetu kundu, N’obuwamo bw’eritsuku.<br><br>
+
+        4. Ribwe kundu, ry’erilamya, N’obuwamo bw’eritsuku ;
+        Tuwatikye mo malighe, N’obuwamo bw’eritsuku. <br>
+	]]></htmlData>
+    </string>
+
+    <string name="AKANZONDOLA">33. AKANZONDOLA</string>
+    <string name="number33">
+        <htmlData><![CDATA[
+        <b>33. AKANZONDOLA</b><br>
+         <i>He Leadeth Me</i><br>
+        <i>CH 393-Doh is D</i><br><br>
+
+        1. Nyitsemire Omulamya, Akangung’omo Binywa biwe ;
+        Aho ngaya n’erikola, N’okuboko kwa Yesu kunzondole.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Nyitsemire akanzondola, Yesu Musondoli w’ekwenene,
+        Nyanzire erimukolera, N’okuboko kwa Yesu kunzondole.</i><br><br>
+
+        2. Namabya ndi mo bulighe, Kutse nyitsemire kutsibu ;
+        Mo buholo, n’eryaghalwa, N’okuboko kwa Yesu kunzondole.<br><br>
+
+        3. Mwami nyanzire tusibe Nawe sinyiyitonge-tonge ;
+        Nyibye n’obutseme kundu, N’okuboko kwa Yesu kunzondole.<br><br>
+
+        4. Mibiri yaghe yamahwa, Nginde omwighenyera lyawe ;
+        Sindyubaha n’oluholo, N’okuboko kwa Yesu kunzondole. <br>
+        ]]></htmlData>
+    </string>
+
+    <string name="NDI_NOBUHOLO_MO_MUTIMA">34. NDI N’OBUHOLO MO MUTIMA</string>
+    <string name="number34">
+	<htmlData><![CDATA[
+        <b>34. NDI N’OBUHOLO MO MUTIMA</b><br>
+         <i>When Peace Like A River </i><br>
+        <i>CH 31-Doh is E </i><br><br>
+
+        1. Nyanzir’obuholo bombomba ng’olusi, Naho nabya n’obulighe ;
+        Ko nyiri kosi nyanzir’éribugha: Ndi n’obuholo mo mutima.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Buholo, Bubuya, Ndi n’obuholo mo mutima.</i><br><br>
+
+        2. Sitani andebya ngabya n’obuhanua, Ngwity’amaha w’eriminya ;
+        Nikwa Kristo mwasunga ko ndi molo, Kyatuma iniut’omusasi.<br><br>
+
+        3. Nzemire kutsibu, nabiribuyirwa, Sihasigher’ekighuma ;
+        Mobyabambwa nawe ko Musalaba, Mutima waghe sim’Omwami.<br><br>
+
+        4. Mwami Yesu kiro wasyas’eritwenda,  Kirw’ebitu byasyalundwa ;
+        Engub’ibughe, Omwamy’andaghale, Ndi n’obuholo mo mutima. <br>
+	]]></htmlData>
+    </string>
+
+    <string name="NYANZIRYOBWIRA">35. NYANZIRY’OBWIRA</string>
+    <string name="number35">
+	<htmlData><![CDATA[
+        <b>35. NYANZIRY’OBWIRA</b><br>
+          <i>What a Fellowship </i><br>
+        <i>CH 611-Doh is A </i><br><br>
+
+        1. Nyanzir’obwira b’omo lubula, N’amaboko waw’erikota ;
+        Nzemire kundu, nyinasikire, N’amaboko waw’erikota.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Ndame, Ndama, N’amaboko waw’erikota,
+        Ndame, Ndama, N’amaboko waw’erikota.</i><br><br>
+
+        2. Nzemire ko Yesu anzondola,  N’amaboko waw’erikota;
+        Nzungir’amaka atunganene, N’amaboko waw’erikota.<br><br>
+
+        3. Singwire buba, Nyinasikire, N’amaboko waw’erikota ;
+        Namahehera, Nyitunganene, N’amaboko waw’erikota. <br>
+	]]></htmlData>
+    </string>
+
+    <string name="NAMAKWIKIRIRYA">36. NAMAKWIKIRIRYA</string>
+    <string name="number36">
+	<htmlData><![CDATA[
+        <b>36. NAMAKWIKIRIRYA </b><br>
+          <i>My Faith Looks Up To Thee</i><br>
+        <i>CH 246-Doh is Eb </i><br><br>
+
+        1. Namakwikirirya, Mbuli ye Kalwari :
+        We Mulamya; ngusabe unyowe,
+        Ndamaye kw’ebibi: Eritsuka lino, ngukwamire.<br><br>
+
+        2. Nyusul’ighenyera, mba mbita yowene:
+        Mba omuhwa Ko wanyiholera,
+        Ngukangay’olwanzo; Lutehwa lukaka ng’omuliro.<br><br>
+
+        3. Bibi byamatimba, ngayir’obulighe :
+        Unzondole,  Ndusy’omo mwirimya,
+        Ndusaye kw’ebibi; Kandi sundekere hali  Kuwe.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="MBYE_HAKUHI_NAWE">37. MBYE HAKUHI NAWE</string>
+    <string name="number37">
+        <htmlData><![CDATA[
+        <b>37. MBYE HAKUHI NAWE </b><br>
+          <i>Nearer My God To Thee</i><br>
+        <i>CH 382-Doh is G </i><br><br>
+
+        1. Mbye hakuhi nawe, Mwami wetu,
+        Mo nangahanikwa ko Musalaba ;
+        Nabya nyinemwimba, Mbye hakuhi Mwami,
+        Mbye hakuhi Mwami, Nyibye hakuhi.<br><br>
+
+        2. Mbye hakuhi nawe Mwami wetu,
+        Mo Malighe ghosi, Umbanganire.
+        Yesu twikalaye, Tuh’erisasira,
+        Mbye hakuhi Mwami, Nyibye hakuhi.<br><br>
+
+        3. Mbye hakuhi nawe, Mwami wetu ;
+        Unyihanganire ebiro byosi.
+        Enzighu yamasa, Unyibwire Mwami,
+        Mbye hakuhi Mwami, Nyibye hakuhi.<br><br>
+
+        4. Mbye hakuhi nawe, Mwami wetu ;
+        Wabirikingula, Omo lubula,
+        Mulikyetu sika, Ukandilamibwa,
+        Mbye hakuhi Mwami, Nyibye hakuhi. <br>
+        ]]></htmlData>
+    </string>
+
+    <string name="TUKASIKIRA_KU_KRISTO_OLUKUKA">38. TUKASIKIRA KU KRISTO OLUKUKA</string>
+    <string name="number38">
+	<htmlData><![CDATA[
+        <b>38. TUKASIKIRA KU KRISTO OLUKUKA</b><br>
+          <i>Firmly Stand For God</i><br>
+        <i>CH 509-Doh is Eb </i><br><br>
+
+        1. Iwe ghuyitsinge sighuluwe, Nomo wangowa ebikalire ;
+        Wasyahanganibwa n’Olukuka, Twamatimbwa n’ebibi.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Tukasikira ku Kristo Olukuka,
+        We Lukuka tweghemere,
+        Tubye n’obuholo, n’erisasira:
+        Muliro wa Nyamuhanga.</i><br><br>
+
+        2. Yitsinge by’unasikire, Hatikana bya n’erikirirya ;
+        Lukuka lukatuh’erikinda, Muna kihugho ky’ebibi.<br><br>
+
+        3. Yitsinge kundu binatolere, Sighumbaye wasyahabw’isimi,
+        Lukuka lukatuh’obuholo, Twabikind’ebibi byosi. <br>
+	]]></htmlData>
+    </string>
+
+    <string name="NASYABYA_NYINIKIRIRYE">39. NASYABYA NYINIKIRIRYE</string>
+    <string name="number39">
+	<htmlData><![CDATA[
+            <b>39. NASYABYA NYINIKIRIRYE</b><br>
+            <i>My Hope is Built</i><br>
+            <i>CH 581-Doh is G </i><br><br>
+
+            1. Nasyabya nyinikirirye, Musasi gh’Omulamya,
+            Sinendisyakwama ghundi, Nina Yesu Iyo wene.<br><br>
+
+            <b><i>Erisuba mo :</b><br>
+            Kuwe Yesu namimana,
+            Nikwa handi ni museghe,
+            Nikwa handi ni museghe.</i><br><br>
+
+            2. Omwirimy anyiribya, Yesu niw’erighenyera;
+            Mo Malighe n’obuhanya, Syendisyatusighania.<br><br>
+
+            3. Nyeribawe mo Musasi, Yo wamba erimukwama ;
+            Nangabya omo bulighe, Akangwatiky’inyanzikya.<br><br>
+
+            4. Inyasyasa ngo mulenge, Ow’Engunga yisikire ;
+            Nyambal’eritunganene, Sinendibya n’ekitingu. <br>
+	]]></htmlData>
+    </string>
+
+    <string name="MWIKIRIRYE_MUSIKAYE">40. MWIKIRIRYE, MUSIKAYE</string>
+    <string name="number40">
+	<htmlData><![CDATA[
+        <b>40. MWIKIRIRYE, MUSIKAYE</b><br>
+          <i>Trsut And Obey</i><br>
+        <i>CH 582-Doh is F </i><br><br>
+
+        1. Twikale n’Omwami, Twowe ekinyw’ekyo, atuhir’omo nzira mbuya,
+          Tusikaye kundu, Akikale netu, n’abamwikirirye abosi.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Musikaye, sihali erindi  ilama, Yesu musa, Mwikirirye kundu,</i><br><br>
+
+        2. Sihali nzukula, bitu bihindane, Amaseka ibyaseghera;
+        Sihali n’obuba, kutse n’eryubaha, Bikahwa twamamwikirirya.<br><br>
+
+        3. Sitwendighalibwa, kutse n’obulighe, Niw’utuhembula kutsibu ;
+        Sihali obwera, sihali ryaghalwa, Twasyatsumulwa twamasikya.<br><br>
+
+        4. Sitwangayitsutsa, Riyir’obutseme, Twabirek’ebibi byosi ;
+        Kw’ighenyera Liwe, Hitya ahitaye, N’isimi ry’Ababuyirire.<br><br>
+
+        5. Twasyatsemerayo, Haghuma n’Omwami, Twasyabya Naye n’erikota ;
+        Tusikaye kundu, Asyabyatutuma, Sitwendisyubaha na hake.<br>
+	]]></htmlData>
+    </string>
+
+    <string name="YESU_ABYE_NAWE_EHOSI">41. YESU ABYE NAWE EHOSI</string>
+    <string name="number41">
+	<htmlData><![CDATA[
+        <b>41. YESU ABYE NAWE EHOSI </b><br>
+         <i>God Be With You</i><br>
+        <i>CH 35-Doh is D </i><br><br>
+
+        1. Yesu abye nawe ehosi, Neryo twikale haghuma,
+        Akalembera n’amenge, Yesu abye nawe ehosi.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Ekiro twasyahindana yo,
+        Twasyabya haghuma na Yesu,
+        Ekiro twasyahindana yo,
+        Yesu abye nawe ehosi.</i><br><br>
+
+        2. Yesu abye nawe ehosi, Akulind’omo malighe,
+        Asyakulembera kundu, Yesu abye nawe ehosi.<br><br>
+
+        3. Yesu abye nawe ehosi, No ko ndambi y’amalighe,
+        Akuwaty’oko kuboko, Yesu abye nawe ehosi.<br><br>
+
+        4. Yesu abye nawe ehosi, Asyakutsumula kundu,
+        Abatulîre enzîra, Yesu abye nawe ehosi. <br>
+	]]></htmlData>
+    </string>
+    <string name="TWAMIKALA_NABIRA">42. TWAMIKALA N’ABIRA</string>
+    <string name="number42">
+	<htmlData><![CDATA[
+        <b>42. TWAMIKALA N’ABIRA </b><br>
+         <i>With Friends On Earth</i><br>
+        <i>C.S. 866-Doh is Bb </i><br><br>
+
+        1. Twamikala n’abira betu sitwendikw’engitsi,
+        Nikwa twamabighabana, Tukabya n’obulighe.<br><br>
+
+        <b><i>Erisuba mo :</b><br>
+        Kihugho sitweghabana, Twasabya haghuma
+        Mo Kihugho ky’Obuholo, Sitwandighabana.</i><br><br>
+
+        2. Twamibuka abira betu, Tukatsema kundu,
+        Twasyabugh’emibiri yetu, Twasyakotera yo.<br><br>
+
+        3. Sitwendisya-swalaghana yo, Twahik’elubula
+        Twasyaban’eritsema ringi, Twimbe ndambi syosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="RIHOLEMWISI_WA_YESU">43. RIHOL’EMWISI WA YESU</string>
+    <string name="number43">
+	<htmlData><![CDATA[
+        <b>43. RIHOL’EMWISI WA YESU</b><br>
+        <i>Asleep In Jesus </i><br>
+        <i>CH 489-Doh is D</i> <br><br>
+
+        1. Rihol’emwisi wa Yesu, Oko Babuya niya to;
+        Sibebuka n’eririra, Eyo sibangatebibwa.<br><br>
+
+        2. Eriya to omu Yesu, Ni Buluhuke bubuya.
+        Ni butseme bw’abamwasi, Ko basyahabwa engebe.<br><br>
+
+        3. Eriya to omu Yesu, N’eribukibwa mo Naye,
+        N’akaghala k’Omulamya, Sikekindwa n’oluholo.<br><br>
+
+        4. Eriya to omu Yesu, Bakasyowa omulenge,
+        Asisinda syakingulwa,  Abuwe bosi balame <br>
+	]]></htmlData>
+</string>
+
+    <string name="OMUGHULU_MUBÎRÎ_WAGHE_AHWERE">44. OMUGHULU MUBÎRÎ WAGHE AHWERE</string>
+    <string name="number44">
+	<htmlData><![CDATA[
+<b>44. OMUGHULU MUBÎRÎ WAGHE AHWERE </b><br>
+<i> When My Life Work Is Ended</i><br>
+<i>C.S. 849-Doh is Ab</i> <br><br>
+
+1. Omughulu mubiri waghe ahwere hano,
+Ngandihike elubula habuya,
+Nasyamuminya Omutongolya waghe luba
+N’akandisyatsuka erinyikokya.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Nasyaminya Yesu Kristo,
+Kusangwa abirinyitongolya,
+Nasyaminya Yesu Kristo,
+N’esyongolu omo byala biwe.</i><br><br>
+
+2. Abakristo bangi, baghendire emuliro,
+Bakatulinda n’obuholo buwe;
+Twasyatsema haghuma emuliro wa Yesu
+Nikwa nyanzire Mukama ko bosi.<br><br>
+
+3. Nganditsema erilangira obusu buwe,
+N’olwanzo luli oko meso wuwe.
+Ngandisyamupipa busana n’olwanzo luwe
+N’obwenge buwe bwabirinyilamya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="UMBE_BIBLIA">45. UMBE BIBLIA</string>
+    <string name="number45">
+	<htmlData><![CDATA[
+<b>45. UMBE BIBLIA </b><br>
+ <i>Give Me The Bible </i><br>
+<i>CH 655-Doh is Ab </i><br><br>
+
+1. Umbe Bibliya yo yikanzemesya,
+Unyisondolere muyo Mwami,
+Ekyakakala kyayo sikyerima,
+Ko Yesu mwasa eritowisya.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Umbe Bibliya yo yikanzemesya,
+Nzondolwe nay’omo nzira nyike
+Amatehgeko wayo gho mabuya,
+Akaminyisay’enzira kundu.</i><br><br>
+
+2. Umbe Bibliya mo malighe waghe,
+Omughulu ngatimwa n’ebibi,
+Umb’ebinywa ebyo Yesu abugha,
+Nikwa yowen’akambumulaya.<br><br>
+
+3. Umbe Bibliy’ingoleraye kundu,
+Kand’indind’ebitegho by’ahisi,
+Lo Luseke lukak’omo mwirimya,
+‘Lwakangya enzira y’obuholo.<br><br>
+
+4. Umbe Bibliy’imbwir’eby’obuyingo,
+Kandi Utusibikaye muyo,
+Tuminy’enzira ikay’elubula,
+ Tulol’okwihenia lyawe Tata.<br>
+	]]></htmlData>
+</string>
+
+    <string name="EBINYWA_BYENGEBE">46. EBINYWA BY’ENGEBE</string>
+    <string name="number46">
+	<htmlData><![CDATA[
+<b>46. EBINYWA BY’ENGEBE </b><br>
+<i>Sing Them Over Again </i><br>
+<i>CH 574-Doh is G </i><br><br>
+
+1. Akandi wanganyibwira, Ebinywa eby’engebe,
+Ebisihire kwenene, Ebinywa by’engebe;
+Ebinywa bilabire, Ebyosi eby’abandu.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Ni by’engebe, ni by’engebe,
+Ebinywa bya Yesu Kristo
+Ni by’engebe, ni by’engebe
+Ebinywa bya Yesu.</i><br><br>
+
+2. Kristo abiriha bose, Ebinywa eby’engebe,
+Akabirikira lino, Omundu w’ebibi
+Akakuha buyira, butsira erighula.<br><br>
+
+3. Engulu Yowene Yiwe, Ebinywa eby’engebe
+Bikaleta obuholo, Wamamwikiriya,
+Oghundi wangalamya, Sihali no mughuma.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OKO_MUSIKE_WE_YORODANI">47. OKO MUSIKE W’E YORODANI</string>
+    <string name="number47">
+	<htmlData><![CDATA[
+<b>47. OKO MUSIKE W’E YORODANI </b><br>
+ <i>On Jordan’s Stormy Banks</i><br>
+<i>CH 553-Doh is G </i><br><br>
+
+1. Indy’oko musike w’e Yordani, Nasumba ameso,
+Ndangir’ekihugho kye Kanani, Aho ho byaghe biri.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Kihugho kibuya ky’obuholo,
+Yisiry’oko musike aboyire,
+Twasyimbira ho esyonyimbo sya Musa;
+Eribya na Yesu Kristo.</i><br><br>
+
+2. Eyisiry’oko mukokoro, Hali ekyakakala,
+Yesu Kristo asyaby’ekyakaka kyahighahw’ekiro.<br><br>
+
+3. Aho howene nasyahikey’ekiro kyahi kwehi,
+Nasyalangira Tat’omo meso, omo Bwami buwe.<br><br>
+
+4. Nyitsemire omo mutima, Sinyanzir’eryubaha,
+Yorodani ikahuha ndeke, Sindyubah’erisoka.<br>
+	]]></htmlData>
+</string>
+
+    <string name="HASYABYOBUTSEME">48. HASYABY’OBUTSEME</string>
+    <string name="number48">
+	<htmlData><![CDATA[
+<b>48. HASYABY’OBUTSEME </b><br>
+ <i>O There’ll Be Joy </i><br>
+<i>C.S. 553-Doh is C </i><br><br>
+
+1. Twasyatsem’emibiri yahwa, Abakaghesera Yesu,
+Bakandisyiky’emiheke, E Yerusalem’eyo.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Butseme hasyaby’obutseme,
+Sibwesyahwa kera na kera.
+Obutseme buli hakuhi,
+Tuhindanir’ewetu.</i><br><br>
+
+2. Twasyatsema n’erimwimbira, Twasyabya tupipe Yesu,
+Rimusima, rimupipa, E Yérusalem’eyo.<br><br>
+
+3. Twasyatsemera yo kutsibu, Omo syonyumba nyibuya,
+ Yesu abirikokotya E Yerusalem’eyo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="EYO_HAKUHI">49. EYO HAKUHI</string>
+    <string name="number49">
+	<htmlData><![CDATA[
+<b>49. EYO HAKUHI </b><br>
+ <i>One Sweetly Siemn Thought</i><br>
+<i>CH 352-Doh is Bb </i><br><br>
+
+1. Namalengekania, Ewetu ni hakuhi,
+Namaseghera elubula, Ni hakuhi kutsibu.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Eyo hakuhi ni hakuhi,
+Lino ndi hakuhi ye wetu;
+Nyinemwendihika yo.</i><br><br>
+
+2. Omo ngonde sya Tata, Hane yo esyonyumba
+Syabirihimbwa kera kera, Ew’Ababuyirire.<br><br>
+
+3. Nasyabya ndi hakuhi, Nasyikya emiheke,
+Nasyaluhuka omwaghalwa, Nambala erihenia. <br>
+	]]></htmlData>
+</string>
+
+    <string name="IRI_EKIHUGHO_KYOWENE">50. IRI EKIHUGHO KYOWENE</string>
+    <string name="number50">
+	<htmlData><![CDATA[
+<b>50. IRI EKIHUGHO KYOWENE</b><br>
+ <i>There Is A Land</i><br>
+<i>CH 551-Doh is G </i><br><br>
+
+1. Iri ekihugho kwowene, Ekya Tata wetu Mubuya
+Anemukokotya ho wetu, Twasyasiba naye buholo.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Twasyahika bolo, Oko Muyi wa Tata wetu,
+Twasyahindana yo, Oko Muyi mubuya kundu.</i><br><br>
+
+2. Twasyimba oko Muyi oyo, Esyonyimbo sya Yesu Kristo,
+Ahate n’obulighe buke, Kutse erilwala amakoni.<br><br>
+
+3. Wasingya ko Mukama Yesu, Oyo watuholera kera,
+Wasingya ko Mulamya wetu, Oyo watulusya kw’ebibi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TUBATISAYE">51. TUBATISAYE</string>
+    <string name="number51">
+	<htmlData><![CDATA[
+<b>51. TUBATISAYE</b><br>
+ <i>Baptize Us Anew</i><br>
+ <i>CH 525-Doh is Ab </i><br><br>
+
+1. Tubatisaye omo Kirimu,
+Mulamya as’eno, Tuhe Olwanzo.<br><br>
+
+<b><i>Erisuba mo 1 :</b><br>
+Lino Mwami Yesu twakulakira,
+Muka Abuyirire, Tuhe olwanzo.</i><br><br>
+
+2. Tunemulaka, Tulame lino,
+Tughenyere kundu, Twitwa n’ebibi.<br><br>
+
+3. Muka wa Yesu, Twandaghalire,
+Tutsumule kundu, Tuh’Omuyisa.<br><br>
+
+4. Mulengy’uwene, Abugha ati:
+Uli Mwanga waghe, Nyanzire kundu.<br><br>
+
+<b><i>Erisuba mo 2 :</b><br>
+Tunemukusima, N’erikupipa
+Tukakuh’ewasignya, Mwami: Amina.</i><br>
+	]]></htmlData>
+</string>
+
+    <string name="ASA_SOKO_YOMUYISA">52. ASA SOKO Y’OMUYISA</string>
+    <string name="number52">
+	<htmlData><![CDATA[
+<b>52. ASA SOKO Y’OMUYISA</b><br>
+<i>Come Thou Fount</i><br>
+<i>CH 291-Doh is Eb </i><br><br>
+
+1. Asa soko y’omuytisa, mb’omutima ng’usime,
+Esyonyusi esyituma, Twasyakupipa kundu.
+Nyighisaye, risyakupipa, Nyiminy’ihenia lyawe,
+Rikiriry’Obwami bwawe, Rikanyitsemesaya.<br><br>
+
+2. Nyisoghe mbye wawe kundu, Ndi ho busana nawe,
+Nyasi ko washanyitwala, Mbik’ewawe buholo.
+Yesu mwanzond’inyiherire, Nabya haly’omo bibi,
+Asonda ndame luholo, Mwatek’engebe Yiwe.<br><br>
+
+3. Ndi mo mwinda wawe Mwami, busana n’olukogho,
+Nyihire hakuhi nawe, nyiminy’olwanzo lwawe.
+Ndimbwe ko n’ebikandenga ko, Sinangakusighania:
+Imay’omutima waghe, Undinde ndame kundu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KIRIMU_KIBUYIRIRE">53. KIRIMU KIBUYIRIRE</string>
+    <string name="number53">
+	<htmlData><![CDATA[
+<b>53. KIRIMU KIBUYIRIRE </b><br>
+ <i>Holy, Spirit, Faithfully Guide</i><br>
+<i>CH 211-Doh is G </i><br><br>
+
+1. Kirimu Kibuyirire, Bya hakuhi n’Abakristo,
+Ngwaty’okuboko nzondole, Ndi mughendi w’emusitu.
+ Abaluhire batseme, Bow’omulengy’owene,
+ Abwira bo batah’imwe, Mwase ngabatwaly’ewenyu.<br><br>
+
+2. Siwendisyatuhemula, Sulighan’eriwatikya,
+Tubye ne erikirirya, Omo malighe tukwanze.
+Amalighe amahika, Emitima yubaha,
+Mulengy’ati: Batah’imwe: Mwase ngabatwaly’ewenyu.<br><br>
+
+3. Mibiri yetu yasyahwa, Twalindirir’érilama,
+Twibulaye ko tuliyo, Mo Bitabu by’elubula.
+Twisukul’ebikatebye, N’erikirirya Yesu,
+Mulengy’ati: Batah’imwe: Mwase ngabatwaly’ewenyu. <br>
+	]]></htmlData>
+</string>
+
+    <string name="HALYEKYO_NGASABA_MWAMI">54. HALY’EKYO NGASABA MWAMI</string>
+    <string name="number54">
+	<htmlData><![CDATA[
+<b>54. HALY’EKYO NGASABA MWAMI</b><br>
+<i>One Thing Of The Lord </i><br>
+<i>CH 634-Doh is Bb </i><br><br>
+
+1. Haly’eko ngasaba, Mwami!
+Nomonangakola ebibi,
+Unyeraya, Unyeraye,
+Maghetsi, kuts’omuliro.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Nyeribawe, kundu Mwami,
+N’omuliro wamasonda
+Ngus’ebibi, byaheribwa,
+Biheribwe, Biheribye.</i><br><br>
+
+2. Wamatunganany’obwenge,
+Nasyatsema n’erikupipa.
+Nikwa omutima ere,
+Alabire, Alabire.<br><br>
+
+3. Namer’omutima waghe,
+Niho mo nasyabya n’amenge,
+Ngangibawe, wawe Mwami:
+W’elubula, w’elubula.<br><br>
+
+4. Ngayiteghaya ko bibi,
+N’omo malangekania waghe,
+Mwami, n’ebyongola byosi,
+Sindi era, sindi era <br>
+	]]></htmlData>
+</string>
+
+    <string name="SULIWAHIKA_KU_YESU_MULAMYA">55. SULIWAHIKA KU YESU MULAMYA</string>
+    <string name="number55">
+	<htmlData><![CDATA[
+<b>55. SULIWAHIKA KU YESU MULAMYA</b><br>
+ <i>Have You Been To Jesus?</i><br>
+<i>CH 88-Doh is Ab </i><br><br>
+
+1. Suliwahika ku yesu Mulamya? Suliwaheny’omo musasi?
+Wabirikirirya erina liwe? Omutima wawe erine?<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Mutima erire, erire mo musasi wuwe,
+Wabirikirya ku Yesu Kristo,
+Werire mo musasi wuwe.</i><br><br>
+
+2. Unemuhangana mo nzira yiwe, Omutima wawe erire?
+Unemukwam’enzira ye Kalwari, Mukama abirilughula?<br><br>
+
+3. Unemusaba n’omuhwa munene, Omutima wawe erire?
+Unemutula Engulu Yowene, N’omutima wawe erire?<br><br>
+
+4. Unemulinda Omukama Yesu, N’omutima wawe erire?
+Wabirereka enzira y’ebibi, Omutima wawe erire?<br>
+	]]></htmlData>
+</string>
+
+    <string name="NATALIRE_HALI_KU_YESU">56. NATALIRE HALI KU YESU</string>
+    <string name="number56">
+	<htmlData><![CDATA[
+<b>56. NATALIRE HALI KU YESU</b><br>
+ <i>I’ve Wandered Far Away</i><br>
+<i>CH 560 - Doh is A</i><br><br>
+
+1. Natalire hali ku Yesu, Lino namasa,
+Nabiribulir’omo bibi, Lero namasa.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Nyireke, nyireke, Namabitsira,
+Ntirighe unyibuyire, Mwami nyikokye.</i><br><br>
+
+2. Naherir’ebirimo bingi, Lino namasa,
+Namayireta nyilamaye, Lero namasa.<br><br>
+
+3. Nduhir’omo bibi n’eriwa, Lino namasa,
+Mbye n’amaha w’olwanzo lwawe, Lero namasa.<br><br>
+
+4. Yesu mwanyutir’omusasi, Lino namasa,
+Iyo wene wanganyilamya, Lero namasa.<br><br>
+
+5. Ow’engitsi yaghe nyilame, Lino namasa,
+Nyera Mwami mbye ng’amatwa, Lero namasa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OYO_ANZIRE_ASE">57. OYO ANZIRE ASE</string>
+    <string name="number57">
+	<htmlData><![CDATA[
+<b>57. OYO ANZIRE ASE</b><br>
+ <i>Whoseover Hearth?</i><br>
+<i>Doh is D  (Joyfully)</i><br><br>
+
+1. Yesu atwanzire kwilaba bose, Mwakwa oko muti n’eritulamya,
+Mwaheka ebibi by’abandu bosi, Ekyo ni kya wasingya.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Oyo anzire, ase ku Yesu,
+Asyaban’engebe yo y’erikota;
+Oyo amawira, amakw’enyota,
+Angahika ku Yesu.</i><br><br>
+
+2. Birikir’abandu balwe kw’ebibi, Baleke enzira y’erisyahera,
+Bahike ku Yesu yo Mulamiya, Oyo anzire ase.<br><br>
+
+3. Neryo sinangalinda mulikyetu, Luyi lw’elubula lukingukere,
+Yesu ni nzira yo twangakwamire, Nawe wangingira mo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YO_MWAMI_WA_BOSI">58. YO MWAMI WA BOSI</string>
+    <string name="number58">
+	<htmlData><![CDATA[
+<b>58. YO MWAMI WA BOSI</b><br>
+ <i>All Hail The Power</i><br>
+ <i>CH 156-Doh is G </i><br><br>
+
+1. S’inga Mwami w’Erikota , Bosi bakusabe,
+Mulet’embita y’Obwami buwe, Aby’Omwami w’abosi,
+Mulet’embita y’Obwami buwe, Aby’Omwami w’abosi.<br><br>
+
+2. Mwe Banze be Israeli, Mwe bangu, mwe bake,
+Musabe Oyo wabalamaya, Aby’Omwami w’abosi,
+Musabe Oyo wabalamaya, Aby’Omwami w’abosi.<br><br>
+
+3. Bihanda byosi by’ahisi, N’ebitunga byosi,
+Bosi babye banamusikirye, Aby’Omwami w’abosi,
+Bosi babye banamusikirye, Kwali Yo Mwami w’abosi.<br><br>
+
+4. Lero tumwimbire kundu, Tumukukamire,
+Tumupipe ne erimusima, Aby’Omwami w’abosi,
+Tumupipe ne erimusima, Kwali Yo Mwami w’abosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_KRISTO_ATWANZA">59. YESU KRISTO ATWANZA</string>
+    <string name="number59">
+	<htmlData><![CDATA[
+<b>59. YESU KRISTO ATWANZA</b><br>
+<i>Jesus Lover Of My Soul </i><br>
+<i>CH 401-Doh is F</i><br><br>
+
+1. Yesu Kristo watwanza, Uli Mulamya wetu,
+Sitani syatwanzire, Akatukola nabi,
+Yesu Kristo, twamasa, Oko wawe wowene,
+Utulamaye lino, N’omusasi owene.<br><br>
+
+2. Yesu Kristo Mulamya, Watusondire kera;
+Twamabya bandu babi, Utulusye kw’ebibi.
+Utubise ho ghu, Ahate n’obulighe,
+Situwite kaghala, Twamasa utuhe ko.<br><br>
+
+3. Engebe y’erikota, Yikalwa oko wawe,
+Utusulaye lino, N’omutima mubuya.
+Yesu twamakukwama, Utukangaye ndeke,
+Twamalek’ekihugho, Tukwanze biro byosi.<br><br>
+
+4. Mukama mo wanyerya, No omusasi wawe,
+No olukogho lwawe, Lukabanika kuwe.
+Kuwe Mwami ngasunga, Engebe y’erikota,
+Omo mutima waghe, Mukama unyusule. <br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_TUTSEMESAYE">60. YESU TUTSEMESAYE</string>
+    <string name="number60">
+	<htmlData><![CDATA[
+<b>60. YESU TUTSEMESAYE</b><br>
+ <i>Jesus, Thou Joy Of Loving Heart </i><br>
+<i>CH 154-Doh is A </i><br><br>
+
+1. Yesu tutsemesye itwe, Soko y’engebe kyakakala ky’abandu,
+Eritsema lyosi ly’ashisi, Tulitsire n’erikukwamirira.<br><br>
+
+2. Obundu bw’engebe niwe, Tusond’erighulwa nawe biro byosi,
+Soko mbuya ityuma kundu, Tubugh’enyota mo mitima yetu. <br><br>
+
+3. Omuluhi lwetu lungi, Tuyitsutse iwe Mwami wetu Mwenge,
+Wamasika kikutu-kutu, N’obutseme bwetu tuli haghuma. <br><br>
+4. Yesu bya haghuma netu, Tuh’obuholo, tutseme biro byosi,
+Tulamye kw’ebibi byatimba, Kolery’ekyakakala mo kihugho.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KANDI_EKINYWA_KYA_YESU">61. KANDI EKINYWA KYA YESU</string>
+    <string name="number61">
+	<htmlData><![CDATA[
+<b>61. KANDI EKINYWA KYA YESU </b><br>
+ <i>More About Jesus </i><br>
+<i>C.S. 525-Doh is Ab </i><br><br>
+
+1. Kandi ekinywa kya Yesu, Ingye nyanzire eryowa,
+Mwaya ho nangakwirira, Mowa amalighe waghe.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Akandi olwanzo, Olwanzo lwa Yesu;
+Ngandibwira Mulekyetu, y’erighenyera ry’Omwami.</i><br><br>
+
+2. Kandi ekinywa kya Yesu, Ekyo kyalwa elubula,
+Ekikaka ng’oluseke, Omo nzira yaghe yosi.<br><br>
+
+3. Kandi tupip’Omukama, oyo wasa erilamya,
+Oyo wasyaswasa kandi, Eribohol’ekihugho.<br><br>
+
+4. Nyanzir’erikala naye, N’erikania naye kundu,
+Nyitoke eribakangya, Kwali Mwami gh’obuholo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_NYIKWANZIRE">62. YESU NYIKWANZIRE</string>
+    <string name="number62">
+	<htmlData><![CDATA[
+<b>62. YESU NYIKWANZIRE </b><br>
+ <i>My Jesus I Love Thee </i><br>
+<i>CH 276-Doh is F </i> <br><br>
+
+1. Yesu nyikwanzire kundu, Namayiha;
+Mitsye mibi yosi, Ngaghana eyosi.
+Niwe Mulamya waghe, Mubuya ngw’ikirirye,
+Sinyiritakwanza nga, Lino Nyamuhanga.<br><br>
+
+2. Nyikwanzire niwe watsuk’erinyanza;
+Wabirinyighul’oko muti Kalwari.
+Nyikwanzire, Iwe wanyambalira amahwa,
+Sinyiritakwanza nga, Lino Mwami Yesu.<br><br>
+
+3. Nyikwanzire erihika okwihola,
+Nasyabya ngapipa nyinemuhumula.
+N’omughulu w’erihola lyaghe nasyabugha:
+Sinyiritakwanza nga, Lino Mwami Yesu.<br><br>
+
+4. Nasyahik’ewawe wabirikokotya,
+Nasyakupipira yo, Ebiro byosi.
+Nasyakupipa nambal’akakira kabuya;
+Sinyiritakwanza nga, Lino Nyamuhanga. <br>
+	]]></htmlData>
+</string>
+
+    <string name="NINDI_ANGATULAMYA">63. NINDI ANGATULAMYA</string>
+    <string name="number63">
+	<htmlData><![CDATA[
+<b>63. NINDI ANGATULAMYA </b><br>
+ <i>What Can Wash Away My Sin?</i><br>
+<i>C.S. 93-Doh is G </i><br><br>
+
+1. Nindi angatulamya, Nina Yesu Iyo wene,
+Niki kyokyangatwerya, Gh’ono musasi wa Yesu.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Wamatuwaniya, Yesu Omulamya;
+Twabirikiriya, Oko Musasi wa Yesu.</i><br><br>
+
+2. Alihire ebibi, Gh’ono musasi wa Yesu,
+Amalusy’olubanza, Gh’ono Musasi wa Yesu.<br><br>
+
+3. Wangahika hakuhi, Oko Musasi wa Yesu,
+Eyindi nzira siri, Gh’ono Musasi wa Yesu.<br><br>
+
+4. Ni nzira y’Omulamya, Itwe twangamukwamire,
+Atughulire nagho, Gh’ono Musasi wa Yesu.<br><br>
+
+5. Akinda ekihugho, Omusasi wawe Yesu,
+Asyatukoly’endata, Omusasi wawe Yesu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="UKALUHA_UBWIRE_YESU">64. UKALUHA? UBWIRE YESU</string>
+    <string name="number64">
+	<htmlData><![CDATA[
+<b>64. UKALUHA? UBWIRE YESU </b><br>
+ <i>Are You Weary? Tell It To Jesu</i><br>
+ <i>C.S. 515-Doh is Bb</i><br><br>
+
+1. Ukaluha emwisi w’ebibi, Ubwire Yesu, Ubwire Yesu.
+Obulighe bwamakuhika ko? Ubwire Yesu byosi.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Ubwire Yesu, ubwire Yesu, Iye ni Mwira kundu;
+Siwendisyaban’oghundi nga Ye, Ubwire Yesu byosi.</i><br><br>
+
+2. Mbino ukatebibwa n’abandu, Ubwire Yesu, Ubwire Yesu.
+Wamubaha ebinywa by’abandi, Ubwire Yesu Kristo.<br><br>
+
+3. Wamasagha eryendereribwa, Ubwire Yesu, Ubwire Yesu.
+Yesu akandikuh’obutsema, Umubwire ebyosi.<br><br>
+
+4. Wamabya ukubah’oluholo,  Ubwire Yesu, Ubwire Yesu.
+Wamamwikirirya n’omutima, Akandisyakulamya. <br>
+	]]></htmlData>
+</string>
+
+    <string name="KA_LYOWENE_KUNDU_KUNDU">65. KA LYOWENE KUNDU-KUNDU</string>
+    <string name="number65">
+	<htmlData><![CDATA[
+<b>65. KA LYOWENE KUNDU-KUNDU</b><br>
+ <i>Tis So Sweet To Trust </i><br>
+<i>C.S. 588-Doh is Bb</i><br><br>
+
+1. Ka lyowene kundu-kundu, Wamikiriya Yesu.
+Wamikiriry’emibughe, Niyo Mulamya wetu.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Yesu, Yesu namabyanza, Nabirikwanza kundu,
+Yesu, Yesu ka ni Mwira, Namakusima lino.</i><br><br>
+
+2. Ka lyowene kundu-kundu, Wamaleka ebibi.
+Wamabana esyongebe, N’obutseme kwenene.<br><br>
+
+3. Ka lyowene kundu-kundu, Wamaminya Ye Kristo.
+Wamaminya kwasikala, Haghuma netu eno.<br><br>
+
+4. Nyitsemire n’erikwama, N’erikukukamira.
+Yesu mwanza, mwasakana, Ubye naghe Mukama.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NATSEMIRE_KIRO_EKYO">66. NATSEMIRE KIRO EKYO</string>
+    <string name="number66">
+	<htmlData><![CDATA[
+<b>66. NATSEMIRE KIRO EKYO</b><br>
+ <i>O Happy Day </i><br>
+<i>C.S. 399-Doh is G</i><br><br>
+
+1. Natsemire kiro ekyo, Nikiriray’Omulamya.
+Mwanyilusya kw’amalolo, Mwanyerya kw’ebibi byosi.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Tutseme, tutseme, Yesu mwatwera kw’ebibi.
+Mwatukangya erisaba, N’eritsema biro byosi,
+Tutseme, tutseme, Yesu mwatwera kw’ebibi.</i><br><br>
+
+2. Sihali ghundi Mulamya, Nina Yesu Iyo wene.
+Ni Mubuya, amatoka, Amalusya olubanza.<br><br>
+
+3. Abiririha ebibi, Abirkind’oluholo.
+Mwalubuka omw’isinda, Abirikinda Sitani.<br>
+	]]></htmlData>
+</string>
+
+    <string name="ABANZIRWE_NOMWAMI">67. ABANZIRWE N’OMWAMI</string>
+    <string name="number67">
+	<htmlData><![CDATA[
+<b>67. ABANZIRWE N’OMWAMI </b><br>
+ <i>Come We That Love The Lord </i><br>
+<i>CH 640-Doh is G</i><br><br>
+
+1. Abanzirwa n’Omwami, Ni mwase tuyatule,
+Hosi eritsema lyetu, Tusumb’émirenge yetu,
+Tutimb’ékitumbi, Tutimb’ékitumbi.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Tughend’e Sayuni, Omuyi owene kundu.
+Tughend’e Sayuni ko muy’owene wa Nyamuhnga.</i><br><br>
+
+2. Tuleke abaponi, Bakaghana Omwami.
+Nikwa abana b’Omwami, Nikwa abana b’Omwami,
+Mubye mukasima, Mubye mukasima.<br><br>
+
+3. Tutsemer’e Sayunu, Muyi abuyirire.
+Twasyahindana yo bosi, Twasyahindana yo bosi,
+Hasyaby’obuholo, Hasyaby’obuholo.<br><br>
+
+4. Twimbiry’omo kigugho, Sihabye ukalira,
+Twamayahika ewetu, Twamayahika ewetu,
+ Kihugho kibuya, Kihugho kibuya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NDAMIBAWE">68. NDAMIBAWE</string>
+    <string name="number68">
+	<htmlData><![CDATA[
+<b>68. NDAMIBAWE</b><br>
+ <i>Redeemed How I Love... </i><br>
+<i>CH 635-Doh is A</i><br><br>
+
+1. Naghulw’omusasi w’Embuli, Monalam’omwighenyera,
+Lino ndi mwana wawe kundu, Nasyatula gho ehosi.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Ndamibawe, n’omusasi wawe Yesu,
+Nyeraye, Nyeraye, Ndi mwana wawe kwenene.</i><br><br>
+
+2. Nyipipe Yesu wanyilamya, Nyinemutsema kutsibu,
+ Niwe kyakakala kibuya, Unzondol’ebiro byosi.<br><br>
+
+3. Sinyibiriraw’Omulamya, Nyinemukulengekania,
+Sindiluha erimusima, Ngapipa olwanzo luwe.<br><br>
+
+4. Nyasi ko nasyamulola ko, Nasyatsemera ewuwe,
+Akandinda ndeke ehosi, Mumusibire n’erimba.<br><br>
+
+5. Ndi n’amaha kwambikire ho, Kakira omo lubula,
+Lero twasyabya naye kundu, N’abamwikirirye bosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWASYAPOLYA_KO_AWENGEBE">69. TWASYAPOLYA KO AW’ENGEBE</string>
+    <string name="number69">
+	<htmlData><![CDATA[
+<b>69. TWASYAPOLYA KO AW’ENGEBE</b><br>
+<i>We’ll Tarry By The Living Waters </i><br>
+<i>C.S. 206-Doh is Eb</i><br><br>
+
+1. Twasyapolya oko w’engebe, Isoko nyibuya,
+Aho Yesu asyatulinda, Hindana lyowene.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Twasyapolya oko w’engebe, Twasyapolya oko w’engebe.
+Twasyapolya oko w’engebe, Twasyasib’okw’isoko.</i><br><br>
+
+2. Twamaluhibwa n’emibiri, Tuluhuke eyo,
+Ko maghetsi asongokwere, Kw’isoko nyibuya.<br><br>
+
+3. Tughende k’Omukama Kristo, Atuh’érilama,
+Kandi tuminye kw’akalamya, Tunywe enyot’ihwe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUGHULU_YESU_ASYAHINDANIA_AMAMI">70. MUGHULU YESU ASYAHINDANIA AMAMI</string>
+    <string name="number70">
+	<htmlData><![CDATA[
+<b>70. MUGHULU YESU ASYAHINDANIA AMAMI </b><br>
+<i>When Jesus Shall Gather Kingdoms</i><br>
+<i>CH 538-Doh is F</i><br><br>
+
+1. Mughulu Yesu syahindany’Amami, Bahangan’embere siwe;
+Itwe twasyabya tuti omo mbanza, Kiro ky’eriyateghekwa.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Asyahunik’engan’omo kighona, Neryo omusung’asyaghuswa.
+Itwe twasyabya tuti omo mbanza, Sy’ekiro ky’erilubuka.</i><br><br>
+
+2. Ndindy’asyow’Omulamya abugh’ati: Uli mughombe mubuya,
+Kutse asyakwa buba abwirw’ambu: Lwa ho, ghenda sinyikwasi.<br><br>
+
+3. Tuteghaye tulindiriry’Omwami, N’esiseke sinemwaka,
+Omukwe eghaye itunemuteya, Twe bosi abana buwe.<br><br>
+
+4. Tubye tukaghaniry’eby’elubula, Olughendo lwasyahwa ho,
+Twasyahangana embere sy’Omwami, Twamatendisub’enyuma. <br>
+	]]></htmlData>
+</string>
+
+    <string name="NZAKIRWE_MO_KWEHI">71. NZAKIRWE MO KWEHI?</string>
+    <string name="number71">
+	<htmlData><![CDATA[
+<b>71. NZAKIRWE MO KWEHI?</b><br>
+<i>Is My Name Written There?<br>
+CH 617-Doh is Ab </i><br><br>
+
+1. Sindikwa engitsi y’efeza n’ezahabu,
+Nyanzir’eby’elubula, Nyibye n’ababuya.
+Yesu Mulamya mbwira: Ekitabu kiwe,
+Kundu ky’Obwami buwe: Nzakirwe mo kwehi?<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Nzakirwe mo kwehi, Kitabu Kibuya,
+Mo Kitabu ky’Obwami: Nzakirwe mo kwehi.</i><br><br>
+
+2. Ebibi byaghe Mwami, Bingi ko museghe,
+Asa, Mwami, Nyeraye mo musasi wawe.
+Wabirilaghana kw’ebibi byetu byosi,
+Byamasos’omunyama, Wasyeryabyo kundu.<br><br>
+
+3. Omo Muyi Mubuya, N’enyumba nyibuya,
+N’ababuya bane mo, Bambity’obubuya.
+N’ebibi sibiri yo, By’eribihya eyo,
+ Ho hali obuholo, Nzakirwe mo kwehi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="HALI_OLUBANZA">72. HALI OLUBANZA</string>
+    <string name="number72">
+	<htmlData><![CDATA[
+<b>72. HALI OLUBANZA </b><br>
+<i>The Judgment Has Set </i><br>
+<i>CH 482-Doh is Ab</i><br><br>
+
+1. Haly’olubanza binemutondolwa, Twasyayira tuti kwehi?
+Twahik’emuliro gh’Omutsweri, Aban’ebyo twakola byosi.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Twasyayira tuty’ekirw’ekyo? Twasyayira tuty’ekirw’ekyo?
+Twasyabya tunemuteya kwehi? Kutse twasyakindwa n’ebibi?.</i><br><br>
+
+2. Syabiritsuk’omo babirihola, Syasyasa n’omo bali  ho,
+Twasyaleberibw’omo Masako, Ayo ni mulangiri wetu.<br><br>
+
+3. Twasyabugha tuti eky’omo mbanza, Ebitabu byasanzulwa;
+Mundu mundu abwiraw’ebiwe, Atawite omutongolya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMWAMI_AKABIRIKIRA">73. OMWAMI AKABIRIKIRA</string>
+    <string name="number73">
+	<htmlData><![CDATA[
+<b>73. OMWAMI AKABIRIKIRA </b><br>
+ <i>Called To The Feast </i><br>
+<i>CH 537-Doh is Eb </i><br><br>
+
+1. Omwami akabirikira, Atuhindanaye n’abuwe;
+Asyatweya ituli tuti: Ahw’asyasira.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Mwana wa Tata we Asa, Nikw’Omwamy’asyasa,
+Twasyayira tuti kwehi? Omwami asa.</i><br><br>
+
+2. Twasyambalibwa asyombita, Omutongolya asingibwa,
+Twasyabya naye n’erikota, Ahw’asyasira.<br><br>
+
+3. Ngokw’eripalya asyaswasa, Nikwa asyakangya ebyosi;
+Asyakangy’ebyosi twakola, Ahw’asyasira.<br><br>
+
+4. Asyatsemer’Abana buwe, Bambal’embita yihenirye;
+Twamakinda twasyatsema yo, Ahw’asyasira.<br><br>
+
+5. Sitwendisyasighana kandi, Abaghan’erimwowa bosi;
+Basyalaka n’erisyalira, Ahw’asyasira.<br><br>
+
+6. Mwami tuli n’amaha wawe, Twighisy’erikulindirira;
+Sitwesyubaha twalangira, Kiro wasyasa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="BIBA_OMO_NGYAKYA">74. BIBA OMO NGYAKYA</string>
+    <string name="number74">
+	<htmlData><![CDATA[
+<b>74. BIBA OMO NGYAKYA</b><br>
+<i>Sowing In The Morning </i><br>
+<i>CH 621-Doh is C </i><br><br>
+
+1. Biba omo ngyakya, Embuto syowene;
+Ubibe mwitungi hik’omwigholo.
+Lindirira syere, N”erighesa lyahwa,
+Twasyatsema kundu, Tune n’engano.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Mulety’engano, Mulety’engano,
+Twasyatsema kundu, Tune n’engano
+Mulety’engano, Mulety’engano,
+Twasyatsema kundu, Tune n’engano.</i><br><br>
+
+2. Bib’eryuba ryasa, Biba n’omo mbeho,
+Susagh’ekilumbi n’embeho nyingi.
+Erighesa ryahwa, n’emibiri yahwa,
+Twasyatsema kundu, Tune n’engano.<br><br>
+
+3. Twende tukalira, Tubibiry’Omwami;
+Twamabya n’obulighe bw’abahera.
+Kiro twasyakiranibwa n’Omukama,
+Twasyatsema kundu, Tune n’engano.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMULENGE_GHOMULISYA">75. OMULENGE GH’OMULISYA</string>
+    <string name="number75">
+	<htmlData><![CDATA[
+<b>75. OMULENGE GH’OMULISYA </b><br>
+<i> Hark Tis The Shepherd’s Voice </i><br>
+<i>CH 625-Doh is Ab</i><br><br>
+
+1. Omulenge gh’Omulisya, Akabirikira Eka;
+Kw’esyombuli syaherire, Mo buhyo ni ho syalwire.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Ni mwase, ni mwase, Tusisonday’omo musitu,
+Ni mwase, ni mwase, Tusisubaye ku Yesu.</i><br><br>
+
+2. Tutabale Omulisya, Tusondaye esyatere,
+Tusisubay’omo buhyo, Ho syangabalir’émbeho.<br><br>
+
+3. Syamamir’omo  musitu, Syamahika omo ngwangwa;
+Omwamy’akababwir’ati: Musond’esyombuli syaghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="LAMYA_ABEBIBI">76. LAMYA AB’EBIBI</string>
+    <string name="number76">
+	<htmlData><![CDATA[
+<b>76. LAMYA AB’EBIBI</b><br>
+ <i>Rescue The Perishing </i><br>
+<i>CH 623-Doh is Bb</i><br><br>
+
+1. Lamya ab’ebibi, lamy’abakoni ;
+Balusy’obulighe n’oluholo.
+Habul’abatere, Sumb’abawire,
+Babwire ko Yesu akalamya.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Lamya ab’ebibi, lamy’abakoni
+Yesu Mughenyeri, Akalamya.</i><br><br>
+
+2. Bamusekererya, Syalibaghana,
+Akalinda abatabuke.
+ Bakune batsire, Ubasabire;
+ Mo malighe asyababuyira.<br><br>
+
+3. Kung’abaherire, Munasesene ;
+Balek’engumbu y’ebitowene;
+Basule olwanzo, Bakole ndeke,
+Basub’oko Muhangiki wabo.<br><br>
+
+4. Lamya ab’ebibi, Bikutolere;
+Omwami asyakuh’akaghala,
+Usondol’abosi Mo nzira nyike,
+Minyisy’enduli kwa syalamibwa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="INGYE_NYANZIRE_ENGULU">77. INGYE NYANZIRE ENGULU</string>
+    <string name="number77">
+	<htmlData><![CDATA[
+<b>77. INGYE NYANZIRE ENGULU </b><br>
+ <i>I Love To Telle The Story </i><br>
+<i>CH 518-Doh is Ab</i><br><br>
+
+1. Ingye nyanzire Engulu, Yo ya Yesu Mukama;
+ Eritula omwatsi, ghoyo wahol’oko muti.
+ Ghoyo waly’omwisinda, Ghoyo  kandisyahika,
+  N’eritutwal’ewuwe, Aherihenia.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Ingye nangatula gho, oko bihanda byosi,
+Olwanzo lwa Yesu Kristo, Mwami Oyo wetu.</i><br><br>
+
+2. Ingye nyanziry’omubiri, wa Yesu we Kalwari,
+Kusangwa mwanyilusya k’olubanza w’erihera.
+N’eririha ebibi, mwanyitongolya kundu,
+N’ekyo kyokyangatuma: Inamukolera.<br><br>
+
+3. Ingye nyanzir’éritula, Omwatsi gho’omusasi ;
+ N’esyodudy’omo byala, N’eritum’omo lukanga.
+ Mobyaghaly’Omukama, Oyo Mubuyirire,
+ Kusangwa atwanzire, Wasingy’oku Yesu.<br><br>
+
+4. Ingye nyanzire Kitabu, Eky’Omukama Yesu;
+Kikanyibwir’Omwatsi, Y’obuholo bw’egh’Omwami.
+Kikanyibwir’Omwatsi, w’engebe y’erikota;
+Ilabire emyatsi yosi y’ekihugho.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TULAMAYE_ABAHERIRE">78. TULAMAYE ABAHERIRE</string>
+    <string name="number78">
+	<htmlData><![CDATA[
+<b>78. TULAMAYE ABAHERIRE </b><br>
+ <i>Seeking The Lost</i><br>
+<i>CH 532-Doh is Eb</i><br><br>
+
+1. Neryo tulamaye abatere;
+Abatere hali ku Yesu.
+Tubahindule mo Ngulu Yiwe,
+Baminye k’Omwamy’abanzire.<br><br>
+
+<b><i>Erisuba mo :</b><br>
+Tuye hosi (Tuye hosi) Tweghay’abandu bosi,
+Tuletere (Tuletere) Yesu baherire.
+Tuby’omo buhyo (Tuby’omo buhyo)
+By’Omulamya wetu
+Yesu wayiha oko b’ebibi.</i><br><br>
+
+2. Tuletere Yesu abatere,
+Abolo bate n’akaghala.
+Bakangay’aho basyalamira,
+Baminye enzira y’Engebe.<br><br>
+
+3. Tughende ngoko Yes(u) atutuma,
+Tubye tunemumukolera.
+Lamy’abakoni, Sumb’abawire,
+Sondol’abatere ku Yesu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="AMALIMA_ERIRE">79. AMALIMA ERIRE</string>
+    <string name="number79">
+	<htmlData><![CDATA[
+<b>79. AMALIMA ERIRE</b><br>
+ <i>Far And Near The Field</i><br>
+<i>CH 448-Doh is F</i><br><br>
+
+1. Amalima erire ehosi ni ndambi y’erihulula,
+Lino ni ndambi y’erihulula Mukokoro n’oko bitwa.<br><br>
+
+<b><i>Erisuba mo  :</i></b><br>
+<i>Mwami utume abaghesi tulame Mwami w’erikota,
+Batume bahindanay’amulo; Omughulu akine ho.</i><br><br>
+
+2. Ubatume omo ngyakya-ngyakya, Utume bo n’omw’itungi,
+N’endambi y’eryuba n’erirenga, Bahamule bayaghese.<br><br>
+
+3. Mughombe gh’Omwami, Yir’omuhwa hindanay’eby’erigheswa,
+Nerw’ekiro wasyabugh’ebyosi, Wasyatsemer’elubula.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TUKOLE">80. TUKOLE</string>
+    <string name="number80">
+	<htmlData><![CDATA[
+<b>80. TUKOLE</b><br>
+ <i>To The Work</i><br>
+<i>CH 576-Doh is F</i><br><br>
+
+1. Tukole n’omuhwa, tukolere Yesu,
+Tughende tukolere Omwami wetu;
+Kinywa kiwe ky’okikatuh’akaghala,
+Tuyiry’omuhwa mungi twikiriraye.<br><br>
+
+<b><i>Erisuba mo  :</i></b><br>
+<i>Tukole, tukole, tukole, tukole,
+Tuminye, tusike, tulindirire Omwami,</i><br><br>
+
+2. Tukole n’omuhwa, lamy’abawirire,
+Sondol’abaluhire ah’erilama,
+N’erikangirirya Engulu Yowene,
+Tuyihalambire oko Musalaba.<br><br>
+
+3. Tukole n’omuhwa, Tuyabwir’abosi,
+Ko amami wa hisi akandisyahwa,
+Kandi Omwami asyapipwa n’abosi,
+Ababuya basyimbira erilama.<br><br>
+
+4. Tukole n’omuhwa, Omwamy’ase luba,
+Ekiro ky’erighesa kyamabihika.
+Tuy’elubula ew’ababirilama,
+Twasyabya n’erimba ko twabirilama.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KOLOMUBIRI_WAWE">81. KOL’OMUBIRI WAWE</string>
+    <string name="number81">
+	<htmlData><![CDATA[
+<b>81. KOL’OMUBIRI WAWE</b><br>
+<i>Work For the Night Is Coming<br>
+CH 446-Doh is F</i><br><br>
+
+1. Kol’omubiri wawe, Bukinalolire;
+Kola hakin’ekimi, Subye mughata.
+Kola bukiri mw’itungu, S’uluhe na hake,
+Kol’omubiri wawe, Bugh’emibiri.<br><br>
+
+2. Kol’omubiri wawe, Kola n’omw’itungi;
+Kola ebiro byosi, Sighuluhuke.
+Omo ndambi ukiriho, Uyitsingirire,
+Ukole bute bwira, Bugh’emibiri.<br><br>
+
+3. Kol’omubiri wawe, Lino bulolire;
+Bukasonda erira, Tayira luba.
+Erihika n’omo kiro, Eryuba ryalenga,
+Uyitsing’erikola, Bugh’emibiri.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMO_NGYAKYA">82. OMO NGYAKYA</string>
+    <string name="number82">
+	<htmlData><![CDATA[
+<b>82. OMO NGYAKYA Lord,</b><br>
+<i>In The Morning<br>
+CH 39-Doh is F </i><br><br>
+
+1. Omo ngyakya nyinemwimba,
+Nyikupipe Mwami,
+Nguhe erisaba lyaghe,
+Mwami ngwikirirye.<br><br>
+
+2. Mwami unzondole kundu,
+Mo nzira nyibuya,
+Unyiminyisay’obwenge,
+Miny’ebitolere.<br><br>
+
+3. Bakakeng’Erina lyawe,
+ Ubye ukowa bo,
+ Ubaswike olukogho,
+ Balamy’amalighe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUKENGERINA_LYOMWAMI">83. MUKENG’ERINA LY’OMWAMI</string>
+    <string name="number83">
+	<htmlData><![CDATA[
+<b>83. MUKENG’ERINA LY’OMWAMI</b><br>
+ <i>O For Thousand Tongues<br>
+CH 155-Doh is A </i><br><br>
+
+1. Mwase tupipe Omwamo tuti: Erina lyawe rikengwe,
+Mwami ni We w’erihenia lyosi, Erina lyawe rikengwe.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Mukeng’Erina,  Mukeng’Erina, Mukeng’Erina,ly’Omwami,
+Mukeng’Erina,  Mukeng’Erina, Mukeng’Erina,ly’Omwami.</i><br><br>
+
+2. Yesu Rina, rikabugh’obuba, Mukeng’Erina ly’Omwami,
+Mweny’ebibi ngamukwama lino, Mukeng’Erina,ly’Omwami.<br><br>
+
+3. Atulamya kaghala k’ebibi, Mukeng’Erina ly’Omwami,
+Omusasi wawe atulamya, Mukeng’Erina,ly’Omwami.<br><br>
+
+4. Mulenge wuwe mubuya kundu, Mukeng’Erin ly’Omwami,
+Abandu bosi babughe bati : Mukeng’Erina ly’Omwami.<br><br>
+
+5. Esyondimi syosi syimbe siti:  Mukeng’Erina ly’Omwami,
+Yesu Kristo Yowatuholera, Mukeng’Erina,ly’Omwami.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TUPIPYOMWAMI_NI_MWENGE">84. TUPIPY’OMWAMI NI MWENGE</string>
+    <string name="number84">
+	<htmlData><![CDATA[
+<b>84. TUPIPY’OMWAMI NI MWENGE</b><br>
+<i>Praise God From Whom<br>
+CH 683-Doh is G </i><br><br>
+
+1. Tupipy’Omwami ni Mwenge,
+Tumupipa bandu bosi,
+Mumupipe Abalaika.
+Isse, Mwana n’Ekirumu. Amina<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYIPIPIRE_NYAMUHANGA">85. NYIPIPIRE NYAMUHANGA</string>
+    <string name="number85">
+	<htmlData><![CDATA[
+<b>85. NYIPIPIRE NYAMUHANGA</b><br>
+<i>I Sing The Mighty Power<br>
+CH 93-Doh is Eb</i> <br><br>
+
+1. Nyipipire Nyamuhanga wahangik’ebitwa,
+Yowasesa esyongetsi, Mwahangik’ekyanya.
+Nyipipy’oyo wah’eryuba, Eryaka omwitungi,
+Yowahira omukera, N’engununu syosi.<br><br>
+
+2. Mbipy’olukogho lw’Omwami, Wasulay’akalyo
+  Mwahangik’omo kinyw’ekyo, Ebirihw’ebyosi.
+  Eby’eriswekera byawe, Ngalangira ehosi,
+  Hano hisi n’elubula, Esyo ndambi syosi.<br><br>
+
+3. Sihali kike n’ekike, Kitetukangaya,
+Embula n’eryuba biry’okwitegheka lyawe.
+Ukah’ebiri h’omuka, Kand’ukatung’ebyosi,
+Situsaghe Nyamuhanga, Lero aly’ehosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TUPIPE_OMWAMI">86. TUPIPE OMWAMI</string>
+    <string name="number86">
+	<htmlData><![CDATA[
+<b>86. TUPIPE OMWAMI</b><br>
+<i>O Worship The King<br>
+CH 75-Doh is A </i><br><br>
+
+1. Tupipe Omwami w’ekihugho,
+Na kandi mwimbe, Tumusime Yesu.
+Akatulembera, Akatubika;
+Netu twamusaba, N’erih’ewasignya.<br><br>
+
+2. Tubwir’abandu, Emyatsi yiwe,
+Sitwangaluha, Akaha akaghala.
+Iye ni Munene, Akatabala,
+Mwah’engebe Yiwe, Erilamy’abandu.<br><br>
+
+3. Awity’amaka, Kwilab’abosi,
+Lwanzo lwa Yesu, Lwalet’obuholo.
+Abirituyira mo bana buwe ;
+Ng’abaghala buwe, Twangamukolera.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TATA_TWASAHULI">87. TATA TWAS’AH’ULI </string>
+    <string name="number87">
+	<htmlData><![CDATA[
+<b>87. TATA TWAS’AH’ULI</b><br>
+ <i>Father, We Come To Thee<br>
+CH 599-Doh is F </i><br><br>
+
+1. Tata twas’ah’uli, Tutawity’oghundi,
+Niw’ukatulamya, Tutsumule,
+Twabya tutesiba, Tuly’omo malighe,
+Utuluhukaye, Tata Mwenge.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Tata twas’ah’uli, S’utughane,
+Wasi erilamya, Towe lino.</i><br><br>
+
+2. Tulusy’ekw’enzighu, Tulamy’obulighe,
+ Utuhumulay’omo malighe,
+ Situwity’amaka, Tusul’akaghala,
+ Utuhe amak’imotwakinda.<br><br>
+
+3. Tusule olwanzo, Tuby’abawe kundu,
+Tusondol’ewawe, Twase kuwe,
+Tubye nawe Mwami, Nomo twangahola,
+Sitwibirirawe tubye nawe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="SUNYILABE_KO">88. SUNYILABE KO </string>
+    <string name="number88">
+	<htmlData><![CDATA[
+<b>88. SUNYILABE KO</b><br>
+<i>Pass Me Not<br>
+CH 599 Doh is Ab</i><br><br>
+
+1. S’unyilabe ko Mulamya, We ngayitsutsa,
+ Wamalenderer’abandi, Naghe s’unzighe.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Uwe Mulamya, We ngayitsutsa,
+Wamalenderer’abandi, Naghe s’unzighe.</i><br><br>
+
+2. Mbye hakuhi nawe Mwami, Mban’ighenyera,
+Namakukwama ngenyere, Mb’erikirirya.<br><br>
+
+3. Sihali ghundi Mulamya, Niwe wowene,
+Ndamy’ebihutale byaghe, Unyighenyere.<br><br>
+
+4. Ul’Isoko y’obuholo, Mwenye engebe,
+ Singwity’oghundi Mulamya, Ni nawe Yesu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NDAMBI_MBUYA_YERISABA">89. NDAMBI MBUYA Y’ERISABA</string>
+    <string name="number89">
+	<htmlData><![CDATA[
+<b>89. NDAMBI MBUYA Y’ERISABA</b><br>
+<i>Sweet Hour Of Prayer<br>
+CH 316-Doh is D </i><br><br>
+
+1. Ndambi mbuya y’erisaba, Ikanyilusy’omo malighe;
+ Mbu nyasy’aho Tata ali, Nyimubwire obwera bwaghe.
+ Mo syo ndambi sy’obulighe, Nasungire akaghala,
+ Ngind’eryaghalwa ly’enzighu, Mo ndambi mbuya y’erisaba.<br><br>
+
+2. Ndambi mbuya y’erisaba, Ukalay’erisaba lyaghe;
+ Omwami syalihemuka, Akatulinda tutsumulwe.
+ Namayiha kwiye lino, Nikwa yowambirikira,
+ Nyine n’amaha w’ewuwe, Nyipip’endambi y’erisaba.<br><br>
+
+3. Ndambi mbuya y’erisaba, Ubye ukanyihumulaya;
+Nikwa nasyahik’ewetu, Nasyahuluka omo bitu.
+Mba bw’isimi n’ababuya, N’eyo ngebe y’erikota,
+Aho ni ho nasyalagha, Endambi mbuya y’erisaba.<br>
+	]]></htmlData>
+</string>
+
+    <string name="EBIRO_NDATU_BYAMAHWA">90. EBIRO NDATU BYAMAHWA</string>
+    <string name="number90">
+	<htmlData><![CDATA[
+<b>90. EBIRO NDATU BYAMAHWA</b><br>
+<i>Another Six Day’s Work<br>
+CH 448-Doh is F </i><br><br>
+
+1. Ebiro ndatu byamahwa, Yindi Sabato yatsuka,
+Nzemire eriluhuka, Mo kiro kyatsumulaa.<br><br>
+
+2. Mwase tupipe Omwami, Yowatuh’eriluhuka,
+Omuyisa w’ekirw’ekyo, Alabir’eyindi yosi.<br><br>
+
+3. Tutsemiry’omo mitima, Twitsingir’eby’elubula,
+ Mo buluhukiro bwetu, Ko Mwami Mwenye Sabato.<br><br>
+
+4. Eryombomba ry’elubula, Ritusule itwe bosi,
+ Hosi Kanisa y’Omwami, Ikind’esyongumbu nyibi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YITSINGE_USABE">91. YITSINGE, USABE</string>
+    <string name="number91">
+	<htmlData><![CDATA[
+<b>91. YITSINGE, USABE</b><br>
+ <i>Watch for The Time Is Short<br>
+C.S. 555-Doh is F </i><br><br>
+
+1. Sighuluhe omughul’ono, Teghaya ni muhindo,
+Teya sukindwe n’ebya hisi, Mukristo usabe.
+Wasy’omubiri ni molo! Kandy’enzighw’ikalire,
+Ulindiriry’Omuheruki, Teghaya sighumbaye.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Yitsinge Usabe, Yitsinge Usabe,
+Uyiteghay’omwitungi n’omo kiro:
+Sighumbay’erisaba.</i><br><br>
+
+2. Higha ebikakulenga ko, Lek’emitima mingi,
+Wasyaluhukir’elubula, Ho wasyombombera.
+Uby’ukasba Mukristo, Omwami akwanzire,
+Ibuka kw’akuholera, Bamulusy’omusasi.<br><br>
+
+3. Sighumbay’erisaba Yesu, Bya Naye ndambi syosi,
+S’umwibirirawe na hake, Lindirir’Omwami.
+S’ulind’isyatitimbira, Lek’eritika-tika,
+Ni ndambi y’érimulinda, Sighumbay’erisaba.<br>
+	]]></htmlData>
+</string>
+
+    <string name="WIBUKE_SABATO">92. WIBUKE SABATO</string>
+    <string name="number92">
+	<htmlData><![CDATA[
+<b>92. WIBUKE SABATO</b><br>
+<i>Don’t Forget The Sabbath<br>
+C.S. 653-Doh is C </i><br><br>
+
+1. Wibuke Sabato, Omwami atsumula,
+Ni kikul’omo bindi, Kilabir’ebyosi.
+Tukaluhuk’emibiri, Twabwirw’eby’elubula,
+Ni luseke lukaka, Lwalwa ku Nyamuhanga.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Utuletery’obuholo, Sabato mbuya kundu,
+Utuletery’obuholo Sabato mbuya.</i><br><br>
+
+2. Weraye Sabato, Kandi upip’Omwami,
+Wabwir’abaghomby’ati: Ingye Ndi “Engebe”,
+Twamayibombeka lino, Tukolery’Omulamya,
+Twasyatwaly’okw’isoko, Y’amaghetsi w’engebe.<br><br>
+
+3. Tutsemire kundu, Tunemwimbira Yesu,
+ Mwira Wetu Mubuya, Tumuyiketere.
+ Mulamya wetu Mubuya, Erighenyera ryawe,
+ Indi haghuma nenyu, Rikamba Omuyisa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KIRO_KYERILUHUKA">93. KIRO KY’ERILUHUKA</string>
+    <string name="number93">
+	<htmlData><![CDATA[
+<b>93. KIRO KY’ERILUHUKA</b><br>
+<i>O Day Of Rest And Gladness<br>
+CH 463-Doh is F </i><br><br>
+
+1. Kiro kyowene ky’eriluhuka, Kyatsumulawa ky’obuholo.
+Kikasubaya utakalire, Kyowene omo bindi byosi,
+Mwami mo kiro kyawe, Abosi bakupipe,
+Tupipe lino kundu, Ni w’erikota n’erikota.<br><br>
+
+2. Ni kisokero kitesendaya, Sikiribya mo emighumba,
+Kiri ng’éririma eryowene, Esyonyusi sya ho syowene.
+Ni maghetsi w’amuhu, Omoghulu w’embeho
+Ni ho tukabanira, Ekihugho eky’endaghane.<br><br>
+
+3. Ni kiro kikalet’omuyisa, N’erituletera Olwanzo,
+ Kyokikalek’itwatsir’ebyosi, Erikwama eby’elubula.
+ Kiro ky’erighenyera, Kiro eki kibuya
+ Tusond’eriluhuka, N’omo ngonde sy’omo lubula.<br>
+	]]></htmlData>
+</string>
+
+    <string name="ERIHINDANA_LYE_SABATO">94. ERIHINDANA LY’E SABATO</string>
+    <string name="number94">
+	<htmlData><![CDATA[
+<b>94. ERIHINDANA LY’E SABATO</b><br>
+<i>Sweet Sabbath School<br>
+C.S. 608-Doh is Ab </i><br><br>
+
+1. Erihindana lye Sabato, Erigh’ekinywa kiwe,
+ Erihindana ribuya kundu, Likanzemesaya.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Hindana lye Sabato, Hindana lye Sabato,
+Nyanzire ry’omo mutima waghe, Hindana lye Sabato.</i><br><br>
+
+2. Omutima waghe atsemire, Erimuminya kundu,
+Kikanyisondola omo ngebe, Hindana lye Sabato.<br><br>
+
+3. Hindan’eryo Yesu atsumula, Kandi mwanyibuyira,
+Omulenge wuwe ogh’olwanzo, Hindana lye Sabato.<br>
+	]]></htmlData>
+</string>
+
+    <string name="EBIRO_NDATU_BYAHWERE">95. EBIRO NDATU BYAHWERE</string>
+    <string name="number95">
+	<htmlData><![CDATA[
+<b>95. EBIRO NDATU BYAHWERE</b><br>
+<i>Safely Through Another Week<br>
+CH 462-Doh is G </i><br><br>
+
+1. Biro ndatu byahwere, Twabwirawa n’Omwami;
+Tusonde Omuyisa, Mo Kisabiro kyawe.
+Ni kiro kilabire, Kyanyibuky’elubula,
+Ni kiro kilabire, Kyanyibuky’elubula.<br><br>
+
+2. Tukasab’omuyisa, Mo rina ry’Omulamya,
+ Tubughire ebibi, Utughenyere kundu.
+ Tuleke ebya hisi, Itwaluhuka nawe,
+ Tuleke ebya hisi, Uluhukire omw’itwe.<br><br>
+
+3. Twamas’erikupipa, Iwas’itwasangana,
+Tukweghaye Mulamya, Mo Kisabiro kyawe.
+Mwami tuhe muyisa, Bibuya by’elubula,
+Mwami tuhe muyisa, Oko byasyaby’elubula.<br><br>
+
+4. Engulu yawe mbuya, Ikalamya ababi,
+Erighenyera lyawe, Likatulekeraya.
+Tuhe erikusima, Twanze Sabato yawe,
+Tuhe erikusima, Tubye nawe biro byosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWAMAKUKOKYA_KANDI">96. TWAMAKUKOKYA KANDI</string>
+    <string name="number96">
+	<htmlData><![CDATA[
+<b>96. TWAMAKUKOKYA KANDI</b><br>
+<i>Welcome, Welcome,<br>
+CH 459-Doh is G </i><br><br>
+
+1. Twamakukokya kandi, Ebiro by’obutseme,
+Mweyo wakabukaya, Kyakakala ky’endata.<br><br>
+
+2. Butseme bwawe kundu, Ibwatsemesy’omweyo,
+Bahumuly’obulighe, N’eribugh’olughendo.<br><br>
+
+3. Kiro kibuyirire, Ky’eripip’omwisaba,
+ Na atuminyisaye, Muyisa wawe mungi.<br><br>
+
+4. Twamakukokya kandi, Kiro ky’eriluhuka,
+ Wase n’amaka wawe, Omo mutima waghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MOTOWENGULU_MBUYA">97. MOTOW’ENGULU MBUYA</string>
+    <string name="number97">
+	<htmlData><![CDATA[
+<b>97. MOTOW’ENGULU MBUYA</b><br>
+<i>We Have Heard<br>
+CH 637-Doh is G</i><br><br>
+
+1. Motow’Engulu Mbuya, Ko Yesu alamya,
+Tsungania obutseme, Ko Yesu alamya.
+Bibwir’abandu bosi, Usoke n’esyonyusi,
+Omwamy’ati ya hosi, Ni Yesu alamya.<br><br>
+
+2. Tsungania n’oko ngesti, Ko Yesu alamya,
+Ubwire ab’ebibi, Ko Yesu alamya.
+Tsungania n’ebitsira, Kw’Engulu Yowene nga,
+Yasyowibwa ehosi, Ko Yesu alamya.<br><br>
+
+3. N’omo malwiro muti : Ni Yesu alamya,
+Mwatutongolya itwe, Ni Yesu alamya.
+Abalwere mwimbire, Basonde Omulamya,
+Mwimbiry’oko masinda, Ko Yesu alamya.<br><br>
+
+4. Amahung’abugh’ati: Ni Yesu alamya,
+Bandu bosi basime, Ko Yesu alamya.
+Sumb’omulenge uti, Mwase bosi mulame,
+Tupipe Ow’Amaka, Ko Yesu alamya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYIKWANZIRE_WE_MULAMYA">98. NYIKWANZIRE WE MULAMYA</string>
+    <string name="number98">
+	<htmlData><![CDATA[
+<b>98. NYIKWANZIRE WE MULAMYA</b><br>
+ <i>I Must Have The Saviour With Me<br>
+CH 541-Doh is C </i><br><br>
+
+1. Nyikwanzire we Mulamya, Sinangayighendera,
+Nyikwanzire mbye hakuhi, Unyihe n’akaghala.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Sinangubah’ekindu,Umbwir’ebyo wanzire,
+Sihali kyangagha h’uli: Ngukwamirir’ehosi.</i><br><br>
+
+2. Nyikwanzire we Mulamya, Ko ndi molo kutsibu,
+Ni Nawe ukanzikaya, Singwite no oghundi.<br><br>
+
+3. Nyikwanzire we Mulamya, Aho ndi mo kihugho,
+Mo mulumbi n’oko ryuba, N’omo malighe ghosi.<br><br>
+
+4. Nyikwanzire we Mulamya, Mbwire eby’ekwenene,
+Ungolay’oko Yordani, Umbe n’erisoka yo!<br>
+	]]></htmlData>
+</string>
+
+    <string name="NAMIBUKOMUSALABA">99. NAMIBUK’OMUSALABA</string>
+    <string name="number99">
+	<htmlData><![CDATA[
+<b>99. NAMIBUK’OMUSALABA</b><br>
+<i>When I Survey The Wondrous Cross<br>
+CH 120-Doh is Eb</i><br><br>
+
+1. Namibuk’omusalaba w’eriswekya,
+Omwami w’erihenia mwahola kugho.
+Esyondundi syaghe, Sindiswibuka syo kandi
+N’ebyongayipipa mo kundu.<br><br>
+
+2. Lebay’esyongolu syo mubiri waghe,
+Sikandeter’obulighe n’obutseme.
+Akandy’obulighe n’obutseme byahindana
+Hali akakira k’amahwa.<br><br>
+
+3. Nabya nabiritala nyiring’ekyusa,
+Neryo nabirilama omo malihge.
+Sunzighanaye sinyiyipip’omo kindi,
+Nikwa omusalaba wawe.<br><br>
+
+4. Naho ebyabumbawa byabya ebyaghe,
+Sinangabana ekyo nakulenga ko.
+N’olwanzo n’obwenge bwalwa elubula,
+Bikaleka inasigh’ebyosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="ITWE_TWAMABANOMWIRA">100. ITWE TWAMABAN’OMWIRA</string>
+    <string name="number100">
+	<htmlData><![CDATA[
+<b>100. ITWE TWAMABAN’OMWIRA</b><br>
+<i>What A Friend We Have In Jesus<br>
+CH 320-Doh is F </i><br><br>
+
+1. Itwe twamabon’Omwira, Yesu Kristo Mulamya,
+ Mwaheka ebibi byatu, Amatuh’obutseme.
+ Twangamusab’akaghala, Asy’amalighe wetu,
+ Ni Mulamya Mwenge kundu, Yesu Kristo ni Mwira.<br><br>
+
+2. Twabya tuli n’omulighe, N’enzir’eyikalire,
+Yesu akanditulamya, N’akaghala kanene.
+Sitwangaluha na hake, Akandituwatikya,
+Tumusabe biro byosi, Yesu Kristo ni Mwira.<br><br>
+
+3. Sitani akatutebya, Na tukakwa endwala,
+Yesu syangatwibirirwa, Tumusabe kwenene.
+Yesu mwakinda Sitani, Netu twangakinda yo,
+Tusikay’Omwami wetu, Yesu Kristo ni Mwira.<br><br>
+
+4. Mwami mwakola kibuya, Mwatum’Omwana wuwe,
+Ritulamya kwe Sitani, Yesu Kristo ni Mwira.
+Twasyasoker’ewa Tata, Ahate n’obulighe,
+Tumutwalire abandu, bangabya Bana buwe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_KRISTO_AKABIRIKIRA">101. YESU KRISTO AKABIRIKIRA</string>
+    <string name="number101">
+	<htmlData><![CDATA[
+<b>101. YESU KRISTO AKABIRIKIRA</b><br>
+<i>Jesus Is Calling<br>
+CH 569-Doh is C </i><br><br>
+
+1. Yesu Kristo akabirikira, Wase lino, wase lino,
+ Neryo sughend’omo yindi nzira, Wase ukwame Yesu.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Wase kwiye, wase kweiye,
+Yesu akabirikira uhike kwiye.</i><br><br>
+
+2. Abaluhire basyaluhuka, Wase lino, wase lino,
+ Ab’emiheke yiritohire, Baban’eriluhuka.<br><br>
+
+3. Anemulinda abandu bosi, Base lino, Base lino,
+We wahalaya sighuyibise, Wase ulamibawe.<br><br>
+
+4. Yesu akalind’abakaghana, Base lino, base lino,
+Basyatsema bamamwikirirya, Babuka luba, base!<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMO_LUKYO_LOMWEYO">102. OMO LUKYO L’OMWEYO</string>
+    <string name="number102">
+	<htmlData><![CDATA[
+<b>102. OMO LUKYO L’OMWEYO</b><br>
+<i>Let Him In<br>
+CH 566-Doh is Db</i><br><br>
+
+1. Omo lukyo l’omweyo, Mugheni (Anahangene),
+Anahangene aho, Mugheni (Anahangene).
+Neryo umukokaye, Ukokaye Omwana
+Wa Tata ogh’olwanzo, Mugheni (Umukokaye).<br><br>
+
+2. Mweyo wawe k’Omwami, Kingula (Mukingilire),
+Isyakusigha hali, Kingula (Mukingilire).
+Risakana n’Omwira, Asyahumuly’omweyo,
+Naye Asyakuteya, Kingula (Mukingilire).<br><br>
+
+3. Nery’owa omulenge, gh’Omwami (‘Wa omulenge),
+ Uyisinge emyatsi, Y’Omwami (Myatsi y’Omwami).
+ Ukingule oluyi, S’umubwire ‘Iyihi’,
+ Rina riwe ribuya, Y’Omwami (Rina ly’Omwami).<br><br>
+
+4. Kingula omutima, K’Omwami (Mukingilire),
+Wasyahabw’obutoki, B’Omwami (Buteya Bwetu),
+Asyamba obubuya, Asyalusya ebibi,
+Wamakingul’omweyo, K’Omwami (Mukingulire).<br>
+	]]></htmlData>
+</string>
+
+    <string name="UBUTAWE_AKANDI">103. UBUTAWE AKANDI</string>
+    <string name="number103">
+	<htmlData><![CDATA[
+<b>103. UBUTAWE AKANDI</b><br>
+<i>Ye Must Be Born Again<br>
+C.S. 26-Doh is Eb </i><br><br>
+
+1. Hali yo wasa ku Yesu mo kiro, Amubulya by’enzira y’erilama:
+Yesu mwamusubirya kweneny’ati: Kundu ngakubwira.<br><br>
+
+<i><b>Erisuba mo  :</b>
+Ubutawe akandi, Ubutawe akandi,
+Kwenene, kwenene ngakubwira, Ubutawe kandi (Kundu).</i><br><br>
+
+2. Nenyu mwamakwa ekinywa kiwe, Ngoko Yesu abugha kyo kwenene,
+Nabyo byakubera muyisa neryo, Wasyalama kundu.<br><br>
+
+3. Abanzir’obuluhukiro bosi, N’erisyimba yo n’abasyalamibwa,
+ Wasonda engebe ey’erikota, Wikirirye lino.<br>
+	]]></htmlData>
+</string>
+
+    <string name="UNYITABE_NYINEMUKULIRIRA">104. UNYITABE NYINEMUKULIRIRA</string>
+    <string name="number104">
+	<htmlData><![CDATA[
+<b>104. UNYITABE NYINEMUKULIRIRA</b><br>
+<i>Come, Great Deliverer, Come<br>
+CH 569-Doh is C </i><br><br>
+
+1. Unyitabe nyinemukulirira, Wase Mulamya waghe,
+Mutima waghe akulindirire, Wase Mulamya waghe.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Namabitala haly’oko mwahge, Namabitala ingy’owene,
+Unyihekery’ewawe lino Mwami, Wase Mulamya waghe.</i><br><br>
+
+2. Sihali aho nangaluhukira, Wase Mulamya waghe,
+ Umby’eritsema haghuma n’engebe, Wase Mulamya waghe.<br><br>
+
+3. Namaluh’enzira ni nyiri kundu, Wase Mulamya waghe,
+Ameso waghe akulindirire, Wase Mulamya waghe.<br><br>
+
+4. Mwami namasa, sighunyihemule, Wase Mulamya waghe,
+ Wowe, Omulamy’ekiriro kyaghe, Wase Mulamya waghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="ANGATOKA_ERILAMYA">105. ANGATOKA ERILAMYA</string>
+    <string name="number105">
+	<htmlData><![CDATA[
+<b>105. ANGATOKA ERILAMYA</b><br>
+<i>Able To Deliver<br>
+C.S. 30-Doh is F </i><br><br>
+
+1. Angatok’erilamya, Mo byakakol’ebyosi;
+Angatok’erilamya, Abakamowa.
+Inyamulusy’omo muliro,
+Yesu katok’erilamya abamwanzire.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Angatok’erilamya, n’erikulamya lino,
+Mulikyetu wamakwama, Asyakulamya.</i><br><br>
+
+2. Angatok’erilamya, Nikwa ni kindu kwehi?
+ Anawite amaka w’erikulamya.
+ Mbwire ebyosi mbwire, nikwa Kristo bita,
+  Angatok’erimbohola n’erinyilamya.<br><br>
+
+3. Angatok’erilamya, Mughendi y’uluhire;
+Wamakwama Yesu iniasyakulamya.
+Sighusaghe Sitani, Uyanzire Yesu,
+Leka eritika-tika, Uyiketere.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWASYAHIMBENDATA_WERIBWE">106. TWASYAHIMB’ENDATA W’ERIBWE</string>
+    <string name="number106">
+	<htmlData><![CDATA[
+<b>106. TWASYAHIMB’ENDATA W’ERIBWE</b><br>
+<i>Build On The Rock<br>
+CH 579-Doh is Ab </i><br><br>
+
+1. Twasyahimb’endata w’eribwe, Yesu Ribwe rya kera;
+Twasyasika omw’ubahisya, Kanyabungu kabuha.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Twasyahimb’edanta (Twasyahimb’endata w’Eribwe Rinene),
+Twasyahimb’edanta (Twasyahimb’endata w’Eribwe Rinene),
+Twasyahimb’endata w’eribwe, Endata wa Yesu.</i><br><br>
+
+2. Abandi bakahimb’oko museghe, Ow’ekihugho kino,
+ Abandi mwisi gh’olututu, Lw’eritsem’omo bibi.<br><br>
+
+3. Himba naw’endata w’Eribwe, Kibanza kiwe kyowene,
+Kyokyasyabamo obuholo, Haghuma n’erilamibwa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="UNYIBWIRE_EBYA_YESU">107. UNYIBWIRE EBYA YESU</string>
+    <string name="number107">
+	<htmlData><![CDATA[
+<b>107. UNYIBWIRE EBYA YESU</b><br>
+<i>Tell Me The Story Of Jesus<br>
+CH 534-Doh is Eb </i><br><br>
+
+1. Unyibwire ebya Yesu, Ebisihire kundu,
+Biwite enzwere nene, Bikanyitsemesaya.
+Neryo balaika bangi, mobamwimbira kera,
+Kamwaleta obuholo, Oko bandu ab’ekihugo.<br><br>
+
+<i><b>Erisuba mo  :</b>
+Unyibwire ebya Yesu, Saka by’oko mutima,
+Biwite enzwere nene, Bikanyitsemesaya.</i><br><br>
+
+2. Neryo ngoko bamuboha, Mo mbwarar’iyo wene,
+ Neryo kamwakinda kundu, Ritebya rya Sitani.
+  Omubiri owakola, N’ebiro by’obulighe,
+  Neryo kamo bamwaghalya, Ebyosi niby’eriswekera.<br><br>
+
+3. Omwatsi gh’omusalaba, Mobamubamba kugho
+Neryo ngoko mobamuta, Kamwakind’eyisinda.
+Righenyera liwe ringi, Olwanzo luwe kwingye,
+Kamwatek’engebe yiwe, Nyihabawe erilama.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMULISYA_MWANZE">108. OMULISYA MWANZE</string>
+    <string name="number108">
+	<htmlData><![CDATA[
+<b>108. OMULISYA MWANZE</b><br>
+<i>Lovingly, Tenderly Calling<br>
+CH 572-Doh is F </i><br><br>
+
+1. Omulisya Mwanze akakubirikira,
+Omo kibungo kiwe, Ho haly’obuholo
+Kasonda abakali, Balume, Balwana,
+Yesu akasond’abo, Ibasa okwiye.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Kabugh’omo mweyo gh’olukogho,
+Oyo waherire ase kwengye,
+Neryo ngakulinda alindire,
+Mwami Yesu Muslisya.</i><br><br>
+
+2. Kamwateka eribya ho busana netu,
+Asond’abaherire, Base kwiye lino.
+Twasyayitsingirir’ewuwe n’obuholo,
+ Obw’eribirikira, Omulisya wetu.<br><br>
+
+3. Situlindirire kandy’enzighu Sitani,
+Ni soro eyo moli, Ikasyatuherya.
+Yesu yu katusonda, Omulamya wetu,
+Twingir’omo kibungo, Ho hali omwanya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NAHIRIRWOKO_LULENGO">109. NAHIRIRW’OKO LULENGO</string>
+    <string name="number109">
+	<htmlData><![CDATA[
+<b>109. NAHIRIRW’OKO LULENGO</b><br>
+<i>Weighed And Wanting<br>
+C.S. 49-Doh is F </i><br><br>
+
+1. Omutsweri asyaby’asa, Asombola ebyetu;
+Tukasyabya ng’ezahabu, Kutse nga mataleyo.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Nahirirw’oko lulengo, Lino syoswire,
+Nahirirw’omo kinyw’ekyo, Lino syoswire.</i><br><br>
+
+2. Nikwa twasyow’abugh’ati: Kundu namabasima,
+Kutsy’olubanza lw’eribohwa, Namey’isyoswire.<br><br>
+
+3. Neryo twitaby’omulenge, Endambi yikiri ho,
+Tulek’eriyighanyira, Itwayilebya kundu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="BANEHO_ABAKABIKEMIGHAMBO">110. BANEHO ABAKABIK’EMIGHAMBO</string>
+    <string name="number110">
+	<htmlData><![CDATA[
+<b>110. BANEHO ABAKABIK’EMIGHAMBO</b><br>
+<i>Blessed Are They That Do<br>
+C.S. 55-Doh is A </i><br><br>
+
+1. Wamow’ebinywa byo Mulamya, Kabyobikah’engebe ;
+Uwe munyabibi, Minya ko hane bakabik’emighambo.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Bane ho abasyabike yosi, Bobatsemire,obatsema,
+Bane ho abasyabike yosi.Bakatsema, bakatsema.</i><br><br>
+
+2. Eryowa lisa, simuli ki,  Nakakiribawa kundu,
+Twamow’itubaha, sitwangalama, Basyatsema basyow’eyosi.<br><br>
+
+3. Basyingira omo butseme, Mo muyi wa Nyamuhanga,
+Ahate obulighe n’eryaghalwa, Bahik’oko muti w’engebe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OBWIRA_NA_YESU">111. OBWIRA NA YESU</string>
+    <string name="number111">
+	<htmlData><![CDATA[
+<b>111. OBWIRA NA YESU</b><br>
+ <i>No, Not One<br>
+C.S. 57 Doh is F</i><br><br>
+
+1. Sihaly’omwir’oyuli nga Yesu, Sihali, sihali ;
+Oyo wangalamya omutima, Sihali, sihali.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Yesu asy’amalighe wetu, Biro byosi akasondola,
+Sihaly’omwir’oyulinga Yesu: Sihali, Sihali.</i><br><br>
+
+2. Sihali endambi ate netu, Sihali, sihali ;
+Mwirimya syangatughaba kwiye, Sihali, sihali.<br><br>
+
+3. Sihali oy’ulingene naye, Sihali, sihali ;
+Oyo wangatulusya kw’ebibi, Sihali, sihali.<br><br>
+
+4. Syangabanik’oghundi Mulamya, Sihali, sihali ;
+Iye muta omusasi wuwe, Sihali, sihali.<br>
+	]]></htmlData>
+</string>
+
+    <string name="UNYISAMALIRE">112. UNYISAMALIRE</string>
+    <string name="number112">
+	<htmlData><![CDATA[
+<b>112. UNYISAMALIRE</b><br>
+<i>Life In A Look<br>
+CH 65-Doh is Eb </i><br><br>
+
+1. Unyisamaliry’akatubwira, Yesu Yo watuholera ;
+Mo musalaba muly’engebe, Aho hanasyaban’ekighona.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Samalir’e Kalwari, Samalir’e Kalwari,
+Nasyahabw’eribya ho, Nasamalir’omuti (W’e  Kalwari).</i><br><br>
+
+2. Namalengwa k’omw’ibulikira, Enzighu syamanyitegha,
+Namalebya oko musalaba, Maka nasyabana gh’oko Mwami.<br><br>
+
+3. Nasamalira Omusalaba, Buli ughulu kwenene,
+Ndaghane nasyayiketera, Neryo kwenene sinangaluha.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MWASE_KWINGYE">113. MWASE KWINGYE</string>
+    <string name="number113">
+	<htmlData><![CDATA[
+<b>113. MWASE KWINGYE</b><br>
+ <i>Calling<br>
+ CH 563-Doh is Ab</i><br><br>
+
+1. Yesu kabirikir’omo mbolere, Kasonda uwe naghe;
+Mo mweyo wetu kalinda riteya, Akakulinda uwe.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Mwase kwingye, Abaluhire mwase,
+Yesu kabirikir’omo mbolere : Kasonde wase kwingye.</i><br><br>
+
+2. Akatusabira s’ulindirire, Anemutusabira,
+Isiwapon’obwenge n’olukogho, Lukogho luwe kwitwe.<br><br>
+
+3. Biro byeribya ho byalaba luba, byalaba kuwe naghe,
+Mwirimya asa, luholo lukasa, Lwasa kuwe no kwingye.<br><br>
+
+4. Ghanyira busana n’olwanzo luwe, Olwanzo kuwe, kwingye,
+Bibi byetu abiritubuyira, Ribuyirwa ni ryetu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="LUYI_LIKINGWIRE">114. LUYI LIKINGWIRE</string>
+    <string name="number114">
+	<htmlData><![CDATA[
+<b>114. LUYI LIKINGWIRE</b><br>
+<i>The Gate Ajar For Me<br>
+CH 561-Doh is C </i><br><br>
+
+1. Omo lukyo olubuya, Luyi lukingukere ;
+ Yesu abirilingula, Na silwangasyakingwa.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Lunakinguker’okwingye,
+Lwamalekwa luty’okwingye,
+Kwingye, kwingye:
+Lutya, Luty’okwingye.</i><br><br>
+
+2. Luyi lunakingukere, Bandu balamibawe,
+Oko bera na bateke, Omo bihanda byosi.<br><br>
+
+3. Ukwamirire oluyi, Lukinakingukere,
+Uyising’omusalaba, Yo ndundi ey’olwanzo.<br><br>
+
+4. Musalaba wasyaheka, Biro byosi butseme,
+Lwanzo lwa Yesu ni lungi, Tukamukukamira.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUKUMU_MUNENE">115. MUKUMU MUNENE</string>
+    <string name="number115">
+	<htmlData><![CDATA[
+<b>115. MUKUMU MUNENE</b><br>
+<i>The Great Physician<br>
+CH 530-Doh is Eb </i><br><br>
+
+1. Mukumu Munene oyo, Yesu mweny’erilama ;
+Akaleta obutseme, Yesu, Mulamya wetu.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Balaika bosi mwimbe, Tupipe Omwami wetu,
+Rina riwe ribuya, Ni rya Yesu Mwami.</i><br><br>
+
+2. Mupipe Mwana w’Embuli, Mupipe Omulamya,
+ Malolo ghosi n’ebibi, Akalusay’aghosi.<br><br>
+
+3. Sihali erindi rina, Litoler’eripipwa,
+Kutse eritutsemesya, Kasiryangabanika.<br><br>
+
+4. Naye akandisyaswasa, N’olukengerwa luwe,
+Tukasyatsema na kera, Rikal’ewuwe, Mwami.<br>
+	]]></htmlData>
+</string>
+
+    <string name="WASONDEBINDU">116. WASOND’EBINDU?</string>
+    <string name="number116">
+	<htmlData><![CDATA[
+<b>116. WASOND’EBINDU?</b><br>
+<i>Nothing For Jesus<br>
+C.S. 100-Doh is D </i><br><br>
+
+1. Wasond’ebindu s’uli, N’endambi ku Yesu?
+Mo mibiri mibuya, S’uli n’endambi kwiye
+Butseme bw’ekihugho, N’emyatsi y’obutseme,
+Ebyo ukasondaya, S’uli n’endambi kwiye.<br><br>
+
+2. Myats’ikutimbire ko, Kwiye s’uli n’endambi?
+Wanyewa n’ekihugho, Kwiye s’uli n’endambi?
+Takingula oluyi, Akahumanga lino,
+Endamby’akakusonda, Kwiye s’uli n’endambi?<br><br>
+
+3. Endambi y’enzwere, Kwiye mute n’omujbiri ?
+Mwitsingirire okwiye mute n’ommubiri?
+Uwe iwayitsemesya, N’eby’omo kihugho kino,
+S’uwite ndambi y’eri-kwamirir’ebya Yesu.<br><br>
+
+4. Uli bikoma bisa, S’uli mbuto sya Yesu?
+Ebyala biri busa, S’uli mbuto sya Yesu?
+S’uwite kyo wasyakangya, Ekiro asyaswasa,
+S’uli no obutseme, Walangira Omwami?<br>
+	]]></htmlData>
+</string>
+
+    <string name="NAMASEGHERA_MULAMYA">117. NAMASEGHERA, MULAMYA</string>
+    <string name="number117">
+	<htmlData><![CDATA[
+<b>117. NAMASEGHERA, MULAMYA</b><br>
+<i>I Am Coming To The Cross<br>
+CH 224-Doh is Eb</i><br><br>
+
+1. Namabirikirwa, N’omulenge wawe ;
+Nyeribaw’omo musasi, Wawe ughutika.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Namasegher’oko Musalaba,
+Nyeribawe kwenene, Mo musasi wawe.</i><br><br>
+
+2. Ingye molo kundu, Mowamb’akaghala,
+Wabirinyerya kw’ebibi, Nyikulindirire.<br><br>
+
+3. Yesu yo wanyanza, Omo Lwanzo lungi,
+Butseme, buholo kundu, Byasyaby’elubula.<br><br>
+
+4. Ukaha amaka, Omubiri wawe,
+Unyeray’omo musasi, Wawe oghutika.<br><br>
+
+5. Nabirilamibwa, Lwanzo n’olukogho,
+Kuwe Mwami ngwity’amaka, N’eritunganene.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_MWALIHA">118. YESU MWALIHA</string>
+    <string name="number118">
+	<htmlData><![CDATA[
+<b>118. YESU MWALIHA</b><br>
+<i>Jesus paid It All<br>
+C.S. 107-Doh is Eb </i><br><br>
+
+1. Yesu asi amaka wawe ni buyira ;
+Teghaya Omw’isaba, Uhabaw’omuyisa.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Yesu mwaliha, Lubanza lwaghe,
+Ebibi byabya bingi, Naye mwery’ebyosi.</i><br><br>
+
+2. Mwami, namalangira, Akaghala kawe,
+Weraye emitima, Tuyire mo babuya.<br><br>
+
+3. Singwite kindi kindu, Ekyanganyilamya,
+Nasyer’omo musasi, Gh’Omulamiya Oyo.<br><br>
+
+4. Nasyaghend’omo bitu, Haghuma n’Omwami,
+Nambala akakira, Nyikukamire Yesu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="ERIRIBA_LYOMUSASI">119. ERIRIBA LY’OMUSASI</string>
+    <string name="number119">
+	<htmlData><![CDATA[
+<b>119. ERIRIBA LY’OMUSASI</b><br>
+<i>The Cleansing Wave<br>
+CH 598-Doh is Eb </i><br><br>
+
+1. Eririba ly’omusasi, Wa Yesu  katwerya ;
+ Kamwaghalibwa, Asonda tubane engebe.<br><br>
+
+<b>Erisuba mo  :</b><br>
+Ririba ly’omusasi, Namingira nyeribawe,
+Mwami nyeribawe kundu, akeraya, akeraya.</i><br><br>
+
+2. Musasy’akabugha kwingye, Monow’omulenge,
+Akabugha, Mweyo waghe, Ineribwa mugho.<br><br>
+
+3. Ngahangana inaghenda, Omw’ihenia liwe,
+Emyenda yamabyeribwa, Mutima ni Yesu.<br><br>
+
+4. Lukogho lw’eriswekera, Lukeray’emwisi,
+Ka nyiri na Yesu musa, Oyo y’Omulamya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="SESENE_NAMIKIRIRYA">120. SESENE, NAMIKIRIRYA</string>
+    <string name="number120">
+	<htmlData><![CDATA[
+<b>120. SESENE, NAMIKIRIRYA</b><br>
+<i>I Do Believe<br>
+CH 670-Doh is G</i><br><br>
+
+1. Tata singwity’Omulamya, Ni nawe wowene ;
+Neryo kwingye wamabiswa, Nyikole ki Tata?<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Sesene namikirirya, Yesu Yo wahola,
+Yowut’omusasi wuwe, Nyilwe omo bibi.</i><br><br>
+
+2. Nyikiriry’Omwana wawe, Umb’amaka wawe,
+Unyusulaye omuhwa, Oko ndambi eyi.<br><br>
+
+3. Ni butseme bungi kwingye, Rilol’oko busu,
+Nyiminy’omulenge wuwe, Nyiban’olukogho.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NGANDIMBOLWANZO_LUWE">121. NGANDIMB’OLWANZO LUWE</string>
+    <string name="number121">
+	<htmlData><![CDATA[
+<b>121. NGANDIMB’OLWANZO LUWE</b><br>
+<i>I Will Sing Of Jesus’ Love<br>
+CH 529-Doh is Bb </i><br><br>
+
+1. Ngandimba (Ngandimba), Lwanzo luwe,
+Lwanzo lwa (Lwanzo lwa) Yesu Mwami,
+Busana (Busana) kayowalwa,
+Okw’Ise, mwahola.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Ngandimba (Ngandimba) Lwanzo luwe,
+Ripipa (Ripipa) nasyateka,
+Mwahola (Mwahola) ka nyibye ho:
+Ngandimb’olwanzo luwe.</i><br><br>
+
+2. Misonia (Misonia) kamwaliha,
+Nomo nde (Nomo nde) sindirira,
+Risaba (Risaba) siriri ho,
+Akanyisabira.<br><br>
+
+3. Olwanzo (Olwanzo) lungi olo;
+ Kihugho (Kihugho) sikyasi lo,
+ Buyira (Buyira) abab’ebibi,
+ Ebingi ng’ebyaghe.<br><br>
+
+4. Sihali (Sihali) ebibuya,
+ Ebyona (Ebyona) Birikola;
+ Ngasonda (Ngasonda) tsuka lino,
+ Nyikangay’olwanzo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="HAKUHI_NAWE">122. HAKUHI NAWE</string>
+    <string name="number122">
+	<htmlData><![CDATA[
+<b>122. HAHUHI NAWE</b><br>
+<i>Nearer Still Nearer<br>
+CH 390-Doh is Db </i><br><br>
+
+1. Hakuhi nawe, nyiseghere, Hakuhi nawe ho nangikala ;
+Mwami nyanzire, Ungwate ko, Undeghaye sinangalwa kuwe,
+Undeghaye sinangalwa kuwe.<br><br>
+
+2. Hakuhi kundu, sindi naki, Sindi n’esadaka, Mwami Yesu.
+Mutima waghy’amabya mubi, Weraye gh’omo musasi wawe.
+ Weraye gh’omo musasi wawe.<br><br>
+
+3. Hakuhi kundu, Uwe naghe, Nasyatsemer’erirek’ebibi,
+Matseme ghosi n’eripona, Umber’itsira byo kundu Yesu.
+ Umber’itsira byo kundu Yesu.<br><br>
+
+4. Hakuhi kundu, n’oko nduli, N’omo lubula nasyahangana,
+Ebiro ebyosi nyine yo, Nasyalola oko busu bwawe.
+Nasyalola oko busu bwawe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="HALYERINA_LYERISWEKYA">123. HALY’ERINA LY’ERISWEKYA</string>
+    <string name="number123">
+	<htmlData><![CDATA[
+<b>123. HALY’ERINA LY’ERISWEKYA</b><br>
+<i>The Holiest Name<br>
+C.S. 217-Doh is F </i><br><br>
+
+1. Haly’erina ly’eriswekya, Rilabir’awandi ghosi ;
+Nery’Omwami watuhangika, Na Mughala anyanzire.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Ni rina ribuya, (Erina), Ni rina ribuya,
+Ryalwa ku Nyamuhanga ryasa hisi.
+Neryo rikimbawa (Erina), n’Abamalaika (Kwenene)
+Erin’eryo ni rya Yesu.</i><br><br>
+
+2. Neryo rikamb’omuyisa, Nyanzire eripipa ryo,
+Sindyumbay’eripipa ryo, Ngabwira obuli mundu.<br><br>
+
+3. Ekyangamba n’erisyimba, N’Abamalaika buwe,
+Nasyabya ngapip’erina, Rilabir’awandi ghosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_MUSA">124. YESU MUSA</string>
+    <string name="number124">
+	<htmlData><![CDATA[
+<b>124. YESU MUSA</b><br>
+<i>Not I, But Jesus<br>
+CH 271-Doh is Eb </i><br><br>
+
+1. Yesu musa y’utoler’eripipwa ;
+ Nikwa ingye sindi kindu kundu.
+ Sinyitolere ingye riyipipa,
+ Yesu musa, Yowanganahulwa.<br><br>
+
+2. Yesu musa y’ukabugh’obulighe ;
+Nikwa ingye unyiwatikaye.
+Sinangakolera ebyanganduhya
+Nikwa Yesu kay’unatolere.<br><br>
+
+3. Yesu musa Yo wanganahalambwa;
+Sinyitolere eriyipipa.
+Yesu musa, asyanyibanika mo,
+Erisyahika eribya  nga Ye.<br><br>
+
+4. Yesu musa y’ukabugha obwera ;
+Niye musa ngah’ebyagh’ebyosi.
+Yesu musa, yukandeter’ebyosi,
+Yesu musa, nyiyibere nawe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="EKYAKAKALA_KIBUYA">125. EKYAKAKALA KIBUYA</string>
+    <string name="number125">
+	<htmlData><![CDATA[
+<b>125. EKYAKAKALA KIBUYA</b><br>
+<i>Sunlight In The Heart<br>
+CH 612-Doh is A </i><br><br>
+
+1. Oko kitwa kuli henia, Erihenia ly’eryuba ;
+Mo malima n’omo ngetsi, N’eryuba rihenirye.
+Erihenia ni rinene, Omo mutima waghe,
+Kusangw’aho Yesu ali, Hali ekyakakala.<br><br>
+
+<i><b>Erisuba mo  :</b>
+Ekyakakala kibuya, Kiri omo mutima,
+Aho Mwami Yesu ali, Hali ekyakakala.</i><br><br>
+
+2. Ng’esyongimba ngulukulu, Ngalusay’obulighe,
+Omwenda ogh’obutseme, Watoler’eryambalwa.
+Ngakukwam’omo mutima, N’omo nyumba y’endata,
+Eyasitikawa ndeke, Mwisi gh’olwanzo luwe.<br><br>
+
+3. Yesu wanyitongolaya, Ndi wawe lino Mwami,
+Byosi ni byawe Mulamya, Biro byosi ngupipe.
+Ngakukwam’omo mutima, N’omo nyumba y’endata,
+Eyasitikawa ndeke, Mwisi gh’olwanzo luwe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OLWABIKIRIRYE">126. OLW’ABIKIRIRYE</string>
+    <string name="number126">
+	<htmlData><![CDATA[
+<b>126. OLW’ABIKIRIRYE</b><br>
+<i>Since I Have Been Redeemed<br>
+CH 638-Doh is G </i><br><br>
+
+1. Nyine n’olwimbo lubuya, Olw’abikirirye ;
+ Lo Mulamya Nyamuhanga, Olw’abikirirye.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Olw’abikirirye, Olw’abikirirye
+Rina riwe ripipwe Olw’abikirirye,
+Ngandisyapip’erina  riwe.</i><br><br>
+
+2. Kristo atolere kundu, Olw’abikirirye ;
+Risonde riwe nyanzire, Olw’abikirirye.<br><br>
+
+3. Nyinemutula gho kundu, Olw’abikirirye ;
+Rikahigh’itikatika, Olw’abikirirye.<br><br>
+
+4. Ndi n’obwikalo bubuya, Olw’abikirirye ;
+Nyine haghuma na Yesu, Olw’abikirirye.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYAMUHANGASYESYONYUNYU">127. NYAMUHANG’ASY’ESYONYUNYU</string>
+    <string name="number127">
+	<htmlData><![CDATA[
+<b>127. NYAMUHANG’ASY’ESYONYUNYU</b><br>
+<i>He Loves Me To<br>
+C.S. 252-Doh is F</i><br><br>
+
+1. Nyamuhang’asy’esyonyunyu esikatoghonga  ;
+Amanzatya esyonyunyu, Naghe anyanzire.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Anyanzire, anyanzire, anyanzire kundu,
+Nyinasi kwanyanzire, Ingye nyiri muke.</i><br><br>
+
+2. Mubatsi mubuya akasitik’obusoyo,
+Amanzatya obusoyo, Atya anyanzire.<br><br>
+
+3. Nyamuhanga wahangik’ensyonyunyu, busoyo,
+Syangibirirwa abana, Kundu anzire bo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NDAMBI_MBUYA_YERISABA2">128. NDAMBI MBUYA Y’ERISABA</string>
+    <string name="number128">
+	<htmlData><![CDATA[
+<b>128. NDAMBI MBUYA Y’ERISABA</b><br>
+<i>Blessed Hour Of Prayer<br>
+CH 324-Doh is Eb </i><br><br>
+
+1. Ndambi mbuy’erisaba, Twamabiyikehya ;
+Neryo twamasa kwiye Yesu, y’Omwira.
+Tuwity’erikirya, Kw’ali Omuteya,
+Abaluhire kundu, Akasyaluhukya bo.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Ndambi ’isaba, eyeritsema ho
+Abaluhire kundu, Akasyaluhukya bo..</i><br><br>
+
+2. Ndambi mbuy’erisaba, Amas’Omulamya ;
+Lyowene iniowa abana buwe.
+Katubwira tuhire, Mo maghulu wuwe,
+ Miheke yetu yosi, Imo twasyatsema yo.<br><br>
+
+3. Ndambi mbuy’erisaba, Bangatok’eryasa ;
+K’Omwami Yesu Abakalengawa ko.
+Mweyo wuwe mubuya, Asyababuyira,
+Abaluhire kundu, Akasyaluhukya bo.<br><br>
+
+4. Ndambi mbuy’erisaba, Tukandisyahabwa ;
+Miyisa y’omutima, Twamikirirya.
+Twamikirirya kundu, Sitwendisyubaha,
+Abaluhire kundu, Akasyaluhukya bo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_WASEWETU">129. YESU WAS’EWETU</string>
+    <string name="number129">
+	<htmlData><![CDATA[
+<b>129. YESU WAS’EWETU</b><br>
+<i>Jesus Come And Bless Us<br>
+CH 602-Doh is Ab </i><br><br>
+
+1. Wabiritugha neryo babiri, Basaty’oko rina ryawe bamasa ;
+Wasyatsumula bo, na munabwire, Twamakukwama omo nyumba yawe.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Yesu was’ewetu, Ututsumule,
+Yesu was’ewetu, Ubye hakuhi.</i><br><br>
+
+2. Wabiribya netu, mo bindi biro, Tunemukulinda, nery’utwasire,
+Wase Omulamya, tuhy’olukogho, Utowe Yesu na ututsumule.<br><br>
+
+3. Wase utabal’emirenge yetu, Mo nyimbo n’omwisaba, bihamule;
+Kirirya rikanye, riminyikale, Lwanzo lubye lubuy’enzira mbuya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NDI_WAWE_MWAMI">130. NDI WAWE MWAMI</string>
+    <string name="number130">
+	<htmlData><![CDATA[
+<b>130. NDI WAWE MWAMI</b><br>
+<i>I am Thine O Lord<br>
+CH 594-Doh is Ab </i><br><br>
+
+1. Ndi wawe Mwami ngow’omulenge, Unemubugha naghe,
+Kwenene, kundu, ngasonde kuwe, Nyisik’eryas’ey’uli.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Mwami nyase (nyase), Nyase hakuhi,
+Kundu kuwe k’omuti?
+Mwami nyase (nyase),
+Nyase hakuhi K’omusasi w’enzwere.</i><br><br>
+
+2. Nyihire lino, nyikukolere, Mo maka gh’olukogho,
+Ebyo wanzire naghe nanze byo, Nyisik’erikukwama.<br><br>
+
+3. Nyiri n’obutseme buli ndambi, (I)nyinemukania nawe,
+Ngo yukakanaya no omwira, Inyinakukamire.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NANGAKUSOSA_KUNDU">131. NANGAKUSOSA KUNDU</string>
+    <string name="number131">
+	<htmlData><![CDATA[
+<b>131. NANGAKUSOSA KUNDU</b><br>
+<i>More Lile Jesus<br>
+C.S. 286-Doh is F</i><br><br>
+
+1. Nangakusosa kundu, Yesu Mulamya waghe,
+Umb’erikola ndele, Mba lwanzo lw’eriswekera.
+Nangakusosa kwenene, Aho ngaya ehosi,
+Namayikehya kundu, Mwami nyikukwamirire.<br><br>
+
+2. Inyatey’ekihungu, Kamiya kisukali,
+Sinangubaha kundu, Nyinasi ko nyine nawe.
+Wasyayisy’eriteya, Unyibuyire obubi,
+Namayikehya kundu, Mwami nyikukwamirire.<br><br>
+
+3. Nangakusosa kundu, Ngukwame biro byosi,
+Mbire hakuhi nawe, Ahatehwa obuholo.
+Ukambindula mo muhya, Busana n’olwanzo lwawe,
+Namayikehya kundu, Mwami nyikukwamirire.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUSALABA_WA_YESU">132. MUSALABA WA YESU</string>
+    <string name="number132">
+	<htmlData><![CDATA[
+<b>132. MUSALABA WA YESU</b><br>
+<i>Near The Cross<br>
+CH 595-Doh is F </i><br><br>
+
+1. Musalaba wa Yesu, Nyikale hakuhi
+Eyo hali isoko, Yangalamy’ebibi.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Hali musalaba, Musalaba wuwe,
+Oyo n’ipipa ryaghe, Omwibya ho ryosi.</i><br><br>
+
+2. Hakuhi musalaba, Monatitimana,
+Lwanzo molwandangira, Molwanyibuyira.<br><br>
+
+3. Unyibuke Mulamya, Ngulangire eyo,
+Nyiban’olwanzo lwawe, n’erikulwa nalo.<br><br>
+
+4. Hakuhi, Musalaba, Nyimuyiketere,
+Riteya n’eririnda, Nasyikala eyo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYIRENDERE_NAWE_MWAMI">133. NYIRENDERE NAWE MWAMI</string>
+    <string name="number133">
+	<htmlData><![CDATA[
+<b>133. NYIRENDERE NAWE MWAMI</b><br>
+<i>Walking With God<br>
+CH 195-Doh is Ab</i><br><br>
+
+1. Nyirendere nawe Mwami,
+Ngo kwalendera Henoki,
+Ungwaty’okuboko kwaghe,
+Ubughe naghy’omo mbolere,
+Nomo ndalangire enzira
+Yesu nyirendere nawa.<br><br>
+
+2. Sinangatoka tute nawe,
+Haly’ebisund’elubula,
+Bitegho bighonye by’enzighu,
+Syonzighu nyingi sin’omo nzira
+Uhumulaye n’engetsi
+Yesu nyirendere nawe.<br><br>
+
+Unyiwaty’oko kuboko,
+Amatseme kwengye n’italya,
+Mo maka nyinemughenda
+Tuhekire omusalaba,
+Tway’omo muyi Sayuni
+Yesu nyirendere nawe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OLWANZO_LWERISWEKERA">134. OLWANZO LW’ERISWEKERA</string>
+    <string name="number134">
+	<htmlData><![CDATA[
+<b>134. OLWANZO LW’ERISWEKERA</b><br>
+<i>Wonderful Love Of Jesus<br>
+CH 650-Doh is C </i><br><br>
+
+5. Ekyangamba erimba ngapipa Omwami waghe,
+Nikwa nindi wangatok’erimba eripipwa rya Yesu.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Olwanzo, lw’eriswekera, Olwanzo lwa Yesu,
+Olwanzo lw’eriswekera, Olwanzo lwa Yesu.</i><br><br>
+
+6. Ka yona butseme bwaghe, Ka yukanamb’obuholo,
+Mo bulighe n’omwaghalwa, Yesu yu kanambumulaya.<br><br>
+
+7. Yonaye ngayiketera, Erisyahabwa engebe,
+M’omwirimy’inyakolerya, Yesu yukanambumulaya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYIKWANZIRE_KWILABA_MWAMI">135. NYIKWANZIRE KWILABA MWAMI</string>
+    <string name="number135">
+	<htmlData><![CDATA[
+<b>135. NYIKWANZIRE KWILABA MWAMI</b><br>
+<i>I Love Thee Better Lord<br>
+C.S. 301-Doh is C </i><br><br>
+
+1. Nyikwanzire, Mwami Yesu kwilaba ebyosi,
+Kusang’ukanzemesaya, Ni mbolere Mwami.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Kinywa kyawe kyangatulwa (Kyatulwa),
+Eky’olwanzo lwawe,
+Kinywa kyawe kyangatulwa (Kyatulwa),
+Musasy’akeraya (Keraya).</i><br><br>
+
+2. Nyikwasi uli hakuhi, kwilab’ekihugho;
+Erikwibuka lyowene, Kwilaba erimba.<br><br>
+
+3. Kundu unyitsemesaye, Naghe nasyatsema,
+Namabya nyite n’olwanzo, Lwawe, ni buyira.<br><br>
+
+4. Byasyabya biti Mulamya, Erikala nawe,
+Nikw’omo kihugho kino, Tunatsemire kwehi?<br>
+	]]></htmlData>
+</string>
+
+    <string name="AHWASYANZONDOLA_HOSI">136. AHW’ASYANZONDOLA HOSI</string>
+    <string name="number136">
+	<htmlData><![CDATA[
+<b>136. AHW’ASYANZONDOLA HOSI</b><br>
+<i>I Remember Calvary<br>
+C.S. 305-Doh is Eb </i><br><br>
+
+1. Ahw’asyanzondola hose, Honasyatsemer’eriya,
+Kusangwa ingy’aholera, Mwangwira ate n’ekibi.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Yesu kanzondola kundu, Nahik’ewuwe buholo,
+Kwali Yo Mwira nyanzire, Syali atambemukira.</i><br><br>
+
+2. Ngatsemer’eribya naye, Ngatsemer’erinzondola ;
+Ngatsemera erimowa, Kusangwa ingy’aholera.<br><br>
+
+3. Sinditikatika kundu, Ko ndi haghuma na Yesu,
+Nyinayiketere kundu, N asyamulolako Mwami.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NGASONDOMWAMI_YESU">137. NGASOND’OMWAMI YESU</string>
+    <string name="number137">
+	<htmlData><![CDATA[
+<b>137. NGASOND’OMWAMI YESU</b><br>
+<i>Give Me Jesus<br>
+CH 596-Doh is F </i><br><br>
+
+1. Kihugho sinyanzir’ekyo, Ngasond’Omwami Yesu,
+Kihugho kikanyitebya, Yesu abuyirire.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Lukogho ni lw’eriswekya, Lwanzo lute lulengo,
+Erilama eryoswire, Tubikirwe engebe.</i><br><br>
+
+2. Kihugho sinyanzir’ekyo, Ngasond’Omwami Yesu,
+Mo bulighe bungi Iye, Ni lwimbo olubuya.<br><br>
+
+3. Kihugho sinyanzir’ekyo, Ngasond’Omwami Yesu,
+Mo lughendo lw’ekihugho, Kayo butseme bwaghe.<br><br>
+
+4. Kihugho sinyanzir’ekyo, Ngasond’Omwami Yesu,
+Musalaba nyikirirye, Ngasyalola ku Yesu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWALA_ENGEBE_YAGHE">138. TWALA ENGEBE YAGHE</string>
+    <string name="number138">
+	<htmlData><![CDATA[
+<b>138. TWALA ENGEBE YAGHE</b><br>
+</i>Entire Consecration<br>
+C.S. 316 - Doh is D </i><br><br>
+
+1. Twala engebe yaghe, Bisabo by’obutumbya,
+Twala ndambi sy’ekiro, Isyakupipa eyo.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Nyeray’omo mumsasi wawe (Nyere kundu),
+Unyeraye kw’ebibi byosi (Nyere kundu),
+Ebyagh’ebyosi, Nyikutekere byo
+Lino n’endambi syosi.</i><br><br>
+
+2. Twala ebyala nabyo, bikole eby’ukanza,
+Twala bisando byaghe, Mo busondoli bwawe.<br><br>
+
+3. Twal’omulenge waghe, Nyimbire Nyamuhanga,
+Twala n’eminywa yaghe, Yusul’ekinywa kyawe.<br><br>
+
+4. Twal’ezahabu nibya, N’ebyosi by’ekihugho,
+Twala n’amenge waghe, Ukole ko wanzire.<br><br>
+
+5. N’erighanirya Mwami, Siryangabya eryaghe,
+Twala mweyo ni wawe, Abye bwikalo bwawe.<br><br>
+
+6. Twal’erisonda ryaghe, Pipa ry’omweyo waghe,
+Twala kundu mutima, Nyibye wawe kwilaba.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYIWITE_OMWIRA">139. NYIWITE OMWIRA</string>
+    <string name="number139">
+	<htmlData><![CDATA[
+<b>139. NYIWITE OMWIRA</b><br>
+ <i>I’ve Found Friend<br>
+CH 531 - Doh is A </i><br><br>
+
+1. Nyiwite Omwira naye, Oyo wanyanza kera,
+Lukoba l’olwanzo luwe, Nabohirwe na kera.
+Akakur’omweyo waghe, Alek’eribinduka,
+Nyiniker’emwisi wuwe, Ali naghe na kera.<br><br>
+
+2. Nyiwite Omwira Iye, Oyo wanyiholera,
+Muta omusasi wuwe, oko bandu abose.
+Ingye singwite ki kandi, Nomo nangabya nabyo,
+Niby’ebyosi inabwekwa, Ngye ndi wuwe na kera.<br><br>
+
+3. Nyiwite Omwira naye, Mwahabwa obutoki,
+Asyanyiteya iyowene, Asyanyitwal’endata.
+Namasamalir’ewuwe, Ngabya n’amaka kundu,
+Lino ngakolera ahisi, Nyum’endata na kera.<br><br>
+
+4. Nyiwite Omwira naye, Ali n’omweyo mwenge,
+ Ni Muhani, ni Musondoli, Muteya w’ekwenene.
+ Nindi yo wanganyighaban’Omwanze ow’embere,
+ Kwiye ngayikakiraya, Ngye ndi wuwe na kera.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_YO_WAMBIRIKIRA">140. YESU YO WAMBIRIKIRA</string>
+    <string name="number140">
+	<htmlData><![CDATA[
+<b>140. YESU YO WAMBIRIKIRA</b><br>
+<i>The Voice of Jesus<br>
+CH 226 - Doh is D </i><br><br>
+
+1. Yesu Yo wambirikira, Wase mo butseme,
+Mutwe waghe aghotsere, Mo kikuba kyaghe.
+Monaghenda yali luba, Kundu monaluha,
+Yo wamba neryo buholo, N’obutseme kundu.<br><br>
+
+2. Yesu Yo wambirikira, Wase kwingye unywe,
+Maghesti w’engebe busa, Unywe kandy’ubye ho.
+Monaghenda yali luba, Maghetsi monanywa,
+Nyiri ho kwiye n’enyota, Kayahwere kundu.<br><br>
+
+3. Yesu Yo wambirikira, Kihugho mwirimya,
+Wamalebya kyakakala, Kyamakukolerya.
+Monaghenda yali luba, Iye ryuba ryaghe,
+Mo buli endambi yaghe, Mo lughendo lwaghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MBYE_WAWE_MWAMI">141. MBYE WAWE MWAMI</string>
+    <string name="number141">
+	<htmlData><![CDATA[
+<b>141. MBYE WAWE MWAMI</b><br>
+<i>Wholly Thine<br>
+CH 597 - Doh is Ab</i><br><br>
+
+1. Mwami bye wawe, namabugha, Ngukwame, ngukwame,
+Ngole by’ukanza, Mwami waghe, Ungwatikaye.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Mbye wawe (Mwami),
+Mbye wawe (Mwami),
+Eryo risonda lyaghe
+Mbye wawe (Mwami),
+Mbye wawe (Mwami),
+Mbye wawe Mwami lino.</i><br><br>
+
+2. Ebya hisi sinzomene byo, Neryo nyibye nawe,
+Byosi nyighambawe byo kundu, Ndi wawe nawe.<br><br>
+
+3. Nikwa obutsema bwa hisi, Wase tubye nawe,
+Ebinywa byo bikanzemesya, Bimbumulaye.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KIRO_EKI_KYE_SABATO">142. KIRO EKI KY’E SABATO</string>
+    <string name="number142">
+	<htmlData><![CDATA[
+<b>142. KIRO EKI KY’E SABATO</b><br>
+<i>How Sweet Upon This Sacred Day
+CH 458 - Doh is Eb </i><br><br>
+
+1. Kiro eki kye Sabato, Kiro ky’eribuka,
+Kya Nyaluhanga w’endata, Rirek’ekihugho.<br><br>
+
+2. Twangow’ekinywa kibuya, Rilw’oko Muhani,
+Rituhana, ribinduka, Tubane engebe.<br><br>
+
+3. Nery’omo malwa n’ebibi, Nikwa twamakindwa,
+In’asyatuh’akaghala, Oyo wasy’omweyo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWAMABUKA_TUTSUMULE">143. TWAMABUKA TUTSUMULE</string>
+    <string name="number143">
+	<htmlData><![CDATA[
+<b>143. TWAMABUKA TUTSUMULE</b><br>
+<i>Lord; Dismiss Us<br>
+CH 33- Doh is E </i><br><br>
+
+1. Twamabuka, tutsumule, Utuhe eritsema,
+Tubye n’olwanzo lwawe, Lukogho lw’erikinda,
+Nawe utuhumulaye, Tunemughenda ahisi.<br><br>
+
+2. Tukakupipa n’ewasingya, Omo kinywa ky’Engulu,
+Bighuma biwe rilama, Byabanika okwitwe,
+Endambi yosi tuminye, Ekinywa kyawe Yesu.<br><br>
+
+3. Biro byetu tulina byo, Tuyiteke ku Yesu,
+Tubye n’amaka, mo mweyo, Situluh’omo nzira;
+Hotwasyaloler’oko lukengerwa (o)lo Mukama.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MWAMI_UNYISONDOLENDATA">144. MWAMI UNYISONDOL’ENDATA</string>
+    <string name="number144">
+	<htmlData><![CDATA[
+<b>144. MWAMI UNYISONDOL’ENDATA</b><br>
+<i>Higher Ground<br>
+CH 631 - Doh is Ab</i><br><br>
+
+1. Ndim’olughendo lw’endate, Biro byosi ngahetuka,
+Ngasab’inyinemughenda, Mwami unyisondolere.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Mwami unyisumb’endate, Ngwikiriray’elubula,
+Ndata kwilab’ekihugho, Mwami unyisondolere.</i><br><br>
+
+2. Mweyo waghe kasyanzire, Rikala ahaly’obubi,
+Abandi banziry’ahisi, Risonda lyaghe n’iruka.<br><br>
+
+3. Ngasond’eriruk’endata, Sinyikindawe n’enzighu,
+Mw’ikirirya ngandisyowa, Mirenge y’abasyakinda.<br><br>
+
+4. Iruk’endata ngasonda, Inalola okw’ihenia,
+N’oko nduli nasyasaba, Mwami unyisondolere.<br>
+	]]></htmlData>
+</string>
+
+    <string name="SIGHUGHANE_OMUBIRI">145. SIGHUGHANE OMUBIRI</string>
+    <string name="number145">
+	<htmlData><![CDATA[
+<b>145. SIGHUGHANE OMUBIRI</b><br>
+<i>Ask Not To Be Excused<br>
+C.S. 513 - Doh is E </i><br><br>
+
+1. S’ughan’erikol’omubiri w’Omwami,
+Yiteghekerania, Ughende ukole.
+Eyo Nyamuhanga kasond’ikutuma,
+Iwasyatsema yo mo mubiri wuwe.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Ngasonda, wase sighughane,
+Ngasonda, ukoly’omibiri.
+S’ughan’erikol’omubiri w’Omwami
+Kwenene, kwenene, S’ukahiw’ewuwe.</i><br><br>
+
+2. S’ughan’erikol’omubiri w’Omwami,
+Unemukola ki? Ukoly’omubiri.
+Righesa lyamera, Abake baghesa,
+Kangay’obutseme, Mw’ikoler’Omwami.<br><br>
+
+3. S’ughan’erikol’omubiri w’Omwami,
+Erighan’olwanzo, Kuwe ni buhanya.
+Ndambi y’olukogho, Yesu akasaba,
+Ikangay’ebibi, Bihw’omo lubula.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TABALEMWISI_WAGHE">146. TABAL’EMWISI WAGHE</string>
+    <string name="number146">
+	<htmlData><![CDATA[
+<b>146. TABAL’EMWISI WAGHE</b><br>
+<i>Thy Life Within Me<br>
+CH 279 - Doh is Eb </i><br><br>
+
+1. Tabal’emwisi waghe, Uwe Yesu Mwami,
+Ubye kwing’isubirya, Okwibulya lyaghe.
+Ubye ho mwisi waghe, Uwe Musondoli,
+Ubukobe ni bwaghe, Bwawe ry’erihenia.<br><br>
+
+2. Ngatek’ekisabiro, Wabiribirya kyo,
+Linw’erihenia lyawe, Lyakolery’emwisi.
+Kihugho ikyahuna, Omubiri abye;
+Omukobe mubuya, Ow’erikusikya.<br><br>
+
+3. Bitsuko by’omubiri, Byosi byakulinda,
+Byasond’ibyaghenda, Ibiman’erikola.
+Hate eriyitonga, kutse eripona,
+Kutse eryendererya, Hat’eriyihania.<br><br>
+
+4. Nyibye oyuhehere, Sinyiyire luba,
+Nyisike inalinda, Ebihano byawe.
+Tabal’emwisi waghe, Uwe Yesu Mwami,
+Ubye kwingy’isubirya, Mo mabulyo ghosi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="UNYIRETE_HAKUHI">147. UNYIRETE HAKUHI</string>
+    <string name="number147">
+	<htmlData><![CDATA[
+<b>147. UNYIRETE HAKUHI</b><br>
+<i>Draw Me  Closer To Thee<br>
+CH 632 - Doh is A </i><br><br>
+
+1. Unyirete hakuhi Tata, Unyibaghalire,
+Nyisegheray’oko kikuba, Ngasond’ilihuka.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Unyirete hakuhi, (Nyase, unyirete hakuhi),
+Mo muliki w’olwanzo, (Muliki w’olwanzo).
+Unyirete (mo muliki w’olwanzo, unyirete hakuhi)
+Hakuhi nawe (Unyirete hakuhi).</i><br><br>
+
+2. Unyirete Mulamya waghe, isitwaghabana,
+Ebyala byawe biri kwingye, Lino  ndangire byo.<br><br>
+
+3. Unyirete m’omweyo wawe, Nyisosane nawe,
+Unyeraye, nyiluhukaye, Mbye mubuya kundu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="EHOSI_NA_YESU">148. EHOSI NA YESU</string>
+    <string name="number148">
+	<htmlData><![CDATA[
+<b>148. EHOSI NA YESU</b><br>
+<i>Anywhere With Jesus<br>
+CH 589 - Doh is D </i><br><br>
+
+1. Ehosi na Yesu nyinemutsema,
+Eyakandwala Yesu ni butseme.
+Amabya ateho, sihatolere,
+Amabya ho Yesu Sinangubaha.<br><br>
+
+<i><b>Erisuba mo  :<br><br>
+Ehosi, Ehosi, Sinangubaha,
+Ehosi na Yesu naghenda naye.</i><br><br>
+
+2. Amabya ho Yesu sind’ingyowewe,
+Nomo nangaghanwa,Nomo ndi muke.
+Mwanganyisondol’omo nzira nyibi;
+Namabya na Yesu nasyamupipa.<br><br>
+
+3. Amabya ho Yesu mo nangaya to,
+Natok’eriluhuk’omw’ilubuka.
+Nyuma nasyaghend’ewuwe na kera,
+Amabya ho Yesu, Butsema kundu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="GENDEROMO_MWISI">149. GENDER’OMO MWISI</string>
+    <string name="number149">
+	<htmlData><![CDATA[
+<b>149. GENDER’OMO MWISI</b><br>
+<i>Walk In The Light<br>
+C.S. 540 - Doh is D</i><br><br>
+
+1. Mwira ulabe omo mwisi, Neryo sutime-time,
+Omuka mubuya w’endata, Akusondolere.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+S na A : Ghender’omo mwisi, Ghender’omo mwisi,<br>
+        \t\t Ghender’omo mwisi, Mwisi mubuya wa Yesu.<br>
+T na B: Ghender’omo w’eriswekera wa Yesu,<br>
+        \t\t Ghender’omo w’eriswekera wa Yesu,<br>
+        \t\t Ghender’omo w’eriswekera wa Yesu,<br>
+        \t\t Omo w’akaka wa Yesu.</i><br><br>
+
+2. Ghender’omo mwisi mubuya, Omo kinywa ky’Omwami,
+Asyakusondola na kera, Asyakolera ho.<br><br>
+
+3. Ughender’omo kyakakala, Ubye ukamukwama,
+Koleraya omo mwirimya, Hosi hahenaye.<br><br>
+
+4. Ghendera omo kyakakala, ‘Miny’olwanzo lwa Yesu,
+No kwanza abali ahisi, Neryo mwalamya bo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NIKWA_ABAGHESI_BALI_HAYI">150. NIKWA ABAGHESI BALI HAYI?</string>
+    <string name="number150">
+	<htmlData><![CDATA[
+<b>150. NIKWA ABAGHESI BALI HAYI?</b><br>
+<i>Where Are The Reapers?<br>
+CH 620 - Doh is G </i><br><br>
+
+1. Nikwa abaghesi bali hayi? Baghesere abatunganene,
+Bakengete kund’omo mitemi, Neryo ka sibabye abaghata!<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+‘Kwa abaghesi, bali hayi? Babye haghuma netu tuyaghese,
+Neryo tutseme tune nabo, Erighesa ryasabya ryahwa.</i><br><br>
+
+2. Musondere omo miyi yosi, Lutswamba lwamaleng’oko ngano,
+Musisonde neryo sine mulo, Syosi imwasighesera Yesu.<br><br>
+
+3. Lebaya amalim’amabyera, Abosi balindir’erighesa,
+Nikwa abaghesi ka ni bake, Omubiri linw’akabasonda.<br><br>
+
+4. Inywe bandu mwimay’emitemi, Mughese endambi yikiri ho,
+Mubye n’omuhwa Omwamy’akasa, Lebaya amalet’ebihembo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="SINYASYEMBITA_YAGHE">151. SINYASY’EMBITA YAGHE</string>
+    <string name="number151">
+	<htmlData><![CDATA[
+<b>151. SINYASY’EMBITA YAGHE</b><br>
+<i>Will There Be Any Stars<br>
+CH 626 - Doh is A </i><br><br>
+
+1. Lino ngibuka ekihugho kibuya, Kyongasonda erilola ko,
+Nasyahangana hakuhi n’Omulamya, Mbita hasyaby’esyongununu.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Sinyasy’embita yaghe ng’esyongununu,
+Syasyaheny’oko buli ndambi.
+Ngandisyabya nabuka omo syongonde,
+Hasyabya ngununu ko mbita.</i><br><br>
+
+2. Mo maka w’Omwami nyikole mubiri, Nyiret’emitima y’abandu,
+Neryo nyibye n’esyongununu ko mbita, Mwami akatuh’ebihembo.<br><br>
+
+3. Nasyabya n’obutseme namulola ko, Naleta emuliro wuwe,
+Bandu balamibawa busana n’omubiri waghe n’Omuka wuwe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_BUGHOMO_MWEYO">152. YESU BUGH’OMO MWEYO</string>
+    <string name="number152">
+	<htmlData><![CDATA[
+<b>152. YESU BUGH’OMO MWEYO</b><br>
+<i>Speak To My Soul<br>
+CH 554 - Doh is Eb</i><br><br>
+
+1. Yesu bugh’omo mweyo, Bugh’omo mbolere,
+Bugha kwingye mo lwanzo, S’undek’ingyowene.
+Kingul’omweyo waghe, Imonowa ndeke,
+Hira mweyo mw’ipipa, Nyikupupe Mwami.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Buli kiro, ubughe, Uty’omo mbolere,
+Nyombomber’embolere, Mbolere y’olwanzo.
+Biro byosi wakinda, Bwiranda ni bwawe,
+Neryo nyowe ebinywa, S’undek’ingyowene.</i><br><br>
+
+2. Bugha n’abana wawe, Kangaya b’enzira,
+Busule obutseme, Baminy’erisaba.
+Bayitsing’eriteka, Ribya ho ribuya,
+Obwami imo bwasa, Twaghey’Omulamya.<br><br>
+
+3. Neryo bugh’emigambo, Ngoko wateka yo,
+Ibuyirire kundu, Mighambo yowene.
+Nyitok’erikupipa, Uwe Mwami waghe,
+Risonda ryawe kundu, Nyikole ngupipe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMWISONDA_ERYENGYAKYA">153. OMW’ISONDA ERY’ENGYAKYA</string>
+    <string name="number153">
+	<htmlData><![CDATA[
+<b>153. OMW’ISONDA ERY’ENGYAKYA</b><br>
+<i>Just For Today<br>
+CH 604 - Doh is G </i><br><br>
+
+1. Omwisona ery’engyakya, Sindisaba,
+Wayiteya sinyikole bibi lino.
+Sinyibughe kinywa kibi, Mutongolya,
+N’erighanirya obubi, Lino, nyitya.<br><br>
+
+2. Nangakola omubiri, Ng’erisaba,
+Nangabere mundu omubuya kundu.
+Risonda ryawe nyikole, Rikusikya,
+Mubiri aby’obuhere, Lino, nyitya.<br><br>
+
+3. Neryo lino namahola, Mw’ikanuka,
+Nyiyiketer’endaghane, syawe Mwami.
+Omw’isonda ery’engyakya, Sindisaba,
+Unyisondole, ‘nyibike, lino, nyitya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="UNYIBWIRE_UWE_MUTEYA">154. UNYIBWIRE, UWE MUTEYA</string>
+    <string name="number154">
+	<htmlData><![CDATA[
+<b>154. UNYIBWIRE, UWE MUTEYA</b><br>
+<i>Watchman, Tell Me<br>
+CH 180 - Doh is G </i><br><br>
+
+1. Unyibwire we Muteya, Bwasesukere kwehi?
+Erihenia ry’e Sayuni, Haly’ebiminyikalo?
+We mughendi uhangane, Usayire elubula,
+Iwambala n’omo mbindi, Ni musakala lino.<br><br>
+
+2. Muteya takoleraya, Omo syonzira syawe ,
+Biminyikalo byasyasa, Kw’ekiro ni hakuhi.
+Ngubi ikandisyabugha, Yasyabuky’abaholire,
+Babuyirire b’Omwami, Bahabw’obutahola.<br><br>
+
+3. Muteya lebaya ndek’erihenia ry’e Sabato,
+Emireng’ikatula gho, Obwami ni hakuhi.
+Omughendi namalebya, Ekitwa ky’e Sayuni,
+Muyi w’e Yerusalema, N’erihenia rya mugho.<br><br>
+
+4. Aho Nyamuhang’ikere, Ni muyi w’ezahabu
+Omo kitumbi kibuya, Oyo Yu katabala.
+Haly’obuholo ehosi, Amalima akabogha,
+N’ekitaka kiboghire, Syonyusi syowene nga.<br><br>
+
+5. Muteya tuli hakuhi, N’ekihugho kyowene,
+Tughende yo m’obutseme, Kihugho ky’obuholo.
+Neryo mowe haly’olwimbo, Olw’ababirilamibwa,
+Tughende tuyahindane, N’endeko nene eyo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NASYABYA_AHO_UKASONDA">155. NASYABYA AHO UKASONDA</string>
+    <string name="number155">
+	<htmlData><![CDATA[
+<b>155. NASYABYA AHO UKASONDA</b><br>
+<i>I’ll Go Where You Want Me To Go<br>
+C.S. 566 - Doh is F </i><br><br>
+
+1. Mbino sim’om’obitwa, Aho wasyambirikirira
+Mbino isim’omo ngetsi, Kutse ahaly’amalwa.
+Neryo wamambirikira lino, N’enzira isinyasi yo,
+Mwam’inasubirya nyisikiry’eriya eyu kanyituma.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Nasyaya ah’ukasonda, Mwami,
+Mo bitwa n’omo syongetsi,
+Nyighende, eyu kambirikira
+Nyikukwamy’ey’ukaya.</i><br><br>
+
+2. Mbino lino hali ekinywa, kisihire ky’olwanzo,
+Neryo kyo Yesu akasonda, Nyitul’omo mbolere.
+Wamabya haghuma naghe, Mwami, Nyimusondesonde lino,
+Sindirek’eritwal’Engulu Yawe, Aho wasyandwal’ahosi.<br><br>
+
+3. Aho twangakol’omubiri N’omwighes’amalima,
+Omubii nangamukolera, Yesu Mutongolya.
+Neryo namayiketera We, Kusangw’unanyanzire,
+Erisonda ryawe nasyakola lyo, Nyibye n’ebyo wanzire.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YIHI_EBINYWA_EBIBI">156. YIHI, EBINYWA EBIBI</string>
+    <string name="number156">
+	<htmlData><![CDATA[
+<b>156. YIHI, EBINYWA EBIBI</b><br>
+<i>Angry Words! Oh Let Them Never<br>
+C.S. 581 - Doh is Eb </i><br><br>
+
+1. Yihi, ebinywa ebibi, Isibyalw’omo buno,
+Omutima mubuya n’esyondim’isisyatsanda.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Nenyu mwanzane (Mwanzane),
+Kabugha Yesu (Mwanzane),
+Ng’erimbere ngokw’abiritwanza.
+Nenyu mwanzane (Mwanzane),
+Kabugha Yesu (Mwanzane),
+Abana baghe mwanzane.</i><br><br>
+
+2. Lwanzo ni lubuyirire, N’obwira obubuya,
+Sibiheribawe busana n’eribugha nabi.<br><br>
+
+3. Situbugh’omw’ihitana, Bikalet’obulighe,
+Lwanzo lwawe, we Mulamya, Utuhe erikinda.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NI_NDAMBI_YERIGHESA">157. NI NDAMBI Y’ERIGHESA</string>
+    <string name="number157">
+	<htmlData><![CDATA[
+<b>157. NI NDAMBI Y’ERIGHESA</b><br>
+<i>Harvest Time<br>
+CH 627 - Doh is Eb</i><br><br>
+
+1. Mundu mwaghend’akalira, Mwahuluky’embuto mbuya,
+Nomw’angaluha syangumbya, ‘Niatsumulwa n’Omwami.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Neryo kasinemukula, Imwalebya ko singana,
+Amalima, ghosy’erire, Ni ndambi y’erighesa.</i><br><br>
+
+2. Ekimi kikalw’endata, Ni kyakakala kibuya,
+Kikalek’embuto yera, Mo lukogho l’Omwami.<br><br>
+
+3. Bib’embuto sighumbaye, Suhahukay’omutima,
+Wamalangira syamera, Ughese omw’itsema.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUKOLE_LUBA">158. MUKOLE LUBA</string>
+    <string name="number158">
+	<htmlData><![CDATA[
+<b>158. MUKOLE LUBA</b><br>
+<i>Hasten On, Glad Day<br>
+C.S. 589 - Doh is Eb </i><br><br>
+
+1. Erighesa ry’ahisi ryamahika, Yesu akabirikir’abaghesi,
+Lebay’amalima amer’ehosi, Mulete emitemi muyaghese.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+ S:        \t Mukole, luba, mubik’emighanda<br>
+          \t\t Mukole, luba, Imwasa<br>
+ A.T.B: \t Mukole luba mwase, imwasa,<br>
+        \t\t Muhunik’emighanda, imwasa.<br>
+        \t\t Mukole luba mwase, imwasa,<br>
+        \t\t Imwasa luba.</i><br><br>
+
+2. Ekirw’ekyo sihabye ukalira, Uyiteghaye omo ngyakya syosi,
+Emighulu yalabir’erihunga, Mukole luba mbula yite yawa.<br><br>
+
+3. Lwanzo luli ng’eyisoko yityuma, Lukalwa elubul’oko Mutoki,
+Lo lukatulembera erikola, Ilwatusikya situbye baghata.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYINE_MUKUSONDA">159. NYINE MUKUSONDA</string>
+    <string name="number159">
+	<htmlData><![CDATA[
+<b>159. NYINE MUKUSONDA</b><br>
+<i>How Much Need Thee<br>
+CH 578 - Doh is G </i><br><br>
+
+1. Yesu nyinemukusonda, Indi mbumi n’omwera,
+Unyiwate oko byala, Kuwe ngaban’amaka.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Mukama buli ndambi, Yesu nyinemukusonda,
+Mukama buli ndambi, Ndaghaye buli ndambi.</i><br><br>
+
+2. Unyambalaye emyenda, Yaghu y’amenge wawe,
+Myenda yaghe itsandire, Nyinemuyitsutsa We.<br><br>
+
+3. Uwe wamanyisondola, Inaghenda buholo,
+Ghenda naghe biro byosi, W’enzira ey’engebe.<br><br>
+
+4. Namahika oko ndambi, Eyaghe y’obulighe,
+Kutse ihali butseme, Ndeghaye buli ndambi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KYANGAMBERIBYA_WAWE">160. KYANGAMB’ERIBYA WAWE</string>
+    <string name="number160">
+	<htmlData><![CDATA[
+<b>160. KYANGAMB’ERIBYA WAWE</b><br>
+<i>Kept For Jesus<br>
+C.S. 598 - Doh is D</i><br><br>
+
+1. Kyangamb’eribya wawe, Yesu Mwami waghe,
+Namaghambw’eby’ahisi, Nyikukwamirire.<br><br>
+
+<i><b>Erisuba mo  :</b><br>
+Kyangamb’eribya wawe,
+Namayiteka kundu.
+Mbul’omughaso, ndi ki, ndi ki,
+Umbe eriminywa.</i><br><br>
+
+2. Kyangamb’eribya wawe, Yesu Mwami waghe,
+Ngole ebyo wanzire, Nyibye ngakukenga.<br><br>
+
+3. Kyangamb’eribya wawe, Yesu Mwami waghe,
+Mbighul’oko by’ahisi, Unyeraye kundu.<br><br>
+
+4. Kyangamb’eribya wawe, Yesu Mwami waghe,
+Mbye wawe ngoko nyiri, Bindu sibingaghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MWAMI_NAGHE">161. MWAMI NAGHE</string>
+    <string name="number161">
+	<htmlData><![CDATA[
+<b>161. MWAMI NAGHE</b><br>
+<i>My Lord And I<br>
+CH 532 - Doh is F</i><br><br>
+
+1. Namabiban’Omwira, Ow’enzwere nene,
+Ananyanzire kwenene, M’olwanzo olungi.
+Nasyabya haghuma naye, Ha eno sinyasi,
+Tunikere haghuma, Mwami naghe.<br><br>
+
+2. Neryo namaswaghalwa, ‘Waminya ko nyiri,
+Neryo nyiyiketere, Yo walaliraya.
+‘Rinyisondola mo nzira, Hali kyakakala,
+Tukaghenda haghuma, Mwami naghe.<br><br>
+
+3. Ngamubwir’amalighe, N’obutseme bwaghe,
+N’ebikanyiluhay’eno, N’ebyangatsemesya.
+Akambamul’erikola, Ebinyitolere,
+Nyanzire iniakania, Mwami naghe.<br><br>
+
+4. Anasy’ebyo ngasonda, Eriret’abandu,
+Ukamba omubiri, Inyine mutula gho.
+Nyiyatul’olwanzo luwe, Okuki mwahola,
+Tukahana haghuma, Mwami naghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MO_NZIR_AKANYISONDOLA">162. MO NZIR’AKANYISONDOLA</string>
+    <string name="number162">
+	<htmlData><![CDATA[
+<b>162. MO NZIR’AKANYISONDOLA</b><br>
+<i>All The Way<br>
+CH 259 - Doh is Ab</i><br><br>
+
+1. Mo nzir’akanyisondola, Yesu waghe Mulamya,
+Syendisyakehy’olukogho, Musondoli wa kera.
+Ni butsem’erimukwama, Mo kihugho kwenene,
+Nomo nangaluha kundu, Yukakol’ebibuya :
+Nomo nangaluha kundu, Yukakol’ebibuya.<br><br>
+
+2. Mo nzir’akanyisondola, Akakehay’omwagha,
+Namalwala inandamya, N’omo nzal’inughuta.
+Nomo nangaluha kundu, Maka nomw’angakeha,
+Ribwe rin’embere syahge, Rikanyiluhukaya :
+Ribwe rin’embere syahge, Rikanyiluhukaya.<br><br>
+
+3. Mo nzir’akanyisondola, Omo lwanzo lunene,
+Nduli asyanyihumulya, Uwe Tata w’endata.
+Nambalibw’obutahola, Nikala n’Omulamya,
+Nasyamuha eripipa, kundu y’Omusondoli :
+Nasyamuha eripipa, kundu y’Omusondoli.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_AKABIRIKIRA">163. YESU AKABIRIKIRA</string>
+    <string name="number163">
+	<htmlData><![CDATA[
+<b>163. YESU AKABIRIKIRA</b><br>
+<i>Here, Am I, Send Me<br>
+CH 447 - Doh is D </i><br><br>
+
+1. Yesu akabirikira, Nindi yo nagatuma,
+Erighesa ryamahika, Nindi yo wangaghesa.
+Ko mubiri akasonda, Akatek’ebihembo,
+Nindi yo wangasubirya, Nyine Mwami nyitume.<br><br>
+
+2. Wamaby’ute wangaghenda, N’erisoka engetsi,
+Neryo hali ab’ebibi, Abatamwasi Yesu.
+Wamaby’uli n’esisoni, Ribugha nga Paulo,
+Watok’erikangirirya, Olwanzo l’Omulamya.<br><br>
+
+3. Wamaby’isiwangatoka, ‘Riteya oko luyi,
+Uwatikaye abandu mo nzira ey’engebe.
+Mw’isaba n’omo bihembo, Risaba riwatikya,
+Ngoko Aruni mwatalwik’amaboko wa Musa.<br><br>
+
+4. Bandu baly’omo bulighe, Yesu akabasonda,
+S’ubughe omw’ikereta, Singwite omubiri.
+Utsemery’omubiry’oyo, Abirikuh’Omwami,
+Umusubiraya luba, Uti Mwami nyitume.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MO_BISANDO_BYAWE_YESU">164. MO BISANDO BYAWE YESU</string>
+    <string name="number164">
+	<htmlData><![CDATA[
+<b>164. MO BISANDO BYAWE YESU</b><br>
+<i>At The Fee Of Jesus<br>
+CH 618 - Doh is F </i><br><br>
+
+1. Mo bisando byawe Yesu, Binywa biwe bibuya,
+Ahandu haly’obuholo, Nyibye ho biro byosi.
+Mo bisando byawe Yesu, Ngibuk’olwanzo lwawe,
+Ni obwenge buwe kwingye, Bukanyitsemesaya.<br><br>
+
+2. Mo bisando byawe Yesu, Handu habuya kundu,
+Nangalek’ebibi byaghe, Haly’obuluhukiro.
+Mo bisando byawe Yesu, Aho ho ngasabira,
+Ngasung’amaka okwiye, Butseme n’olukogho.<br><br>
+
+3. Unyitsumule Mulamya, Omo bisando byawe,
+Unzamalir’omo lwanzo, Ndole ko busu bwawe.
+Umbe Mwami rikuminya, Uminyikale kundu,
+Namikala n’Omulamya, Yo bulamiro bwaghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NYIKWANZIRE">165. NYIKWANZIRE</string>
+    <string name="number165">
+	<htmlData><![CDATA[
+<b>165. NYIKWANZIRE</b><br>
+<i>I Love Thee<br>
+CH 343 - Doh is Eb</i><br><br>
+
+1. Nyikwanzire Mwami, Wasi nyikwanzire,
+Nyikwanzire, Yesu, Okwilab’ebyosi.
+Nyikwanzire, Yesu, Nawe unasi,
+Emibiri yaghe, Iyakangania byo.<br><br>
+
+2. Butseme, butseme, kundu butahulwa,
+Obutseme bwaghe, Sibwesombolawa.
+Naleby’obuteke, Obw’elubula,
+Asyangabira bo, omo bwenge buwe.<br><br>
+
+3. Yesu, Mwami waghe, Ni w’ukamb’ebyosi,
+Eby’erilamibwa, Ne eby’erikota.
+Nyikupipe kundu, N’erikwimbira,
+Omo bwenge bwawe, ‘Nyanziky’omutima.<br><br>
+
+4. Nakusosekania ki Mulamya waghe,
+Utula n’obwenge, Ka sulibinduka!
+Neryo nyikupipe, Inakukenga,
+Omutima waghe, ‘Sule mo butseme.<br>
+	]]></htmlData>
+</string>
+
+    <string name="RIBWE_RYA_KERA">166. RIBWE RYA KERA</string>
+    <string name="number166">
+	<htmlData><![CDATA[
+<b>166. RIBWE RYA KERA</b><br>
+<i>Rock Of Ages<br>
+CH 474 - Doh is C</i><br><br>
+
+1. Uwe Ribwe ry’engebe, Kuwe nasyasayira,
+Kera wabirihola, Busana n’olukogho.
+Nyilusaye kw’ebibi, Nyitok’ikind’enzighu.<br><br>
+
+2. Emwisi w’emibiri, Sinangaberererya,
+Nangakola n’omuhwa, Ebibi sibirihwa.
+Niwe wangatulamya, Kw’ebibi byetu byosi.<br><br>
+
+3. Muna kihugho kino, Sihali omulamo,
+Ikirirya ni rike, N’eriminya siriri.
+Ingye mundu w’ebibi, Ungwatikye nyilame.<br><br>
+
+4. Nyinemulindirira, Ekiro wasyaswasa,
+Nasyayir’endata, N’eriyakulola ko.
+N’eribya n’obutseme, Omo mutima waghe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KIBANZA_KYA_KERA">167. KIBANZA KYA KERA</string>
+    <string name="number167">
+	<htmlData><![CDATA[
+<b>167. KIBANZA KYA KERA</b><br>
+<i>Firm Foundation<br>
+CH 255 - Doh is G </i><br><br>
+
+1. Kibanza kya kera, Inywe b’Omwami,
+Momwahirwa ewenyu mo kinywa kiwe.
+Niki kinene akabugh’Omwami,
+Rikirirya ryenyu, Neryo rikanye.
+Rikrirya ryenyu, Neryo rikanye.<br><br>
+
+2. Wabwirwa soka maghestis w’ekiro
+Syonyusi syeritebya sisikanye.
+Ngandisyabya nawe ‘nakutokesya,
+‘Malighe owakasa, syakubahaye.
+Malighe owakasa, syakubahaye.<br><br>
+
+3. Ukandisyabala omo muliro,
+Nasyakuh’amaka inakuhemba.
+Suheribawe nikw’ebibi byawe,
+Syasyasighalira zahabu syawe.
+Syasyasighalira zahabu syawe.<br><br>
+
+4. N’omundu oyo wayiketera ngye,
+‘Maka w’eriherya syangamubahya.
+Na hake enzighu simukole ki!,
+Ni ngandisyamuteya omo malighe.
+Ni ngandisyamuteya omo malighe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUKAMA_MULISYA">168. MUKAMA MULISYA</string>
+    <string name="number168">
+	<htmlData><![CDATA[
+<b>168. MUKAMA MULISYA</b><br>
+<i>The Lord Is My Shepherd<br>
+CH 405 - Doh is G </i><br><br>
+
+1. Mukama Mulisya, Sinyiri nzama,
+Kanzondola mo bulisiryo bwaghe.
+Akanyipolesy’amaghetsi owene,
+Akanyisubulaya namatala.<br><br>
+
+2. Namalaba mo musya gh’oluholo,
+We Muteya waghe, singangubaha.
+Mutso wawe ‘niatok’erinyiteya,
+Wamanyihumulya sindibula ki.<br><br>
+
+3. N’omo bulighe, ‘wases’obutara,
+N’olutehi lwaghe loswire kundu.
+Wamabihakaby’omutw’amaghuta,
+Naghe nasyaswakubulya ki kwehi?<br><br>
+
+4. Neryo olukogho n’obubuya,
+Byanganyikwam’ebiro byosi.
+Naghe nasyikal’omo nyumba y’Omwami,
+Nahiko omo Bwami buwe b’olwanzo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MWIMAYE_OBWAMI">169. MWIMAYE OBWAMI</string>
+    <string name="number169">
+	<htmlData><![CDATA[
+<b>169. MWIMAYE OBWAMI</b><br>
+<i>Heir Of The Kingdom<br>
+CH 185 - Doh is Eb</i><br><br>
+
+1. Mwimaye Obwami kuki wayato,
+Hakuhi rilama ukayato.
+Ubuke, hangana, wambal’engabo,
+Yo luba kundu, ndambi yikalaba.<br><br>
+
+2. Mwimaye Obwami kuk’iwalinda?
+Kuki sulimaya ebihembo?
+ Neryo ambala Omulamy’akasa,
+ Ni luba mukokaye akahika.<br><br>
+
+3. Ebihanda binene by’ekihugho,
+Binemulwa n’erisangulana.
+Isighubaha byahika, mwasima,
+Ebiminyikalo byasyahika.<br><br>
+
+4. Samalira matseme w’ekihugho,
+Neryo ayo akalaba luba.
+Kundul’ebikoba bikubohire,
+Mwimaye Obwami, mwase luba.<br><br>
+
+5. Sumb’omutwe, ulebaye embere,
+Nyamuhang’asyasa n’erihenia.
+Ryuba rikabanika omo bitwa,
+Mwimaye Obwami n’obutseme<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUHANGIKI_MWAMI">170. MUHANGIKI MWAMI</string>
+    <string name="number170">
+	<htmlData><![CDATA[
+<b>170. MUHANGIKI MWAMI</b><br>
+<i>My Maker And My king<br>
+CH 71 - Doh is D </i><br><br>
+
+1. Muhangiki mwami, Bindu byosi byawe,
+Mon’omo bwenge bwawe inyinemutsumulwa,
+Mon’omo bwenge bwawe inyinemutsumulwa nawe.<br><br>
+
+2. Uwe wahangika, ngayiketera We,
+Neryo singangayipip’obwenge bwawe bungi,
+Neryo singangayipipa obwenge bwawe bungi.<br><br>
+
+3. Nasyakuha kyahi? Ebyosi ni byawe,
+Olwanz’ukanzondola mutima wa wasingya,
+Olwanz’ukanzondola mutima wa wasingya.<br><br>
+
+4. Unyih’olukogho, nyibye n’obutoki,
+Eribya ho kuwe, Mwami, biro byaghe ni We,
+Eribya ho kuwe, Mwami, ebiro byaghe ni We.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KWE_MUTEYA">171. KWE! MUTEYA</string>
+    <string name="number171">
+	<htmlData><![CDATA[
+<b>171. KWE! MUTEYA</b><br>
+<i>What of The Night?<br>
+CH 184 - Doh is D </i><br><br>
+
+1. Kwe! Muteya k’oluhimbo, L’omuyi we Sayuni,
+Emyatsi yiwe y’ekiro? Engyakya ni hakuhi,
+Haly’ebiminyikalo eby’erikya?
+Haly’ebiminyikalo eby’erikya?<br><br>
+
+2. Nery’omo lughendo lwetu, Twalebya eyisirya,
+Twaghotsera omo ngetsi, Kisokero sihali,
+Kundu, kundu, Twasyalol’oko Bwami,
+Kundu, kundu, Twasyalol’oko Bwami.<br><br>
+
+3. Twasyaleby’ekyakakala, Engununu y’engyakya,
+Mbuya yihenirye kundu, Yakolery’elubula,
+Mutsemer’ilama liri hakuhi,
+Mutsemer’ilama liri hakuhi.<br><br>
+
+4. Twasamalir’ekitsutsu, Eyisirya sihali,
+Tuy’ember’eyo yoluba, Twasyaleby’eyisirya,
+Mutseme mwimbe esyonyimbo syenyu,
+ Mutseme mwimbe esyonyimbo syenyu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MUBUKE_ABAGHOMBE">172. MUBUKE ABAGHOMBE</string>
+    <string name="number172">
+	<htmlData><![CDATA[
+<b>172. MUBUKE ABAGHOMBE</b><br>
+<i>How Long?<br>
+CH 354 - Doh is D</i><br><br>
+
+1. Mubuke abaghombe, Abandu b’Omwami,
+Muwaty’omo maboko, Engabo sya Yesu,
+Mo nzira y’erikinda, Twasondolwa na Yesu,
+Tubye n’omuhwa mungi, Imo twasyakinda.<br><br>
+
+2. Engubi syamabugha, Mwase imwe bosi,
+Embita y’obuyingo, Ni bihembo byenyu.
+Enzighu syamakala, Muhangane n’erilwa,
+Mubye n’omuhwa mungi, Mukinde Sitani.<br><br>
+
+3. Mubuke na muyalwe, Simutike-tike,
+Sihabye ukasiba, Tungerera Yesu,
+Muhek’ebyuma byenyu, By’amalwa : Rikirirya,
+Muhabwe erikinda, N’obutseme bungi.<br><br>
+
+4. Mubuke kuba luba, Muyakwe kutsibu,
+Mwikiriray’erina, Riwe mwasyakinda,
+Neryo ebyuma byosi, Mubih’Omwami Yesu,
+Mwasyaban’obuholo, Ob’omo lubula.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NGASONDA_ERIKIRIRYA">173. NGASONDA ERIKIRIRYA</string>
+    <string name="number173">
+	<htmlData><![CDATA[
+<b>173. NGASONDA ERIKIRIRYA</b><br>
+<i>O For A Faith<br>
+CH 245 - Doh is Bb</i><br><br>
+
+1. Ngasonda erikirirya, Rikirirya kundu,
+Rite mo ititimana, kindu kyosi,
+ Ndambi y’eryaghalwa,
+ Ndambi y’eryaghalwa.<br><br>
+
+2. Erite yitong’omwisusumana bulighe,
+Neryo mo mighulu yo mwagha,
+Inikirirya Nyamuhanga,
+Nikirirya Nyamuhanga.<br><br>
+
+3. Rikirirya ryakolerya, Neryo n’omo malwa,
+Siryeryubaha omwirimya,
+Kutse bulighe obw’enzala,
+Enzala n’eryaghalwa.<br><br>
+
+4. Syalyubaha ekihugho, Eriponwa mukyo,
+Syangatoghibwa mw’itebya, n’amabehi,
+Bibi n’eryubahya,
+Ebibi n’eryubahya.<br><br>
+
+5. Mwamy’umbe erikirirya, Nery’imo natoka,
+Erigherya muna kihugho kino,
+Erimya obutseme,
+Erimya obutseme.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OBUTSEME_BULI_OKO_BASYAYA_YO">174. OBUTSEME BULI OKO BASYAYA YO</string>
+    <string name="number174">
+	<htmlData><![CDATA[
+<b>174. OBUTSEME BULI OKO BASYAYA YO</b><br>
+<i>How Cheering!<br>
+CH 387 - Doh is E</i><br><br>
+
+1. Obutseme buli oko basyaya yo,
+Akine ho mwirimya wa hisi,
+Byamusikya, inakinda ritebya ry’enzighu,
+Byamusikya, inakinda ritebya ry’enzighu.<br><br>
+
+2. Ebyo byatwibukya by’obuluhukiro,
+Aho batunganene basyabya;
+Ibayibera n’Omwira obutaghabana,
+Ibayibera n’Omwira obutaghabana.<br><br>
+
+3. Ni kihugho kite banika mo bibi,
+N’eritebya kasiryehika yo.
+Ho hali obutseme butesyahwa na kera,
+Ho hali obutseme butesyahwa na kera.<br><br>
+
+4. Sihali oyo wasyabya akalira,
+Luholo silwesyahika yo,
+Esyondulani syaho basyabya ho na kera,
+Esyondulani syaho basyabya ho na kera.<br><br>
+
+5. Kyangatuha ndambi yangahika luba,
+Twalangir’Omulamya akasa,
+Akatutwala omo kihugho ekibuya,
+Akatutwala omo kihugho ekibuya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MULAMYA_KA_YO_MULISYA">175. MULAMYA KA YO MULISYA</string>
+    <string name="number175">
+	<htmlData><![CDATA[
+<b>175. MULAMYA KA YO MULISYA</b><br>
+<i>Saviour, Like A Shepherd<br>
+CH 394 - Doh is Eb </i><br><br>
+
+1. Mulamya ka yo Muslisya, Utusondele lino,
+Ututwale bulisiryo, Himba ndek’ekitunga.
+Mwami Yesu iyowene, Yukasondola ghuwe,
+Mwami Yesu iyowene, Yukasondola ghuwe.<br><br>
+
+2. Twe bana bawe ubye Omwira, uwe Muteya wetu,
+Buhyo bwawe teghaya bo, Situkole ebibi.
+Mwami Yesu towe lino, Twamasab’ibuyira,
+Mwami Yesu towe lino, Twamasab’ibuyira.<br><br>
+
+3. Wabiritulagha nikwa wasyaligha abandu,
+Wasyaghenyera bo, Eriha b’olukogho.
+Mwami Yesu tukwanzire, Ribya bawe kwenene,
+Mwami Yesu tukwanzire, Ribya bawe kwenene.<br>
+	]]></htmlData>
+</string>
+
+    <string name="RIKIRIRYA_RIRI">176. RIKIRIRYA RIRI </string>
+    <string name="number176">
+	<htmlData><![CDATA[
+<b>176. RIKIRIRYA RIRI</b><br>
+<i>Blessed Hope<br>
+CH 379 - Doh is F</i><br><br>
+
+1. Rikirirya riri, Ery’enzwer’enene,
+Kwilab’eritsema lyosi lya muna kihugho.<br><br>
+
+2. Syongununu mbuya sikakoleraya,
+Kw’itwe mughulu w’erihola w’erilubuka.<br><br>
+
+3. Twamaghalwa mo mweyo buba, bulighe,
+Mulenge akatubwira: Mwami abanzire.<br><br>
+
+4. Erilw’e Kalwari, mulengy’akabugha,
+Ngununu iyakolery’erikirirya ryetu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="SIHALI_MWIRIMYA">177. SIHALI MWIRIMYA</string>
+    <string name="number177">
+	<htmlData><![CDATA[
+<b>177. SIHALI MWIRIMYA</b><br>
+<i>No Night There<br>
+CH 558 - Doh is Eb</i><br><br>
+
+1. Mo Kihugho kibuya, Kiri m’omuyisa,
+Asyabya ho nakera, Sihali mwirimya.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Sihali erira, sihali n’oluholo,
+Biro sibyendisyibukwa, Sihali mwirimya.</i><br><br>
+
+2. N’esyonyusi ni lulu, Mo muyi mubuya,
+N’enzira ni zahabu, Sihali mwirimya.<br><br>
+
+3. N’omo muyi mubuya, Sihaly’erikinga,
+N’olusi olw’engebe, Lunemusenda ho.<br><br>
+
+4. Sihali sond’eryuba, Yesu yona ryuba,
+Yu kakoleray’ehosi, Sihali mwirimya.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MWAMI_BYASYABYA_KIRO_KI">178. MWAMI BYASYABYA KIRO KI?</string>
+    <string name="number178">
+	<htmlData><![CDATA[
+<b>178. MWAMI BYASYABYA KIRO KI?</b><br>
+<i>Christ Returneth<br>
+CH 536 - Doh is D </i><br><br>
+
+1. Eh mbino ni ndambi y’erisesukala,
+Maseghe w’eryub’iniahigh’omwirimya.
+Neryo akasyasa Yesu omw’ihenia,
+Akandisyakoky’abuwe.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Byasyabya kiro ki Mwami,
+Mughulu twasyimba:
+Anemwasa, Mwami Yesu,
+Aleluya, Amen, Aleluya, Amen.</i><br><br>
+
+2. Eh mbin’omw’itungi, eh mbin’omw’igholo,
+Eh bin’omo kati kanene, mwirimya,
+Asyahwa ho omw’ihenia, ery’asyasa;
+Akandisyakoky’abuwe.<br><br>
+
+3. Butseme twamahabwa obuta hola,
+Buta syasunga oko ndwala, misonia.
+Erisyatwalw’omo bitu omw’ihenia;
+Akandisyasy’oko buwe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMUKWI_AMASA">179. OMUKWI AMASA</string>
+    <string name="number179">
+	<htmlData><![CDATA[
+<b>179. OMUKWI AMASA</b><br>
+<i>Behold, The Bridgegroom<br>
+C.S. 868 - Doh is A</i><br><br>
+
+1. Wasyabya unemuteya Yesu, Asyasya,
+Wasyabya unemuteya Yesu, Asyasya,
+Lebay’akasa, Lebay’akasa,
+Uteghaye lebay’anemwasa<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Masa, Omukwi amasa,amasa,
+Masa, Omukwi amasa, amasa,
+Masa, amasa, masa, Amasa,
+Uteghaye mas’Omwukwi masa.</i><br><br>
+
+2. Mukokotay’esisek’amasa, amasa,
+ Mukokotay’esisek’amasa, amasa,
+ Amasa, amasa, masa, amasa,
+ Uteghaye mas’Omwukwi masa.<br><br>
+
+3. Mwase tuhindane nay’amasa, amasa,
+Mwase tuhindane nay’amasa, amasa,
+Amasa kundu, amasa kundu,
+Uteghaye mas’Omwukwi masa.<br><br>
+
+4. Tumwimbire Aleluy’amasa, amasa,
+Tumwimbire Aleluy’amasa, amasa,
+Amasa kundu, amasa kundu,
+Tumwimbire Aleluy’amasa<br>
+	]]></htmlData>
+</string>
+
+    <string name="SITWASYEKIRO">180. SITWASY’EKIRO</string>
+    <string name="number180">
+	<htmlData><![CDATA[
+<b>180. SITWASY’EKIRO</b><br>
+<i>We Kow Not The Hour<br>
+CH 540 - Doh is C </i><br><br>
+
+1. Sitwasy’ekiro, Yesu akandisyasa,
+Nikw’omughulu ali hakuhi kundu.
+Biminyikalo byabirihik’ebyosi
+N’ekiro tutasi.<br><br>
+
+<i><b>Erisuba mo :</b><br>  Asyasa, tulinde tuteghaye,
+Asyasa, Aleluya, Aleluya,
+Asyasy’oko bitu, N’erihenia ery’Ise
+N’ekiro tutasi.</i><br><br>
+
+2. Atunganania, Ekitabu ky’obwami,
+Bakaminyira omo eby’ekwenene
+Eryasa riwe, omo Baminyereri,
+N’ekiro tutatsi.<br><br>
+
+3. Luseke lwetu, siluhumber’eryaka;
+Tukole lino, tulindiriry’Omwami.
+Tumupipire situbye ne eryumbya,
+N’ekiro tutasi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWAMULINDA">181. TWAMULINDA</string>
+    <string name="number181">
+	<htmlData><![CDATA[
+<b>181. TWAMULINDA</b><br>
+<i>Wainting And Watching<br>
+CH 542 - Doh is Eb </i><br><br>
+
+1. Sinyasi endambi asyasa, Mwitungu kutsy’omw’igholo,
+Mbino ndambi ey’erigholo, Mbinw’eryuba ryahuluka.
+Akatubwira tuteghaye, Twakay’esiseke syetu,
+Neryo amasa atwegheye, Tubye itukamulinda.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Twamulinda ne (Riteya, tukakulinda uwe),
+Twamulinda ne (Riteya, tukakulinda),
+Twamulinda ne (Riteya, tukakulinda uwe),
+Twateya itwamulinda.</i><br><br>
+
+2. Namibuk’olukogho luwe, Nzwere y’erilama lyetu,
+Mwasigha n’enyumba nyibuya, Asy’aholere ababi.
+Nyasi ko byasyamutsemesya, Neryo ng’itwe bandu buwe,
+Twamakangany’olwanzo lwetu, Tuby’itunamulindire.<br><br>
+
+3. Yesu Mulamya Ekitagha, We wasi ko ngateghaya ;
+Erikulola ko lyowene, N’erisyakokibwa nawe.
+Wasa oko bandi abandu, Neryo ng’Omutsweri wabo,
+ Kwingye wasyabya Omwir’oyo, Nateya n’erikulinda.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWALANGIRAMASALALI">182. TWALANGIR’AMASALALI</string>
+    <string name="number182">
+	<htmlData><![CDATA[
+<b>182. TWALANGIR’AMASALALI</b><br>
+<i>Gleams Of The Golden Morning<br>
+CH 547 - Doh is G </i><br><br>
+
+1. Twamabihik’oko mughulu w’eryasa rya Yesu,
+Akasyahek’abandu buw’omo nyumba y’endata.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Twalangir’amasalali w’eryuba
+Akahigh’omwirimya;
+Twalangir’amasalali w’eryuba
+N’erilubuka.</i><br><br>
+
+2. Haghuma n’abalaika buwe, Mwami asyasa,
+Akandisyatwal’Ababuyirire, Butahola.<br><br>
+
+3. Engulu inemutulw’ehosi, Oko bihanda;
+Omwami w’obuheruky’amasa, n’Engubi yiwe.<br><br>
+
+4. Abanze abaghabana kera, Basyahindana;
+Misonia yabo ab’obulighe, Yasyasangulwa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MWATSI_MUBUYA">183. MWATSI MUBUYA</string>
+    <string name="number183">
+	<htmlData><![CDATA[
+<b>183. MWATSI MUBUYA</b><br>
+<i>Hold Fast Till I Come<br>
+CH 548 - Doh is G </i><br><br>
+
+1. Mwatsi mubuya, Oko babuya,
+Lebaya ngandisya luba kundu;
+Ubye embangi, omo butseme,
+Wasyahabwa akakira katehwa.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Uteghay’erikirirya ryawe,
+Ekihugho kihya ikyasasya,
+Wase wingire omo butseme,
+Wasyahabwa akakira katehwa.</i><br><br>
+
+2. Twasyateya itunemusaba,
+Akasyasa ng’omurahy’oko bandi;
+Tunasi Ye ngo kwali hakuhi,
+Nikwa sitwasy’ekiro nga ni kyahi.</i><br><br>
+
+3. Tukayiketer’Ekinywa kiwe,
+Neryo kyo kikabugh’eryasa riwe;
+Rikirirya ryetu y’endaghane,
+Ko ngasyasa luba: Ubye Embangi.<br>
+	]]></htmlData>
+</string>
+
+    <string name="BUTSEME_OKO_KIHUGHO">184. BUTSEME OKO KIHUGHO</string>
+    <string name="number184">
+	<htmlData><![CDATA[
+<b>184. BUTSEME OKO KIHUGHO</b><br>
+<i>Joy To The World<br>
+CH 189 - Doh is D </i><br><br>
+
+1. Butseme oko kihugho, Yesu akasyasa,
+Buli mweyo mwangirire, byabumbawa byosi bimbe.
+Byabumbawa bimbe, Byabumbawa bimbe,
+Byosi bimbe, Byabumbawa byosi bimbe.<br><br>
+
+2. N’Omwami asyatabala, Bandu neryo bimbe,
+Miti n’ebitwa n’amabwe, Mwimbire butseme bungi.
+Mwimbire butseme, Mwimbire butseme,
+Mwimbire Omwami n’obutseme bungi.<br><br>
+
+3. Akasyatabala ndeke, Akasyatuhana,
+Bandu bubuya buwe, Lwanzo lw’eriswekera kundu.
+Olwanzo lw’eriswekya, Olwanzo lw’eriswekya,
+Olwanzo lw’eriswekya, lwanzo luwe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="RIBYA_YO_BYASYATUHA_KI">185. RIBYA YO BYASYATUHA KI?</string>
+    <string name="number185">
+	<htmlData><![CDATA[
+<b>185. RIBYA YO BYASYATUHA KI?</b><br>
+<i>To Be There<br>
+CH 199 - Doh is G </i><br><br>
+
+1. Nikwa ko tukanabugha, Eby’ekihugho kibuya,
+Tukole bibuya byaho; Ribya yo ryasatuha ki?
+Tukahul’enzira ya ho, Sihakabir’ezahabu,
+Neryo twamuzunzikania, twahika yo twasyabya ho.<br><br>
+
+2. Twabugha ko hasosire, Hat’ebibi n’oluholo,
+Kutse ritebya siriri, Twahika yo twasyabya ho.
+Tukabugha n’eby’olwanzo, N’esyokanzu syasyambalwa,
+Tukatsemera byo kundu, Ribya yo ryasatuha ki?<br><br>
+
+3. Nyitimbirwe ko n’ebibi, Ndungananay’eriya yo ;
+Neryo naghe nyiyowe mo, erisyabya yo kwenene.
+Neryo twasyalendera omo kihugho ky’obutseme,
+Haghuma n’Abalaika, na Yesu Mulamya wetu.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TWASUBWIRE_ERIKULAKIRA">186. TWASUBWIRE ERIKULAKIRA</string>
+    <string name="number186">
+	<htmlData><![CDATA[
+<b>186. TWASUBWIRE ERIKULAKIRA</b><br>
+<i>Lord, We Have Met<br>
+CH 26 - Doh is F </i><br><br>
+
+1. Tata Mwenge twasubwire, erkulakira,
+Twamayikehya kundu, twayolobeka;
+Twitsutse eribuyirwa.<br><br>
+
+2. Twamasa erikusima, Kowa watuteya kundu,
+Ubye ukatwibuka watutsumula;
+Iwasubuly’ah’uli.<br><br>
+
+3. Ayi, twabere bahanya, Tuly’ab’erighanwa kundu,
+Neryo tukakita oko nzira yawe ;
+Neryo lino twamaswasa.<br><br>
+
+4. Mwami w’emiyisa yosi, Ni nawe ukahitaya,
+Lebaya mo lukogho, Twamakughonga;
+Tusule n’Ekinywa kyawe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KANDI_MULAMYA">187. KANDI MULAMYA</string>
+    <string name="number187">
+<htmlData><![CDATA[
+<b>187. KANDI MULAMYA</b><br>
+<i>Our Parting Hymn<br>
+CH 34 - Doh is Ab </i><br><br>
+
+1. Kandi Mulamya tukakupipa,
+Erina ryawe ka ni ribuya!
+Tukalind’Ekinywa ky’obuholo,
+N’omughulu tukasuba eka.<br><br>
+
+2. Tuhy’obuholo m’onzira yetu,
+Utuby’embere n’enyuma wetu!
+Uteghay’eminywa oko bibi,
+Itwakupipa n’erikukenga.<br><br>
+
+3. Tuhy’obuholo mo kiro eki!
+Kyakakala kihigh’omwirimya!
+Utulinde tubye bawe Yesu,
+N’ekiro kibye ngomo ritungi.<br><br>
+
+4. Tuhy’obuholo omo kihugho,
+Tuwatikaye omo bulighe.
+Neryo twitab’omulenge wawe,
+Tuhy’obuholo obw’erikota.<br>
+	]]></htmlData>
+</string>
+
+    <string name="NIKWA_NABYA_NEBIBI">188. NIKWA NABYA N’EBIBI </string>
+    <string name="number188">
+	<htmlData><![CDATA[
+<b>188. NIKWA NABYA N’EBIBI</b><br>
+<i<Chief of Sinners<br>
+CH 238 - Doh is Ab</i><br><br>
+
+1. Nikwa nabya n’ebibi, Yesu mwanyitongolya,
+Mwanyutir’omusasi, Mwangul’omo luholo,
+Nasyabya naye kera, Ng’omutahi n’momuti. <br><br>
+
+2. Ighenyera rya Yesu, Ryusulaya ekyanya,
+Siryangalengwa ko ki, Ryasyabya ho na kera;
+Niwe wanyibwira ryo, Ngye sinabya nyasi ryo.<br><br>
+
+3. Nikwa nabya n’ebibi, Yesu ‘labire byosi,
+Anasy’obwera bwaghe, Andamy’omo malighe;
+Ndi omukobe wuwe, Sindyedi syaghalirwa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="SITULI_NOMUYI_OMO_KIHUGHO">189. SITULI N’OMUYI OMO KIHUGHO </string>
+    <string name="number189">
+	<htmlData><![CDATA[
+<b>189. SITULI N’OMUYI OMO KIHUGHO</b><br>
+<i>No Abiding City Here<br>
+CH 308 - Doh is G </i><br><br>
+
+1. Situli n’omuy’omo kihugho,
+Tuli mukyo tuli abaghendi.
+Nikw’ekyo tukatsemera,
+Neryo tukasond’omuyi,
+Alabire obubuya.<br><br>
+
+2. Situli n’omuy’omo kihugho,
+Tukaya ewetu elubula.
+Ye Sayuni itula ho,
+Muli kyakakala kundu,
+Kikakoleraya ndeke.<br><br>
+
+3. Neryo tukadisyatsemera yo,
+Ahw’abaghendi basyaluhuka.
+Kyangamb’ebipupa lino,
+Ngaghuluka ngasyaya yo,
+Ngayibera nawe Mwami.<br><br>
+
+4. Mutima waghe lek’erighanya,
+Lebay’endambi Mwami ambere.
+Nyo nyibuya, yo nyibuya,
+Naghe inayiketera,
+Rihik’okw’ibirikirwa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="ERINA_RYA_YESU">190. ERINA RYA YESU </string>
+    <string name="number190">
+	<htmlData><![CDATA[
+<b>190. ERINA RYA YESU</b><br>
+<i>Precious Name of Jesus<br>
+CH 523 - Doh is Ab </i><br><br>
+
+1. Yesu ni Mwami w’abami, Oyo abiritwanza,
+Twamaby’itwamikirirya, Tukandilama lino.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Erina rya Yesu, Erina ly’Omulamya,
+Tumwanzi, biro byosi,
+Ni Mwami Mwenge wetu.</i><br><br>
+
+2. Tuyire erina riwe, Mw’inene biro byosi,
+Ni erina ly’erilamya, Kumbe wamikirirya.<br><br>
+
+3. Usaby’oko rina riwe, Wamabya n’obulighe;
+Akandikuh’obutseme, N’akaghala kanene.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_MULAMYA_WEKWENENE">191. YESU MULAMYA W’EKWENENE </string>
+    <string name="number191">
+	<htmlData><![CDATA[
+<b>191. YESU MULAMYA W’EKWENENE</b><br>
+<i>Blessed Assurance<br>
+CH 608 - Doh is D </i><br><br>
+
+1. Yesu Mulamya w’ekwenene,
+Akamb’obutseme n’obuholo,
+Nyihabaw’erilama riwe,
+Nyeribw’omo musasi wuwe.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Omwatsi oyo lwimbo lwaghe,
+Biro byosi nasyamupipa.
+Omwatsi oyo lwimbo lwaghe,
+Biro byosi nasyamupipa.</i><br><br>
+
+2. Namayiteka inatsema
+N’omw’ikirirya ngasung’Omwami.
+Akandetera Malaika,
+Bakanyiteya andamaye.<br><br>
+
+3. Sindi n’ekindu akandwala,
+Mwisi wa Yesu inatsumulwa;
+Ngalindirira omw’isika,
+Bwenge buwe bunyitolere.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MO_MUSALABA_GHOMULAMYA">192. MO MUSALABA GH’OMULAMYA </string>
+    <string name="number192">
+	<htmlData><![CDATA[
+<b>192. MO MUSALABA GH’OMULAMYA</b><br>
+<i>Glory To His Name<br>
+C.S. 300 - Doh is Ab</i><br><br>
+
+1. Mo musalaba gh’Omulamya,
+Aho honasab’erilama,
+Mutima waghe kamweribwa,
+Na apipawe.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Na apipawe, Na apipawe.
+Kwamwanyilamy’omo musasi
+Na apipawe.</i><br><br>
+
+2. Ko Musalaba w’eryaghalwa,
+Yesu ane omo mutima.
+Kamwanyilamy’omo musasi,
+Na apipawe.<br><br>
+
+3. Nyitsemire namabilama,
+Mwisi wa Yesu inatsumulwa;
+N’oko muti mwanyiholera,
+Na apipawe.<br><br>
+
+4. Yesu kalamya mo musasi,
+Anyilusaya omo bibi,
+N’erinyitwala omw’ilama
+N’oko muti mwanyiholera,
+Na apipawe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="ERIBYA_WA_YESU">193. ERIBYA WA YESU </string>
+    <string name="number193">
+	<htmlData><![CDATA[
+<b>193. ERIBYA WA YESU</b><br>
+<i>His Way With Thee<br>
+C.S. 58 - Doh is G </i><br><br>
+
+1. Eribya wa Yesu kwehi ni sonda ryawe,
+Wangaghenda naye mo nzira enge,
+Ukasonda iwahek’omuheke wawe?
+Abye Omusondoli.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Butoki buwe bukutolere.
+Musasi wuwe iniasyakwera,
+Ikw’ebyo iwaligha byowene
+Akol’erisonda liwe nawe.</i><br><br>
+
+2. Ukasond’iwitaba wabirikirwa ko?
+Waban’obuholo wamuh’ebyosi?
+Wasond’obutoko isibakeha lino?
+Abye Omusondoli.<br><br>
+
+3. Ukasond’obutseme omo Bwami buwe?
+Wangakinda omw’irengwa ko ryosi?
+Wangakola omubiri wuwe gho ndeke?
+Abye Omusondoli.<br>
+	]]></htmlData>
+</string>
+
+    <string name="HAMABYA_OLWANZO">194. HAMABYA OLWANZO </string>
+    <string name="number194">
+	<htmlData><![CDATA[
+<b>194. HAMABYA OLWANZO</b><br>
+<i>Love At Home<br>
+C.S. 580 - Doh is Ab</i><br><br>
+
+1. Bindu byosi byowene, Hamaby’olwanzo,
+N’omulenge mubuya, Hamaby’olwanzo.
+Hali buholo aho, N’obutsem’omo nyumba,
+N’eribya ho ribuya,  Hamaby’olwanzo.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+Hamabya Olwanzo,
+Biro byosi buholo;
+Hamaby’olwanzo.</i><br><br>
+
+2. Butseme omo nyumba, Hamaby’olwanzo,
+Sihali eritsuro, Hamaby’olwanzo.
+Akalyo kakasiha, N’amalim’iniuwana,
+N’eribya ho ribuya,  Hamaby’olwanzo.<br><br>
+
+3. N’omo lubul’endata, Hali butseme,
+Bamalangir’olwanzi, Mo nyumba yetu.
+Meso akatsema n’ebihangikwa by’Omwami,
+Nyamuhang’inalenya, Hamaby’olwanzo.<br><br>
+
+4. Uwe Yesu mbye wawe, Wawe kwenene,
+ Neryo imo hasyabya, Lwanzo mo nyumba.
+ Nasikala buholo, Indasyakol’ebibi,
+ Nasyatsumulwa kundu, Hamaby’olwanzo.<br>
+	]]></htmlData>
+</string>
+
+    <string name="TUHE_OMULIRO_WERIBYA_HO">195. TUHE OMULIRO W’ERIBYA HO </string>
+    <string name="number195">
+	<htmlData><![CDATA[
+<b>195. TUHE OMULIRO W’ERIBYA HO</b><br>
+<i>O For That Flame<br>
+CH 210 - Doh is Bb </i><br><br>
+
+1. Tuhe omuliro wawe, W’eribya ho waka kera,
+Mowasondola endate, Ababuyirira bawe.<br><br>
+
+2. Habo mwey’ow’abikere, Mo mweyo wa Ibrahimu,
+Kandi Mulikyetu Paulo, Atokesibwa Muliro.<br><br>
+
+3. Lukogho lwawe siluli, N’amaka ebiro bino?
+ Ng’omughulu owa Musa, Ayubu n’owa Eliya?<br><br>
+
+4. Mughulu wa kera Mwami, Wibuke n’omw’ighenyera,
+ Bukay’emitima yetu, Mo Muka Abuyirire.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MULI_KAGHALA_OMO_MUSASI">196. MULI KAGHALA OMO MUSASI </string>
+    <string name="number196">
+	<htmlData><![CDATA[
+<b>196. MULI KAGHALA OMO MUSASI</b><br>
+<i>There Is Power In The Blood<br>
+C.S. 27 - Doh is Bb </i><br><br>
+
+1. Nikw’ukasond’erikind’ebibi, Kiriry’omusasi wa Yesu,
+Nikw’ukasond’eky’erikinda mo, Gh’omusasi gh’Omulamya.<br><br>
+
+<i><b>Erisuba mo :</b><br>
+ S-A :Muli kaghal’omo musasi,<br>
+ \t\t We Kyana ky’Embuli,<br>
+ \t\t Muli kaghal’omo musasi,<br>
+ \t\t Gh’Omwana wa Nyamuhanga.<br><br>
+
+T-B :Kundu muli kaghala mo musasi,<br>
+\t\t We Kyana ky’Embuli,<br>
+\t\t Kundu muli kaghala mo musasi,<br>
+\t\t Gh’Omwana</i><br><br>
+
+2. Ukasonda neryo iweribwa, Kiriry’omusasi wa Yesu,
+Wase mweghay’oko musalaba, Akweray’omo musasi.<br><br>
+
+3. Neryo ukasonda iwahenia, Kiriry’omusasi wa Yesu,
+Angakwery’ebitingu by’ebibi, Gh’omusasi gh’Omulamya.<br><br>
+
+4. Ukasond’erikolera Yesu, Kiriry’omusasy’akalamya,
+Ukasonda waby’ukamupipa, Kiriry’omusasi Wuwe.<br>
+	]]></htmlData>
+</string>
+
+    <string name="KIRO_YESU_ASYASA">197. KIRO YESU ASYASA</string>
+    <string name="number197">
+	<htmlData><![CDATA[
+<b>197. KIRO YESU ASYASA</b><br>
+<i>There’ll Be No Dark valley<br>
+C.S. 854 - Doh is F </i><br><br>
+
+1. Butseme, ritsema, twasyahabwa,
+Butseme, ritsema, twasyahabwa,
+Butseme, ritsema, twasyahabwa,
+Kiro Yesu asyasa.<br><br>
+
+ <i><b>Erisuba mo :</b><br>
+ Kiro Yesu asyasa (Asa),
+ Kiro Yesu asyasa (Asa) ,
+ Butseme, ritsema, twasyahabwa,
+ Kiro Yesu asyasa.</i><br><br>
+
+2. Twasyimb’esyonyimbo sy’obutseme,
+Twasyimb’esyonyimbo sy’obutseme,
+Twasyimb’esyonyimbo sy’obutseme,
+Kiro Yesu asyasa.<br><br>
+
+3. Sihali misonia asyabyasa,
+Sihali misonia asyabyasa,
+Sihali misonia asyabyasa,
+Kiro Yesu asyasa.<br><br>
+
+4. N’eryaghalwa ryosi ryasahwa ho,
+N’eryaghalwa ryosi ryasahwa ho,
+N’eryaghalwa ryosi ryasahwa ho,
+Kiro Yesu asyasa.<br>
+	]]></htmlData>
+</string>
+
+    <string name="YESU_YOMWIRA_ULABIRE">198. YESU Y’OMWIRA ULABIRE </string>
+    <string name="number198">
+	<htmlData><![CDATA[
+<b>198. YESU Y’OMWIRA ULABIRE</b><br>
+<i>The Best Friend Is Jesus<br>
+CH 528 - Doh is G </i><br><br>
+
+1. Yesu y’Omwira ulabire, Amalighe akwaghalya,
+Yukaseng’ebironda, by’omo mutima wawe,
+Yesu y’Omwira ulabire.<br><br>
+
+ <i><b>Erisuba mo :</b><br>
+ Yesu’Mwira ulabire (Alabire),
+ Yesu’Mwira ulabire (Alabire),
+ Wamaw’iniakulamya, Walak’iniakowa,
+ Yesu y’Omwira ulabire.</i><br><br>
+
+2. Ngeghay’Omwira ulabire, Syalingung’omo malighe,
+Nyireke anzodole, Sihali Eryubaha,
+Yesu y’Omwira ulabire.<br><br>
+
+3. Nery’obulighe bwamahika, Ibwandetera eryubaha,
+Sinzwek’omo mutima, Nikwa ambanganire,
+Yesu y’Omwira ulabire.<br><br>
+
+4. Twasyabya twahik’elubula, Twahindana n’abo twasigha,
+Wasingya wasyabugha, Tukamupipa Iye,
+Yesu y’Omwira ulabire.<br>
+	]]></htmlData>
+</string>
+
+    <string name="MWAMI_APIPAWE">199. MWAMI APIPAWE </string>
+    <string name="number199">
+	<htmlData><![CDATA[
+<b>199. MWAMI APIPAWE</b><br>
+<i>To God Be The Glory<br>
+CH 647 - Doh is Ab</i><br><br>
+
+1. Mwami apipaw’omo myatsi yosi,
+Olwanzo luwe ka mwatuma Yesu.
+Ka mwayiteka eribya ho liwe,
+Tubye neyo engebe y’erikota.<br><br>
+
+ <i><b>Erisuba mo :</b><br>
+ Mupipe, mupipe, Ekihugho kyosi
+ Mupipe, mupipe, Abandu batseme
+ Na wase ku Tata, Ku Yesu Mwana
+ Iwasyamup’omo myatsi yosi.</i><br><br>
+
+2. Rilama ryoswire, Bihembo byetu,
+Ngaghane y’Omwami oko kihugho.
+Abakamwikiriraya kwenene;
+Abo bobawite eribuyirwa.<br><br>
+
+3. Mwatukangirirya myatsi minene,
+Abiritubwir’erilama ryetu,
+Neryo eky’eriswekera kinene,
+Yesu akasyas’itwamulola ko.<br>
+	]]></htmlData>
+</string>
+
+    <string name="OMUBUYIRIRE_MWAMI_MUTOKI">200. OMUBUYIRIRE, MWAMI MUTOKI </string>
+    <string name="number200">
+	<htmlData><![CDATA[
+<b>200. OMUBUYIRIRE, MWAMI MUTOKI</b><br>
+<i>Holy, Holy, Holy<br>
+CH 73 - Doh is E </i><br><br>
+
+1. Omubuyirire, Mwami Mutoki,
+Mo ngyakyakya, twasyapip’itunemwimba.
+Omubuyirire, Mwami gh’olukogho,
+Mwami w’ebyosi, Kera na kera.<br><br>
+
+2. Omubuyirire, N’Abalaika,
+Bangi kundu banemukusaba abosi.
+Kighonye n’ebighonye, banemukusaba,
+Oyutula na kera na kera.<br><br>
+
+3. Omubuyirire, Yukalamaya,
+Omwirimya syalikubis’ekindu kyosi.
+Omubuyirire, Uwu wene kundu,
+Uli n’amaka mangi n’olwanzo.<br>
+	]]></htmlData>
+</string>
+    <string name="thanks">
+        <htmlData><![CDATA[
+        MZEE LUVATSUNGANA DIEUDONNE . KAVUHO MUNYOMI OPRAH . Dr OSEE MASIVI . MICHAEL JAZZIRY . GLOIRE NDUNGO VAGHENI . OSEE KAMBALE KYAVU . TRESOR NZALAMINGI . GIDEON MAHILI . VERDA MBAVULIKIRA . GUY KALETU . WILSON MUHASA . VENAH KISUNZU . HON. NZANGI BUTONDO . DANIEL MUTHAVALY . BIENFAIT KAVATSI . Dr NATHANIEL MUMBERE WALEMBA . FISTON SAHIKA . MAPENDO SIVIHWA . Dr MUNAKENYA . PASCANET STUDIOZ . ISAAC MWENDAMBIYO<br> -0-<br>
+
+        ]]></htmlData>
+    </string>
+    <string name="eritsuka">Eritsuka</string>
+    <string name="pause_button">Pause Button</string>
+    <string name="esyonyimbo_sya_kristo">Esyonyimbo Sya Kristo</string>
+    <string name="profile">profile</string>
+    <string name="esya_nzirwe">esya_nzirwe</string>
+    <string name="ebyosi">EBYOSI</string>
+    <string name="esyanzirwe">Esyanzirwe</string>
+    <string name="esyongulu">Esyongulu</string>
+    <string name="erilwamo">Erilwamo</string>
+    <string name="play_button">Play Button</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
